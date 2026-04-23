@@ -14,6 +14,19 @@ const CATEGORIES = [
   'Financial Regulations',
 ] as const;
 
+const categoryNames: Record<string, string> = {
+  'Life Planning': 'ライフプランニング',
+  'Financial Products': '金融商品',
+  'Insurance': '保険',
+  'Tax': '税金',
+  'Real Estate': '不動産',
+  'Inheritance': '相続',
+  'Pension & Social Security': '年金・社会保障',
+  'Risk Management': 'リスク管理',
+  'External Economics': '外部経済',
+  'Financial Regulations': '金融法規',
+};
+
 type Mode = 'drill' | 'exam' | 'review';
 
 interface AnswerRecord {
@@ -161,9 +174,11 @@ export default function Quiz() {
   const getCategoryCount = (cat: string) =>
     questions.filter((q: Question) => q.category === cat).length;
 
+  const catLabel = (cat: string) => categoryNames[cat] || cat;
+
   if (questions.length === 0) {
     return (
-      <div className="text-text-secondary text-center py-20">Loading questions...</div>
+      <div className="text-text-secondary text-center py-20">問題を読み込み中...</div>
     );
   }
 
@@ -175,18 +190,18 @@ export default function Quiz() {
     return (
       <div className="space-y-6">
         <div className="bg-bg-card rounded-xl p-6 text-center">
-          <h2 className="text-2xl font-bold mb-4">Quiz Complete</h2>
+          <h2 className="text-2xl font-bold mb-4">問題集完了</h2>
           <div className="text-5xl font-bold text-accent mb-2">{pct}%</div>
           <p className="text-text-secondary">
-            {correctCount} / {total} correct
+            {correctCount} / {total} 正解
           </p>
-          {pct >= 80 && <p className="text-correct mt-2 font-medium">Excellent!</p>}
-          {pct >= 60 && pct < 80 && <p className="text-yellow-500 mt-2 font-medium">Good - keep practicing!</p>}
-          {pct < 60 && <p className="text-incorrect mt-2 font-medium">Needs more study. Try the wrong questions review.</p>}
+          {pct >= 80 && <p className="text-correct mt-2 font-medium">素晴らしい!</p>}
+          {pct >= 60 && pct < 80 && <p className="text-yellow-500 mt-2 font-medium">良い調子! 続けて練習しましょう。</p>}
+          {pct < 60 && <p className="text-incorrect mt-2 font-medium">もう少し勉強が必要です。不正解の復習をしましょう。</p>}
         </div>
 
         <div className="space-y-2">
-          <h3 className="font-medium text-text-primary">Wrong Answers</h3>
+          <h3 className="font-medium text-text-primary">不正解の問題</h3>
           {results
             .filter(r => !r.correct)
             .map((r, i) => {
@@ -199,9 +214,9 @@ export default function Quiz() {
                     {q.question.slice(0, 80)}...
                   </summary>
                   <div className="mt-2 text-sm text-text-secondary space-y-1">
-                    <p className="text-incorrect">Your answer: {q.options[r.selected].text}</p>
+                    <p className="text-incorrect">あなたの回答: {q.options[r.selected].text}</p>
                     <p className="text-correct">
-                      Correct: {correctOpt ? correctOpt.text : 'N/A'}
+                      正解: {correctOpt ? correctOpt.text : 'N/A'}
                     </p>
                     <p className="text-text-muted mt-1">{q.explanation}</p>
                   </div>
@@ -209,7 +224,7 @@ export default function Quiz() {
               );
             })}
           {results.filter(r => !r.correct).length === 0 && (
-            <p className="text-text-secondary text-sm">Perfect score!</p>
+            <p className="text-text-secondary text-sm">全問正解!</p>
           )}
         </div>
 
@@ -217,7 +232,7 @@ export default function Quiz() {
           onClick={exitQuiz}
           className="w-full py-3 bg-accent hover:bg-accent-hover text-white rounded-lg font-medium transition-colors"
         >
-          Back to Setup
+          設定に戻る
         </button>
       </div>
     );
@@ -229,7 +244,7 @@ export default function Quiz() {
       <div className="space-y-6">
         <div className="flex items-center justify-between">
           <button onClick={exitQuiz} className="text-text-secondary hover:text-text-primary text-sm">
-            Exit
+            終了
           </button>
           <span className="text-text-secondary text-sm">
             {currentIdx + 1} / {totalCount}
@@ -245,7 +260,7 @@ export default function Quiz() {
 
         <div className="bg-bg-card rounded-xl p-5 space-y-4">
           <span className="text-xs font-medium text-accent bg-accent/10 px-2 py-1 rounded">
-            {currentQuestion.category}
+            {catLabel(currentQuestion.category)}
           </span>
           <h2 className="text-lg font-medium leading-relaxed">{currentQuestion.question}</h2>
         </div>
@@ -280,7 +295,7 @@ export default function Quiz() {
 
         {showExplanation && (
           <div className="bg-bg-tertiary rounded-lg p-4 text-sm text-text-secondary">
-            <p className="font-medium text-text-primary mb-1">Explanation</p>
+            <p className="font-medium text-text-primary mb-1">解説</p>
             {currentQuestion.explanation}
           </div>
         )}
@@ -290,7 +305,7 @@ export default function Quiz() {
             onClick={nextQuestion}
             className="w-full py-3 bg-accent hover:bg-accent-hover text-white rounded-lg font-medium transition-colors"
           >
-            {currentIdx + 1 >= totalCount ? 'See Results' : 'Next Question'}
+            {currentIdx + 1 >= totalCount ? '結果を見る' : '次の問題'}
           </button>
         )}
       </div>
@@ -305,20 +320,20 @@ export default function Quiz() {
   return (
     <div className="space-y-6">
       <div className="bg-bg-card rounded-xl p-5">
-        <h2 className="text-lg font-bold mb-1">Quiz Setup</h2>
+        <h2 className="text-lg font-bold mb-1">問題集設定</h2>
         <p className="text-text-secondary text-sm">
-          Select categories and quiz mode. {questions.length} questions available.
+          カテゴリとモードを選択してください。{questions.length} 問あります。
         </p>
       </div>
 
       <div className="bg-bg-card rounded-xl p-5 space-y-3">
         <div className="flex items-center justify-between">
-          <h3 className="font-medium">Categories</h3>
+          <h3 className="font-medium">カテゴリ</h3>
           <button
             onClick={selectAll}
             className="text-accent text-sm hover:underline"
           >
-            {selectedCategories.size === CATEGORIES.length ? 'Deselect All' : 'Select All'}
+            {selectedCategories.size === CATEGORIES.length ? '全て解除' : '全て選択'}
           </button>
         </div>
         <div className="flex flex-wrap gap-2">
@@ -332,7 +347,7 @@ export default function Quiz() {
                   : 'bg-bg-tertiary border-border text-text-secondary hover:border-text-muted'
               }`}
             >
-              {cat} ({getCategoryCount(cat)})
+              {catLabel(cat)} ({getCategoryCount(cat)})
             </button>
           ))}
         </div>
@@ -343,23 +358,23 @@ export default function Quiz() {
           onClick={() => startQuiz('drill')}
           className="bg-bg-card hover:bg-bg-tertiary p-4 rounded-xl text-left border border-border transition-colors"
         >
-          <div className="font-medium text-accent">Drill Mode</div>
+          <div className="font-medium text-accent">ドリルモード</div>
           <div className="text-text-secondary text-sm mt-1">
-            Practice all questions randomly. No time limit.
+            全問題をランダムに練習。時間制限なし。
           </div>
-          <div className="text-text-muted text-xs mt-1">{poolSize} questions</div>
+          <div className="text-text-muted text-xs mt-1">{poolSize} 問</div>
         </button>
 
         <button
           onClick={() => startQuiz('exam')}
           className="bg-bg-card hover:bg-bg-tertiary p-4 rounded-xl text-left border border-border transition-colors"
         >
-          <div className="font-medium text-accent">Exam Mode</div>
+          <div className="font-medium text-accent">模擬試験</div>
           <div className="text-text-secondary text-sm mt-1">
-            50 random questions. Simulates the real exam format.
+            ランダム50問。本番形式をシミュレート。
           </div>
           <div className="text-text-muted text-xs mt-1">
-            {Math.min(50, poolSize)} questions selected
+            {Math.min(50, poolSize)} 問を選択
           </div>
         </button>
 
@@ -368,12 +383,12 @@ export default function Quiz() {
           className="bg-bg-card hover:bg-bg-tertiary p-4 rounded-xl text-left border border-border transition-colors"
           disabled={wrongQuestions.size === 0}
         >
-          <div className="font-medium text-incorrect">Review Wrong Answers</div>
+          <div className="font-medium text-incorrect">不正解の復習</div>
           <div className="text-text-secondary text-sm mt-1">
-            Practice questions you previously got wrong.
+            過去に間違えた問題を練習。
           </div>
           <div className="text-text-muted text-xs mt-1">
-            {wrongQuestions.size} questions to review
+            {wrongQuestions.size} 問を復習
           </div>
         </button>
       </div>

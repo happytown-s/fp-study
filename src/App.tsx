@@ -16,9 +16,9 @@ function App() {
   }, [tab]);
 
   const tabs: { key: Tab; label: string }[] = [
-    { key: 'quiz', label: 'Quiz' },
-    { key: 'calc', label: 'Calc Training' },
-    { key: 'progress', label: 'Progress' },
+    { key: 'quiz', label: '問題集' },
+    { key: 'calc', label: '計算トレーニング' },
+    { key: 'progress', label: '進捗' },
   ];
 
   return (
@@ -29,7 +29,7 @@ function App() {
             FP Study
           </h1>
           <p className="text-text-secondary text-sm mb-3">
-            Financial Planner 3rd Grade Exam Prep
+            ファイナンシャルプランナー3級 試験対策
           </p>
           <nav className="flex gap-1 -mb-px">
             {tabs.map(t => (

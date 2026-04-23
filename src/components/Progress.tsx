@@ -25,6 +25,27 @@ const CALC_CATEGORIES = [
   'Real Estate ROI',
 ];
 
+const categoryNames: Record<string, string> = {
+  'Life Planning': 'ライフプランニング',
+  'Financial Products': '金融商品',
+  'Insurance': '保険',
+  'Tax': '税金',
+  'Real Estate': '不動産',
+  'Inheritance': '相続',
+  'Pension & Social Security': '年金・社会保障',
+  'Risk Management': 'リスク管理',
+  'External Economics': '外部経済',
+  'Financial Regulations': '金融法規',
+  'Compound Interest': '複利計算',
+  'Loan Payments': 'ローン返済',
+  'Tax Calculation': '税金計算',
+  'Insurance Premium': '保険料計算',
+  'Pension Calculation': '年金計算',
+  'Asset Allocation': '資産配分',
+  'Inheritance Division': '相続分割',
+  'Real Estate ROI': '不動産利回り',
+};
+
 interface AnswerEntry {
   questionIdx: number;
   correct: boolean;
@@ -108,7 +129,7 @@ export default function Progress() {
   }, []);
 
   const clearData = () => {
-    if (confirm('Clear all progress data? This cannot be undone.')) {
+    if (confirm('進捗データを全て消去しますか？元に戻せません。')) {
       localStorage.removeItem('fp-wrongQuestions');
       localStorage.removeItem('fp-answerHistory');
       localStorage.removeItem('fp-activeQuiz');
@@ -117,12 +138,14 @@ export default function Progress() {
   };
 
   if (!stats) {
-    return <div className="text-text-secondary text-center py-20">Loading progress...</div>;
+    return <div className="text-text-secondary text-center py-20">進捗を読み込み中...</div>;
   }
 
   const overallPct = stats.totalAnswered > 0
     ? Math.round((stats.totalCorrect / stats.totalAnswered) * 100)
     : 0;
+
+  const catLabel = (cat: string) => categoryNames[cat] || cat;
 
   const renderCategoryBar = (cat: string, data: { answered: number; correct: number }) => {
     if (data.answered === 0) return null;
@@ -130,7 +153,7 @@ export default function Progress() {
     return (
       <div key={cat} className="space-y-1">
         <div className="flex justify-between text-xs">
-          <span className="text-text-secondary truncate mr-2">{cat}</span>
+          <span className="text-text-secondary truncate mr-2">{catLabel(cat)}</span>
           <span className="text-text-muted shrink-0">
             {data.correct}/{data.answered} ({pct}%)
           </span>
@@ -150,42 +173,42 @@ export default function Progress() {
   return (
     <div className="space-y-6">
       <div className="bg-bg-card rounded-xl p-5 space-y-4">
-        <h2 className="text-lg font-bold">Overall Progress</h2>
+        <h2 className="text-lg font-bold">全体の進捗</h2>
         <div className="grid grid-cols-3 gap-4 text-center">
           <div>
             <div className="text-3xl font-bold text-accent">{overallPct}%</div>
-            <div className="text-text-muted text-xs mt-1">Accuracy</div>
+            <div className="text-text-muted text-xs mt-1">正答率</div>
           </div>
           <div>
             <div className="text-3xl font-bold text-text-primary">{stats.totalAnswered}</div>
-            <div className="text-text-muted text-xs mt-1">Answered</div>
+            <div className="text-text-muted text-xs mt-1">解答数</div>
           </div>
           <div>
             <div className="text-3xl font-bold text-text-primary">{stats.streak}</div>
-            <div className="text-text-muted text-xs mt-1">Current Streak</div>
+            <div className="text-text-muted text-xs mt-1">連続正解</div>
           </div>
         </div>
         <div className="text-xs text-text-muted text-center">
-          Best streak: {stats.bestStreak}
+          最高連続正解: {stats.bestStreak}
         </div>
       </div>
 
       <div className="bg-bg-card rounded-xl p-5 space-y-3">
-        <h3 className="font-medium">Quiz Categories</h3>
+        <h3 className="font-medium">問題集カテゴリ</h3>
         <div className="space-y-3">
           {QUIZ_CATEGORIES.map(cat => renderCategoryBar(cat, stats.byCategory[cat]))}
           {QUIZ_CATEGORIES.every(c => stats.byCategory[c].answered === 0) && (
-            <p className="text-text-muted text-sm">No quiz data yet. Start a quiz to track progress.</p>
+            <p className="text-text-muted text-sm">問題集データがありません。問題集を始めて進捗を記録しましょう。</p>
           )}
         </div>
       </div>
 
       <div className="bg-bg-card rounded-xl p-5 space-y-3">
-        <h3 className="font-medium">Calculation Categories</h3>
+        <h3 className="font-medium">計算カテゴリ</h3>
         <div className="space-y-3">
           {CALC_CATEGORIES.map(cat => renderCategoryBar(cat, stats.byCalcCategory[cat]))}
           {CALC_CATEGORIES.every(c => stats.byCalcCategory[c].answered === 0) && (
-            <p className="text-text-muted text-sm">No calc training data yet.</p>
+            <p className="text-text-muted text-sm">計算トレーニングデータがありません。</p>
           )}
         </div>
       </div>
@@ -193,15 +216,15 @@ export default function Progress() {
       <div className="bg-bg-card rounded-xl p-4 flex items-center justify-center gap-6 text-xs text-text-secondary">
         <div className="flex items-center gap-2">
           <div className="w-3 h-3 rounded-full bg-correct" />
-          80%+ (Strong)
+          80%以上 (得意)
         </div>
         <div className="flex items-center gap-2">
           <div className="w-3 h-3 rounded-full bg-yellow-500" />
-          60-79% (Review)
+          60-79% (復習推奨)
         </div>
         <div className="flex items-center gap-2">
           <div className="w-3 h-3 rounded-full bg-incorrect" />
-          Below 60% (Weak)
+          60%未満 (要強化)
         </div>
       </div>
 
@@ -209,7 +232,7 @@ export default function Progress() {
         onClick={clearData}
         className="w-full py-2 text-text-muted hover:text-incorrect text-sm transition-colors"
       >
-        Clear All Progress Data
+        全ての進捗データを消去
       </button>
     </div>
   );

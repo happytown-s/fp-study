@@ -12,6 +12,17 @@ const CALC_CATEGORIES = [
   'Real Estate ROI',
 ] as const;
 
+const categoryNames: Record<string, string> = {
+  'Compound Interest': '複利計算',
+  'Loan Payments': 'ローン返済',
+  'Tax Calculation': '税金計算',
+  'Insurance Premium': '保険料計算',
+  'Pension Calculation': '年金計算',
+  'Asset Allocation': '資産配分',
+  'Inheritance Division': '相続分割',
+  'Real Estate ROI': '不動産利回り',
+};
+
 function shuffleArray<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -78,9 +89,11 @@ export default function CalcTraining() {
     setActiveQuestions([]);
   };
 
+  const catLabel = (cat: string) => categoryNames[cat] || cat;
+
   if (questions.length === 0) {
     return (
-      <div className="text-text-secondary text-center py-20">Loading calculation questions...</div>
+      <div className="text-text-secondary text-center py-20">計算問題を読み込み中...</div>
     );
   }
 
@@ -90,7 +103,7 @@ export default function CalcTraining() {
       <div className="space-y-6">
         <div className="flex items-center justify-between">
           <button onClick={back} className="text-text-secondary hover:text-text-primary text-sm">
-            Back
+            戻る
           </button>
           <span className="text-text-secondary text-sm">
             {currentIdx + 1} / {activeQuestions.length}
@@ -106,7 +119,7 @@ export default function CalcTraining() {
 
         <div className="bg-bg-card rounded-xl p-5 space-y-3">
           <span className="text-xs font-medium text-accent bg-accent/10 px-2 py-1 rounded">
-            {q.category}
+            {catLabel(q.category)}
           </span>
           <h2 className="text-lg font-medium">{q.title}</h2>
           <p className="text-text-secondary leading-relaxed">{q.question}</p>
@@ -114,7 +127,7 @@ export default function CalcTraining() {
 
         {showSolution && (
           <div className="bg-bg-tertiary rounded-lg p-4 space-y-2">
-            <p className="font-medium text-accent text-sm">Formula / Cheatsheet</p>
+            <p className="font-medium text-accent text-sm">公式 / チートシート</p>
             <pre className="text-text-secondary text-sm whitespace-pre-wrap font-mono">
               {q.cheatsheet}
             </pre>
@@ -151,7 +164,7 @@ export default function CalcTraining() {
 
         {showSolution && (
           <div className="bg-bg-tertiary rounded-lg p-4 space-y-2">
-            <p className="font-medium text-accent text-sm">Step-by-Step Solution</p>
+            <p className="font-medium text-accent text-sm">ステップバイステップ解法</p>
             <ol className="list-decimal list-inside space-y-1 text-sm text-text-secondary">
               {q.steps.map((step, i) => (
                 <li key={i}>{step}</li>
@@ -162,7 +175,7 @@ export default function CalcTraining() {
 
         {showSolution && q.explanation && (
           <div className="bg-bg-tertiary rounded-lg p-4 text-sm text-text-secondary">
-            <p className="font-medium text-text-primary mb-1">Key Takeaway</p>
+            <p className="font-medium text-text-primary mb-1">ポイント</p>
             {q.explanation}
           </div>
         )}
@@ -172,7 +185,7 @@ export default function CalcTraining() {
             onClick={next}
             className="w-full py-3 bg-accent hover:bg-accent-hover text-white rounded-lg font-medium transition-colors"
           >
-            {currentIdx + 1 >= activeQuestions.length ? 'Finish' : 'Next Question'}
+            {currentIdx + 1 >= activeQuestions.length ? '終了' : '次の問題'}
           </button>
         )}
       </div>
@@ -184,9 +197,9 @@ export default function CalcTraining() {
   return (
     <div className="space-y-6">
       <div className="bg-bg-card rounded-xl p-5">
-        <h2 className="text-lg font-bold mb-1">Calculation Training</h2>
+        <h2 className="text-lg font-bold mb-1">計算トレーニング</h2>
         <p className="text-text-secondary text-sm">
-          Practice financial calculations with formulas and step-by-step solutions.
+          公式とステップバイステップ解法で計算練習
         </p>
       </div>
 
@@ -194,7 +207,7 @@ export default function CalcTraining() {
         onClick={() => startPractice(null)}
         className="w-full bg-accent hover:bg-accent-hover text-white rounded-xl p-4 font-medium transition-colors"
       >
-        All Questions ({questions.length})
+        全問題 ({questions.length})
       </button>
 
       <div className="grid gap-3">
@@ -204,8 +217,8 @@ export default function CalcTraining() {
             onClick={() => startPractice(cat)}
             className="bg-bg-card hover:bg-bg-tertiary p-4 rounded-xl text-left border border-border transition-colors"
           >
-            <div className="font-medium text-accent">{cat}</div>
-            <div className="text-text-muted text-xs mt-1">{catCount(cat)} questions</div>
+            <div className="font-medium text-accent">{catLabel(cat)}</div>
+            <div className="text-text-muted text-xs mt-1">{catCount(cat)} 問</div>
           </button>
         ))}
       </div>

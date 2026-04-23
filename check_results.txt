@@ -1,3 +1,0 @@
-  O40-1: BBB格の社債 -> bad: ['BBB']
-
-Total issues: 1
