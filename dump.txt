@@ -1,0 +1,1672 @@
+--- Q0 [Life Planning] ---
+Q: the family life cycle model。stage is characterized by the birth of children and typically the highest expense ratio relative to incomeはいくらか。
+  0: Formation stage (newly married)
+  1: Expansion stage (child-rearing)
+  2: Contraction stage (children leaving)
+  3: Dissolution stage (retirement/widowhood)
+E: The expansion stage (family formation with children) typically has the highest expense ratio because of childcare, education costs, and housing needs while income may not yet have peaked.
+
+--- Q1 [Life Planning] ---
+Q: the recommended emergency fund amount expressed as months of living expensesは何か。
+  0: 1-2 months
+  1: 3-6 months
+  2: 9-12 months
+  3: 18-24 months
+E: The standard recommendation for an emergency fund is 3-6 months of living expenses. This provides a buffer for job loss, illness, or unexpected expenses.
+
+--- Q2 [Life Planning] ---
+Q: 次のうちどれか: the correct order of financial planning priorities
+  0: Investment -> Emergency fund -> Insurance -> Retirement
+  1: Emergency fund -> Insurance -> Debt repayment -> Investment
+  2: Retirement -> Investment -> Emergency fund -> Insurance
+  3: Debt repayment -> Investment -> Emergency fund -> Insurance
+E: The standard priority is: (1) build emergency fund, (2) secure insurance coverage, (3) repay high-interest debt, (4) invest for the future. This ensures financial safety before growth.
+
+--- Q3 [Life Planning] ---
+Q: Japan。is the approximate average cost of raising one child from birth to age 18 (excluding university)はいくらか。
+  0: About 5 million yen
+  1: About 10 million yen
+  2: About 15-17 million yen
+  3: About 25 million yen
+E: According to Japan's Ministry of Health, Labour and Welfare, the average child-rearing cost from birth to high school graduation is approximately 15-17 million yen, including education, food, clothing, and medical expenses.
+
+--- Q4 [Life Planning] ---
+Q: the concept of 'life planning' (raifupuraningu) primarily focused onは何か。
+  0: Maximizing short-term investment returns
+  1: Tax evasion strategies
+  2: Designing financial strategies across the entire life cycle
+  3: Choosing the right insurance policy
+E: Life planning takes a holistic approach, designing financial strategies that cover earning, spending, saving, investing, and risk management across the entire human life cycle.
+
+--- Q5 [Life Planning] ---
+Q: どれか: financial ratio measures the proportion of monthly income that goes toward loan repayments
+  0: Savings ratio
+  1: Debt service ratio (return ratio)
+  2: Liquidity ratio
+  3: Net worth ratio
+E: The debt service ratio (also called return ratio or genri/entai in Japanese) measures what percentage of income is used for loan repayments. A healthy ratio is generally under 25-30%.
+
+--- Q6 [Life Planning] ---
+Q: What does the 'balance sheet approach' in financial planning analyze。
+  0: 収入と支出の時系列のみ
+  1: 特定時点における資産、負債、純資産
+  2: 投資ポートフォリオのパフォーマンスのみ
+  3: 保険の十分性
+E: The balance sheet approach evaluates financial health by listing all assets (what you own) minus all liabilities (what you owe) to determine net worth at a specific point in time.
+
+--- Q7 [Life Planning] ---
+Q: the household budget。category typically represents the largest share of Japanese household expenditureはいくらか。
+  0: Education expenses
+  1: Housing (rent/mortgage)
+  2: Food (shokuryo-hi)
+  3: Transportation
+E: According to the Family Income and Expenditure Survey, food expenses typically represent the largest single category of household spending in Japan, followed by housing and transportation.
+
+--- Q8 [Life Planning] ---
+Q: the 'Engel coefficient' (Engel-keisuu)は何か。
+  0: The ratio of savings to income
+  1: The ratio of food expenditure to total household expenditure
+  2: The ratio of housing cost to income
+  3: The ratio of tax burden to income
+E: The Engel coefficient measures the proportion of total household expenditure spent on food. A higher coefficient is generally associated with lower income levels (Engel's Law).
+
+--- Q9 [Life Planning] ---
+Q: When planning for retirement in Japan, what is the recommended annual income replacement ratio (target pension + savings as % of pre-retirement income)。
+  0: 100% (full replacement)
+  1: 70% of pre-retirement income
+  2: 50% of pre-retirement income
+  3: 30% of pre-retirement income
+E: A 70% income replacement ratio is commonly recommended. Public pensions in Japan cover roughly 40-50%, so personal savings/investments need to fill the 20-30% gap for comfortable retirement.
+
+--- Q10 [Life Planning] ---
+Q: 'time value of money' (shikachi no kachi)は何か。
+  0: Money becomes less valuable over time due to inflation
+  1: A sum of money available now is worth more than the same sum in the future
+  2: Interest rates always increase over time
+  3: Currency depreciates at a fixed annual rate
+E: The time value of money principle states that money available today is worth more than the same amount in the future because of its potential earning capacity through interest or investment.
+
+--- Q11 [Life Planning] ---
+Q: どれか: savings rule suggests saving 20% of after-tax income and living on the remaining 80%
+  0: The 50/30/20 rule
+  1: The 80/20 rule
+  2: The 4% rule
+  3: The 72 rule
+E: The 80/20 rule (Pareto principle applied to personal finance) suggests allocating 20% of income to savings and investments while living on 80%. The 50/30/20 rule is a more detailed budgeting framework.
+
+--- Q12 [Life Planning] ---
+Q: What does the '50/30/20 rule' in budgeting recommend。
+  0: 株式50%、包俘証券30%、現金20%
+  1: 必要組50%、欲望30%、貯蓄20%
+  2: 貯蓄50%、必要30%、欲望20%
+  3: 住居50%、食購30%、交通20%
+E: The 50/30/20 rule allocates 50% of after-tax income to needs (housing, food, utilities), 30% to wants (entertainment, dining), and 20% to savings and debt repayment.
+
+--- Q13 [Life Planning] ---
+Q: a 'sinking fund' (shikin kyokyuu) in personal financeは何か。
+  0: 時間とともに価値が減少するファンド
+  1: 既知の未来の出費のために次第積み立てる資金
+  2: 緊急時専用の銀行口座
+  3: 高リスクの投資プール
+E: A sinking fund is money saved over time for a specific known future expense (e.g., car replacement, annual insurance premium, vacation), as opposed to an emergency fund for unexpected events.
+
+--- Q14 [Life Planning] ---
+Q: Japan's household finance statistics。does the 'savings-to-debt ratio' (chochiku-ryou/fusai-ryou) indicateはいくらか。
+  0: 家計ローンの金利
+  1: 家計貯蓄と未扶残負債の関係
+  2: 金融資産の税率
+  3: インフレ調整後の貯蓄リターン
+E: The savings-to-debt ratio compares total household savings deposits against total outstanding debt. It's used as an indicator of household financial health and leverage.
+
+--- Q15 [Life Planning] ---
+Q: the approximate average total cost (tuition + living) for 4 years at a private university in Japanは何か。
+  0: 約200万円
+  1: 約400万円
+  2: 約700～800万円
+  3: 約1500万円
+E: Four years at a private university in Japan costs approximately 7-8 million yen on average (about 4 million for tuition + 3-4 million for living expenses). Medical and dental schools can cost significantly more.
+
+--- Q16 [Life Planning] ---
+Q: どれか: life stage is generally considered the best time to start investing for long-term growth
+  0: 退職後すぐ
+  1: 可能なりり早く（複利メリット）
+  2: 家を買った後のみ
+  3: 子供すべてが大学を卒業した後のみ
+E: Starting to invest as early as possible maximizes the benefit of compound interest. Even small amounts invested early can grow significantly over decades due to compounding.
+
+--- Q17 [Life Planning] ---
+Q: 'financial independence' (FIRE movement) based onは何か。
+  0: 宝くじに当选すること
+  1: 年間支出の25倍を投資すること（4%ルール）
+  2: 多額の相続を受け継ぐこと
+  3: 60歳で公的年金を受給すること
+E: The FIRE (Financial Independence, Retire Early) movement uses the 4% rule: accumulate investments equal to 25 times annual living expenses, then withdraw 4% annually, which mathematically should last 30+ years.
+
+--- Q18 [Life Planning] ---
+Q: household financial planning。is the primary purpose of a cash flow statement (genkin ryuuryou hyou)はいくらか。
+  0: 特定時点の総資産を示すこと
+  1: 期間中の収入と支出を追跡すること
+  2: 相続税の納税義務を計算すること
+  3: 保険の十分性を評価すること
+E: A cash flow statement tracks all income sources and expenses over a specific period. Unlike the balance sheet (a snapshot), it shows the dynamic flow of money in and out of a household.
+
+--- Q19 [Life Planning] ---
+Q: 'net worth ratio' (netto kachi ritsu)は何を意味するか。
+  0: リスク対比の投資リターン
+  1: （総資産 - 総負債）/ 総資産
+  2: 年間貯蓄 / 年間収入
+  3: 負債 / 月間収入
+E: The net worth ratio = (Total Assets - Total Liabilities) / Total Assets. A higher ratio indicates stronger financial health, with 1.0 meaning no debt and values below 0.5 suggesting over-leverage.
+
+--- Q20 [Life Planning] ---
+Q: どれか: Japanese government survey provides comprehensive data on household income and expenditure patterns
+  0: 国勢調査
+  1: 家計調査
+  2: 賃金構造基本統計
+  3: 労働力調査
+E: The Family Income and Expenditure Survey (kakei chousa) by the Statistics Bureau of Japan is the primary source for household financial data, covering income, spending, savings, and debt patterns.
+
+--- Q21 [Life Planning] ---
+Q: 'lifestyle inflation' (raifusutairu infure)は何か。
+  0: 政府政策による生活費の増加
+  1: 収入の増加に伴う活費の増加で、貯蓄が比例的に増えない傾向
+  2: 時間経過による通貨の自然な切り下げ
+  3: 給料よりも速い不動産価格の高騰
+E: Lifestyle inflation occurs when increased income leads to proportionally increased spending on luxuries rather than savings. It can prevent wealth building even as earnings grow.
+
+--- Q22 [Life Planning] ---
+Q: the 'Rule of 72' used forは何か。
+  0: 保険料の計算
+  1: Estimating how long it takes for an investment to double at a given interest rate
+  2: 最適退職年齢の決定
+  3: 税額控除の計算
+E: The Rule of 72 divides 72 by the annual interest rate to estimate years to double. Example: at 6% interest, 72/6 = 12 years to double. At 8%, it takes 9 years.
+
+--- Q23 [Life Planning] ---
+Q: financial life planning。does 'human capital' refer toはいくらか。
+  0: The total value of a person's investments
+  1: The present value of a person's future earning ability
+  2: 生命保険の保隚額
+  3: 未扶残の教育ローン
+E: Human capital represents the present value of expected future earnings from work. For young people, human capital is typically much larger than financial capital, influencing asset allocation decisions.
+
+--- Q24 [Life Planning] ---
+Q: どれか: document summarizes a household's financial position including assets, liabilities, income, and expenses
+  0: 確定申告
+  1: ファイナンシャルプラン / 家計賃借对照表
+  2: 保険プロダクトの概要
+  3: 雇用契約
+E: A financial plan / household balance sheet consolidates assets, liabilities, income sources, and expenses into a comprehensive view of financial health, forming the basis for planning decisions.
+
+--- Q25 [Life Planning] ---
+Q: the approximate average monthly living expense for a retired couple in Japan (excluding housing)は何か。
+  0: 約10万円
+  1: 約15万円
+  2: 約22～24万円
+  3: 約35万円
+E: According to the Ministry of Health, Labour and Welfare, the average monthly living expense for a retired couple household is approximately 220,000-240,000 yen (excluding housing costs).
+
+--- Q26 [Financial Products] ---
+Q: どれか: Japanese tax-advantaged investment account allows tax-free investment gains up to 1.8 million yen per year (as of 2024)
+  0: iDeCo（個人型確定拟納年金）
+  1: 新NISA（少額投資免税制度）
+  2: つみたてNISA
+  3: めいっとNISA
+E: The New NISA (effective 2024) has a total annual investment limit of 1.8 million yen (1.2M in growth/tsumitate portion + 600K in tsumitate portion), with all gains permanently tax-free.
+
+--- Q27 [Financial Products] ---
+Q: the key difference between iDeCo and NISAは何か。
+  0: NISAは引出ペナルティがある、iDeCoはない
+  1: iDeCo拟納は課税得兰が減る、NISAはならない
+  2: iDeCoは株式取引が可能、NISAは不可
+  3: NISAは年間上限がない、iDeCoはある
+E: iDeCo contributions are fully deductible from taxable income (reducing income tax and residence tax). NISA does not offer income deduction but provides tax-free growth and withdrawals. Both offer tax-free investment gains.
+
+--- Q28 [Financial Products] ---
+Q: どの種類のinvestment productmoney from many investors to be managed by a professional fund managerか。
+  0: 個別株（株式）
+  1: 投資信託（ミューチャルファンド）
+  2: 国債
+  3: 定期預金
+E: Investment trusts (toushi shintaku) pool money from multiple investors and are managed by professional fund managers who invest in various assets according to the fund's strategy.
+
+--- Q29 [Financial Products] ---
+Q: 次のうちどれか: a characteristic of Japanese government bonds (JGBs)
+  0: 高リターン・高リスク
+  1: 日本政府保証、非常に低リスク
+  2: 機関投資家のみ利用可能
+  3: 最低10年間保有しなければならない
+E: Japanese Government Bonds (JGBs) are backed by the government of Japan, making them one of the safest investments available. They offer lower returns but minimal credit risk.
+
+--- Q30 [Financial Products] ---
+Q: 「FX」は(Foreign Exchange margin trading) involve。
+  0: 銀行で現物外貨を買うこと
+  1: 借入およびレバレッジを使った通貨ペア取引
+  2: 外国国債のみに投資すること
+  3: 輸入事業の為替リスクヘッジ
+E: FX margin trading involves buying/selling currency pairs using leverage (typically up to 25x in Japan). It offers potential for high returns but also significant risk of loss exceeding the initial margin.
+
+--- Q31 [Financial Products] ---
+Q: a 'REIT' (Real Estate Investment Trust)は何か。
+  0: 不動産購入用の投資ローン
+  1: 収益不動産を所有・管理する上場企業
+  2: 初めての住宅購入者向けの政府プログラム
+  3: 不動産税額控除
+E: A REIT (J-REIT in Japan) is a listed company that owns, operates, or finances income-producing real estate. Investors can buy shares and receive dividend income without directly owning property.
+
+--- Q32 [Financial Products] ---
+Q: どれか: type of deposit account in Japan offers the highest interest rate among the following
+  0: 普通預金
+  1: 定期預金
+  2: 当座預金
+  3: 普通預金口座
+E: Time deposits (teiki yokin) offer higher interest rates than ordinary deposits because the money is committed for a fixed period. Current accounts typically pay no interest.
+
+--- Q33 [Financial Products] ---
+Q: the 'no-action letter' system in Japan's investment trust industryは何か。
+  0: A letter confirming tax exemption
+  1: A system allowing the FSA to provide guidance that certain conduct won't be penalized
+  2: 投資信託の「定額購入」プラン
+  3: 投資購入のクーリングオフ期間
+E: Actually, the correct answer here refers to 'shiki-tsumitate' which is not a no-action letter. Let me clarify: the scheduled purchase plan (shiki-tsumitate) allows automatic periodic investment in investment trusts.
+
+--- Q34 [Financial Products] ---
+Q: 「Tsumitate NISA」は(Accumulation NISA) prioritize。
+  0: Large one-time investments in individual stocks
+  1: Regular small investments in mutual funds over the long term
+  2: Day trading of currencies
+  3: Short-term bond investments
+E: Tsumitate NISA is designed for regular, small investments (e.g., monthly) in diversified mutual funds. It encourages long-term, disciplined investing rather than speculative trading.
+
+--- Q35 [Financial Products] ---
+Q: the maximum leverage allowed for FX margin trading in Japanは何か。
+  0: 100x
+  1: 50x
+  2: 25x
+  3: 10x
+E: Japanese financial regulations cap FX margin trading leverage at 25x. This is a retail investor protection measure by the FSA, significantly lower than offshore brokers that may offer 100x+.
+
+--- Q36 [Financial Products] ---
+Q: 次のうちどれか: classified as a 'derivative' (hibun shouken)
+  0: 国債
+  1: 先物取引
+  2: 普通銀行預金
+  3: インデックスファンド
+E: Derivatives are financial instruments whose value derives from an underlying asset. Futures contracts, options, and swaps are all types of derivatives.
+
+--- Q37 [Financial Products] ---
+Q: investment trusts。does 'NAV' (Net Asset Value) meanはいくらか。
+  0: The total number of investors in the fund
+  1: Total assets minus liabilities, divided by outstanding units
+  2: The management fee charged annually
+  3: The minimum investment amount
+E: NAV (Net Asset Value) per unit = (Total Fund Assets - Total Liabilities) / Number of Outstanding Units. It represents the per-share value of the fund and fluctuates with market conditions.
+
+--- Q38 [Financial Products] ---
+Q: a 'money market fund' (MMF)は何か。
+  0: 技術株に専門投資するファンド
+  1: 短期の高信用品質の投資对象に投資するファンド
+  2: 政府貯蓄債券
+  3: 銀行の定期預金
+E: A Money Market Fund (MMF) invests in short-term, high-quality debt instruments like Treasury bills and commercial paper. It aims to maintain a stable NAV while providing slightly better returns than deposits.
+
+--- Q39 [Financial Products] ---
+Q: 'dollar-cost averaging' (tsumitate Toushi)は何か。
+  0: 市場下落時に一括投資すること
+  1: 価格に関わらず定額を定期投資すること
+  2: 全投資をドル変換すること
+  3: 価格が最安のときにのみ買うこと
+E: Dollar-cost averaging involves investing a fixed amount regularly (e.g., monthly). When prices are high, you buy fewer units; when low, you buy more. This averages out the purchase price over time.
+
+--- Q40 [Financial Products] ---
+Q: どの種類のbondthe highest credit riskか。
+  0: 日本国債
+  1: BBB評価の社債券
+  2: 地方政府保証の地方債
+  3: 政府保証機関債
+E: Corporate bonds rated BBB (the lowest investment grade) carry the highest credit risk among these options. JGBs carry the lowest (sovereign risk). Higher risk typically demands higher yield.
+
+--- Q41 [Financial Products] ---
+Q: the ' cooling-off period' (ku-lingu ofu kiikan) for financial products in Japanは何か。
+  0: 投資をキャンセルできる30日間
+  1: 訪售での奉約をキャンセルできる8日間
+  2: 訳席口座開設前の必須待機期間
+  3: クレジットカード申込から受取までの期間
+E: The cooling-off period in Japan allows consumers to cancel contracts made through door-to-door sales within 8 days (for financial products). This is a consumer protection measure.
+
+--- Q42 [Financial Products] ---
+Q: どれか: statement about Japanese postal savings (yucho chokin) is correct
+  0: 民間銀行の製品
+  1: 预金者每に政府が上限令額で保証
+  2: ゆうちょ銀行の預金は预金保険機構に保護されている
+  3: 定期預金のみを提供
+E: Japan Post Bank is covered by the Deposit Insurance Corporation (DIC), protecting deposits up to 10 million yen per depositor (principal + interest combined), same as other banks.
+
+--- Q43 [Financial Products] ---
+Q: an 'ETF' (Exchange Traded Fund)は何か。
+  0: 政府貯蓄債券の一種
+  1: 指標を追跡し、個別株のように訳席で取引されるファンド
+  2: 銀行発行の證明預金
+  3: 為替リスク対策の保険製品
+E: An ETF is a fund that typically tracks a specific index (like the Nikkei 225 or TOPIX) and trades on stock exchanges throughout the day at market-determined prices, offering diversification and liquidity.
+
+--- Q44 [Financial Products] ---
+Q: the 'deposit insurance system' (yokin hoken seido) in Japanは何か。
+  0: 銀行強盗保険
+  1: 预金者1人あたり1金融機関あたり1000万円まで保証する制度
+  2: 銀行で販売される生命保険製品
+  3: 株式市場の損失に対する政府保険
+E: The Deposit Insurance Corporation (DIC) protects bank deposits up to 10 million yen per depositor (principal + interest) per financial institution in case of bank failure.
+
+--- Q45 [Financial Products] ---
+Q: 'active management' (akuteibu kanri) of an investment trustは何を意味するか。
+  0: ファンドが自動的に市場指標を追跡する
+  1: ファンドマネージャーが市場を上回るための投資判断を行う
+  2: 投資家が每日ファンド保有分を活發に取引する
+  3: ファンドは活發株にのみ投資する
+E: Active management involves a fund manager making deliberate investment choices aiming to beat a benchmark index. This contrasts with passive/index management that simply tracks an index.
+
+--- Q46 [Financial Products] ---
+Q: the New NISA system (2024+)。long can investments remain tax-freeはいくらか。
+  0: 5年
+  1: 10年
+  2: 無期限
+  3: 20年
+E: The New NISA (effective January 2024) allows investments to remain tax-free indefinitely. There is no maturity or rollover requirement. The total lifetime limit is 18 million yen.
+
+--- Q47 [Financial Products] ---
+Q: a 'bond' (kisaiken) fundamentallyは何か。
+  0: 企業の株式所有権
+  1: 発行体が利子付で儲還を約束する債務手段
+  2: 未来の日付で資産を買う契約
+  3: デフォルト対策の保険
+E: A bond is essentially an IOU: the issuer (government or corporation) borrows money from the buyer and promises to repay the principal (face value) at maturity plus periodic interest (coupon) payments.
+
+--- Q48 [Financial Products] ---
+Q: 'yield to maturity' (YTM / manri shiyakuri)は何を意味するか。
+  0: The annual coupon payment divided by the bond's face value
+  1: 満期直到保有したときの総リターン
+  2: The bond's current market price
+  3: 債券発行体の信用評価
+E: Yield to maturity (YTM) is the total anticipated annual return if the bond is held until maturity, accounting for the purchase price, coupon payments, and face value at maturity.
+
+--- Q49 [Financial Products] ---
+Q: a 'wrap account' (rappu kouza) in Japanは何か。
+  0: 保険ラッパー型製品
+  1: 管理手数料が資産の定率フォーにまとめられた投資口座
+  2: 退職貯蓄口座
+  3: 税務申告サービス
+E: A wrap account bundles investment management, execution, and custody services into a single flat fee (typically 1-2% of assets), rather than charging separate commissions for each transaction.
+
+--- Q50 [Financial Products] ---
+Q: どれか: financial product in Japan combines life insurance with investment in a separate account
+  0: 定期生命保険
+  1: 変額生命保険
+  2: 終身生命保険
+  3: 疗養保険
+E: Variable insurance (hen-gaku seimei hoken) invests premiums in a separate account linked to investment performance. The death benefit and cash value fluctuate based on the investment returns.
+
+--- Q51 [Financial Products] ---
+Q: 「cohort effect」はin investment trust evaluation refer to。
+  0: 金利変動が債券価格に与える効果
+  1: 同一ファンドに投資開始時期によるパフォーマンスの差異
+  2: ファンドサイズがリターンに与える影響
+  3: 国内ファンドと海外ファンドのリターン差
+E: The cohort effect in investment trusts refers to how investors who start at different times can have very different returns from the same fund, due to market conditions at entry point and subsequent performance.
+
+--- Q52 [Financial Products] ---
+Q: the New NISA's total lifetime investment limitは何か。
+  0: 6 million yen
+  1: 12 million yen
+  2: 18 million yen
+  3: 24 million yen
+E: The New NISA has a total lifetime limit of 18 million yen per person. This consists of up to 18 million yen in the growth/tsumitate investment portion. Unused annual limits do not carry forward.
+
+--- Q53 [Financial Products] ---
+Q: 'T-Bill' (short-term government bond) in Japanは何か。
+  0: 20年満期の長期債券
+  1: 政府発行の1年以内満期の割引債
+  2: 政府保証付き社債券
+  3: 非課税地方債
+E: T-Bills (Treasury Bills) are short-term government securities with maturities of 3, 6, or 12 months. They are sold at a discount to face value and pay no coupon interest.
+
+--- Q54 [Insurance] ---
+Q: どれか: type of life insurance pays both a death benefit during the policy term AND a maturity benefit if the insured survives
+  0: 定期生命保険
+  1: 養老保険
+  2: 終身生命保険
+  3: 疗養保険
+E: Endowment insurance (yourou) pays a death benefit if the insured dies during the term AND returns the maturity amount (plus bonus) if the insured survives to the end of the term.
+
+--- Q55 [Insurance] ---
+Q: the primary purpose of medical insurance (iryou hoken) in Japan's social security systemは何か。
+  0: 入院中のい失収入を補填するため
+  1: 疾病や急病の診疗費を負担するため
+  2: 退職後の収入を提供するため
+  3: 葬儀費を負担するため
+E: Medical insurance (iryou hoken) in Japan's social security system covers a portion (typically 30% for those aged 3-69) of medical treatment costs for illness and injury at participating medical institutions.
+
+--- Q56 [Insurance] ---
+Q: whole life insurance (shuushin hoken)。does 'paid-up' (haraikomi zumi) meanはいくらか。
+  0: 保険が找末返金された
+  1: 保険料の支扵を停止したが縮小保障が継続
+  2: 死亡給付金が支扵済み
+  3: 保険が定期保険に変更された
+E: Paid-up status means the policyholder has stopped paying premiums but the policy continues with a reduced death benefit, funded by the accumulated cash value within the policy.
+
+--- Q57 [Insurance] ---
+Q: Japan NOT typically coverで、「non-life insurance」は(sonsei hoken)。
+  0: 自動車事故
+  1: 火災による財物の損害
+  2: 疾病による死亡（生命保険の対象）
+  3: 旅行中の事故
+E: Non-life insurance (sonsei hoken) covers property damage, liability, automobile, travel, and other non-death risks. Death from illness or natural causes is covered by life insurance (seimei hoken).
+
+--- Q58 [Insurance] ---
+Q: 'third-party liability insurance' (taisha sekinin hoken) in automobile insuranceは何か。
+  0: 自車の損害を補償する保険
+  1: 他者に対する傷害・死亡を補償する強制保険
+  2: 自車の盗難保険
+  3: 自身の診疗費を補償する保険
+E: Third-party liability automobile insurance (ji-dousha baishou sekinin hoken) is mandatory in Japan. It covers injury, death, or property damage the policyholder causes to third parties.
+
+--- Q59 [Insurance] ---
+Q: どれか: insurance product covers a lump-sum payment upon cancer diagnosis
+  0: 定期生命保険
+  1: がん保険
+  2: 收入保護保険
+  3: 損害保険
+E: Cancer insurance (gann hoken) provides a lump-sum payment upon diagnosis of cancer, plus additional benefits for hospitalization, surgery, or outpatient treatment related to cancer.
+
+--- Q60 [Insurance] ---
+Q: the 'free look period' (ku-linggu ofu / furi-ru rukku) for insurance contracts in Japanは何か。
+  0: 保険料が免除される30日間
+  1: 保険証券受预後8日間全額找末可能
+  2: 退職後に保険料が減額される期間
+  3: 新規保険の最初の6ヶ月間
+E: The free look (document delivery) period in Japan is 8 days from receiving the policy conditions. During this period, the applicant can cancel the contract and receive a full premium refund.
+
+--- Q61 [Insurance] ---
+Q: the mandatory social insurance (shakai hoken) deduction rate for health insurance for general employeesは何か。
+  0: 給与の約3%
+  1: 給与の約5%
+  2: 給与の約10%
+  3: 給与の約15%
+E: Health insurance premiums for employees in Japan are approximately 5% of salary (half paid by employer, half by employee), though exact rates vary by health insurance society (kenpou).
+
+--- Q62 [Insurance] ---
+Q: 'uninsurable risk'は何を意味するか。
+  0: 保険料が高すぎて保険できないリスク
+  1: 保険原理に違反するため保険できないリスク
+  2: 政府保険のみが対象となるリスク
+  3: 誰も保険したくないリスク
+E: Uninsurable risks violate basic insurance principles - they may be inevitable, not random, or have unlimited potential loss. Examples include war, nuclear disasters, or intentional acts.
+
+--- Q63 [Insurance] ---
+Q: Japan's earthquake insurance system。is the maximum coverage amountはいくらか。
+  0: 1000万円
+  1: 3000万円
+  2: 5000万円
+  3: 1億円
+E: Earthquake insurance in Japan covers fire/breakage/disappearance caused by earthquakes, volcanic eruptions, or tsunamis, up to 50 million yen per building and 10 million yen per household contents.
+
+--- Q64 [Insurance] ---
+Q: 'waiver of premium' rider (premium teikyuu menjo tokusoku)は何か。
+  0: A rider that reduces the death benefit to lower premiums
+  1: A rider that waives future premiums if the insured becomes disabled
+  2: A rider that converts term to whole life insurance
+  3: A rider that provides additional accidental death coverage
+E: The waiver of premium rider ensures that if the insured becomes totally disabled (as defined in the policy), all future premium payments are waived while the insurance coverage continues.
+
+--- Q65 [Insurance] ---
+Q: 'mortality charge' (shibou ryokin) in life insuranceは何か。
+  0: The fee charged for processing a death claim
+  1: The cost of insurance protection based on the insured's age and risk
+  2: A tax on insurance payouts
+  3: The administrative fee for policy maintenance
+E: The mortality charge is the pure cost of insurance protection, calculated based on the insured's age, gender, health, and coverage amount. It increases with age as mortality risk increases.
+
+--- Q66 [Insurance] ---
+Q: どれか: type of insurance is designed to replace income if the policyholder becomes too sick or injured to work
+  0: 定期生命保険
+  1: Income protection / disability insurance (shotoku hosho hoken)
+  2: Cancer insurance
+  3: Fire insurance
+E: Income protection insurance (also called disability income insurance) pays a regular monthly benefit if the policyholder cannot work due to illness or injury, typically covering 50-60% of pre-disability income.
+
+--- Q67 [Insurance] ---
+Q: the 'insurable interest' (hoken rijieki) requirementは何か。
+  0: The insurance must be profitable for the company
+  1: The policyholder must stand to suffer a financial loss if the insured event occurs
+  2: The insurance company must have sufficient reserves
+  3: The policy must have a minimum face value
+E: Insurable interest requires that the person buying insurance would suffer a genuine financial loss if the insured event occurred. This prevents insurance from being used for gambling on others' lives.
+
+--- Q68 [Insurance] ---
+Q: Japan。type of life insurance policy has been declining in popularity due to lower expected returnsはいくらか。
+  0: 定期生命保険
+  1: Endowment insurance (yourou hoken)
+  2: Medical insurance
+  3: Cancer insurance
+E: Endowment insurance has been declining because prolonged low interest rates make the maturity payout less attractive compared to separate term insurance and investment strategies.
+
+--- Q69 [Insurance] ---
+Q: the 'grace period' (yoyuu kikan) in insuranceは何か。
+  0: The period before insurance coverage begins
+  1: A period after a missed premium payment during which coverage continues
+  2: The time to file a claim after an incident
+  3: The waiting period before a pre-existing condition is covered
+E: The grace period (typically 1 month for life insurance in Japan) allows the policyholder to make a late premium payment without losing coverage. Claims during this period are valid if the overdue premium is paid.
+
+--- Q70 [Insurance] ---
+Q: 'universal life insurance' (yunibaasu seimei hoken)は何か。
+  0: Insurance available to anyone regardless of health
+  1: Insurance with flexible premiums and adjustable death benefits within a policy account
+  2: A government-subsidized life insurance program
+  3: Insurance that covers all types of risk
+E: Universal life insurance combines death protection with a savings account. Premiums are flexible, and the policyholder can adjust the death benefit. The cash value earns interest at a declared rate.
+
+--- Q71 [Insurance] ---
+Q: 'waiting period' (tai-chiki) in medical insuranceは何を意味するか。
+  0: The time between applying and policy approval
+  1: A period after enrollment during which certain conditions are not covered
+  2: The time to wait before receiving hospital treatment
+  3: The period premium payments are held before earning interest
+E: The waiting period (often 90 days for private medical insurance) is the time after policy inception during which claims for pre-existing conditions or specific conditions may not be covered.
+
+--- Q72 [Insurance] ---
+Q: 'subrogation' (dai-ken hoshou) in insuranceは何か。
+  0: The right of an insurer to pursue a third party responsible for a loss after paying a claim
+  1: The process of transferring a policy to another insurer
+  2: The reduction of premium based on claims history
+  3: The cancellation of a policy by the insurer
+E: Subrogation allows an insurance company that has paid a claim to step into the insured's shoes and seek recovery from the third party who caused the loss. This prevents double recovery by the insured.
+
+--- Q73 [Insurance] ---
+Q: 次のうちどれか: covered by compulsory automobile liability insurance (jidosha baishou sekinin hoken)
+  0: Damage to the policyholder's own vehicle
+  1: Bodily injury or death of third parties caused by the insured
+  2: Theft of the policyholder's vehicle
+  3: Damage to the policyholder's vehicle from natural disasters
+E: Compulsory automobile liability insurance (saribaiken) covers bodily injury and death of third parties only. Property damage and own-vehicle damage require optional voluntary insurance (ninihoken).
+
+--- Q74 [Insurance] ---
+Q: 'personal accident insurance' (shogai hoken)は何か。
+  0: Insurance covering accidental death and disability from external, sudden events
+  1: Insurance covering illness-related medical expenses
+  2: Insurance for liability claims against the insured
+  3: Insurance covering property damage
+E: Personal accident insurance covers accidental death and disability resulting from external, sudden, and unexpected events. It does NOT cover illness, which is covered by medical insurance.
+
+--- Q75 [Insurance] ---
+Q: Japan's earthquake insurance system。institution serves as the ultimate reinsurerはいくらか。
+  0: Private insurance companies
+  1: The Japanese government
+  2: The Bank of Japan
+  3: Tokyo Marine Insurance
+E: Japan's earthquake insurance system operates with private insurers handling the first layer, then sharing risk with the Japan Earthquake Reinsurance Co. (JER), with the government as ultimate reinsurer for catastrophic losses.
+
+--- Q76 [Insurance] ---
+Q: differenceはいくらか: between 'insurance' and 'assurance'
+  0: Insurance covers only property; assurance covers only people
+  1: Insurance covers events that may happen; assurance covers events that will definitely happen
+  2: There is no difference; they are synonymous
+  3: Insurance is provided by government; assurance by private companies
+E: Traditionally, insurance covers contingencies that may or may not happen (fire, accident), while assurance covers events certain to happen eventually (death in whole life insurance).
+
+--- Q77 [Tax] ---
+Q: the standard deduction (kihon kouteki-jo) for employment income in Japanは何か。
+  0: 480,000 yen
+  1: 650,000 yen
+  2: 380,000 yen
+  3: 1,000,000 yen
+E: The standard deduction (kihon kouteki-jo) for employment income is 480,000 yen. This is deducted from salary income before calculating taxable income. It applies regardless of actual expenses.
+
+--- Q78 [Tax] ---
+Q: the current consumption tax rate (shouhizei) in Japanは何か。
+  0: 5%
+  1: 8%
+  2: 10%
+  3: 15%
+E: Japan's consumption tax rate is 10% (since October 2019), with a reduced rate of 8% for food items (excluding dining out) and newspapers. The tax applies to most goods and services.
+
+--- Q79 [Tax] ---
+Q: the 'special deduction for spouses' (haigusha tokutei kouteki-jo) maximum amountは何か。
+  0: 380,000 yen
+  1: 480,000 yen
+  2: 760,000 yen
+  3: 960,000 yen
+E: The maximum special deduction for spouses is 380,000 yen, applicable when the spouse's annual income is 40 million yen or less and the spouse is a dependent of the taxpayer.
+
+--- Q80 [Tax] ---
+Q: どれか: of the following income types requires a final income tax return (kakutei shinkoku) in Japan
+  0: Salary income only from one employer
+  1: Real estate rental income exceeding 200,000 yen annually
+  2: Freelance/consulting income over 200,000 yen
+  3: Interest income from bank deposits
+E: Self-employed/freelance income exceeding 200,000 yen requires a final tax return. Salary from a single employer is handled through year-end adjustment (nenmatsu chosei). Interest from deposits is subject to separate withholding tax.
+
+--- Q81 [Tax] ---
+Q: the 'blue return' (aoiro shinkokusho) advantage in Japanは何か。
+  0: Lower tax rates on all income
+  1: Special deductions up to 650,000 yen for properly maintained accounting records
+  2: Extended filing deadline by 1 month
+  3: Automatic tax refund every year
+E: Filing a blue return (with pre-approved accounting books) grants a special deduction of up to 650,000 yen from taxable income, plus other benefits like loss carryforward for 3 years (10 years for blue returns).
+
+--- Q82 [Tax] ---
+Q: the inheritance tax exemption amount (kiso kouteki-jo) per heir in Japanは何か。
+  0: 300,000 yen x number of statutory heirs
+  1: 3,000,000 yen x number of statutory heirs
+  2: 30,000,000 yen + 6,000,000 yen x number of statutory heirs
+  3: 50,000,000 yen flat amount
+E: The basic deduction for inheritance tax is calculated as: 30 million yen + 6 million yen x number of statutory heirs. If the total taxable inheritance is below this, no inheritance tax is due.
+
+--- Q83 [Tax] ---
+Q: the gift tax exemption (kiso kouteki-jo) per year per donee in Japanは何か。
+  0: 1,100,000 yen per year
+  1: 2,000,000 yen per year
+  2: 3,000,000 yen per year
+  3: 5,000,000 yen per year
+E: The annual gift tax exemption is 1,100,000 yen per donor per donee. Gifts exceeding this amount are subject to progressive gift tax rates starting from 10% up to 55%.
+
+--- Q84 [Tax] ---
+Q: the 'special measure for educational fund gifts' (kyouiku shikin zoudou tokubetsu sozei-keigen) annual limitは何か。
+  0: 500,000 yen per year per child
+  1: 1,100,000 yen per year per child
+  2: 1,500,000 yen per year per grandchild
+  3: 3,000,000 yen per year per grandchild
+E: Under the educational fund gift special measure, grandparents can gift up to 1,500,000 yen per year per grandchild for education expenses, tax-free (separate from the general 1,100,000 yen exemption).
+
+--- Q85 [Tax] ---
+Q: 'income tax' (shotokuzei) in Japanは何か。
+  0: A tax on all assets owned
+  1: A national tax levied on individual income earned during a calendar year
+  2: A local tax paid to the municipality
+  3: A tax on corporate profits only
+E: Income tax (shotokuzei) is a national tax on individual income earned during the year (Jan 1 to Dec 31). It uses a progressive rate structure from 5% to 45% plus a reconstruction surtax of 2.1%.
+
+--- Q86 [Tax] ---
+Q: the residence tax (juminzei) rates in Japanは何か。
+  0: Flat 5% nationwide
+  1: 4% municipal + 6% prefectural = 10% flat
+  2: 6% municipal + 4% prefectural = 10% flat on taxable income
+  3: Progressive from 5% to 20%
+E: Residence tax is a flat 10% on taxable income: 6% to the municipality (shi/chou/son) and 4% to the prefecture (to/du/fu/ken). Unlike income tax, it uses a flat rate, not progressive brackets.
+
+--- Q87 [Tax] ---
+Q: the medical expense deduction (iryouhi kouteki-jo) threshold in Japanは何か。
+  0: All medical expenses are fully deductible
+  1: Total medical expenses exceeding 100,000 yen or 5% of income (whichever is lower)
+  2: Total medical expenses exceeding 200,000 yen
+  3: 10% of total income regardless of amount
+E: The medical expense deduction applies when total medical expenses exceed the lesser of 100,000 yen or 5% of total income (salary income for employees). The excess amount is deducted from taxable income.
+
+--- Q88 [Tax] ---
+Q: 次のうちどれか: NOT subject to income tax withholding at source in Japan
+  0: Salary income
+  1: Interest on bank deposits
+  2: Freelance consulting income
+  3: Dividends from listed stocks
+E: Freelance/consulting income is not subject to withholding tax. The freelancer must make estimated tax payments and file a final return. Salary, interest, and dividends are subject to withholding.
+
+--- Q89 [Tax] ---
+Q: the 'housing loan deduction' (juutaku rounen kouteki-jo / housing loan tax credit) maximum annual deductionは何か。
+  0: 200,000 yen
+  1: 300,000 yen
+  2: 400,000 yen
+  3: Variable based on loan amount and property conditions (up to ~500,000 yen/year for 13 years)
+E: The housing loan deduction reduces income tax by up to a certain amount based on the year-end loan balance (generally 0.7% for 13 years, with max loan balance limits based on property type/energy efficiency).
+
+--- Q90 [Tax] ---
+Q: the gift tax rate for gifts exceeding 30 million yenは何か。
+  0: 30%
+  1: 45%
+  2: 50%
+  3: 55%
+E: Japan's gift tax uses progressive rates. For gifts exceeding 30 million yen (after applying the 1,100,000 yen exemption), the rate is 50%. The maximum rate of 55% applies to gifts over 45 million yen.
+
+--- Q91 [Tax] ---
+Q: 'taxable income' (kazei shotoku)は何か。
+  0: Gross income before any deductions
+  1: Income after subtracting income deductions from gross income
+  2: Income after subtracting social insurance premiums only
+  3: Only salary income
+E: Taxable income = Gross income - Income deductions (employment income deduction, social insurance deductions, spouse deduction, dependents deduction, etc.). Tax is calculated on this amount.
+
+--- Q92 [Tax] ---
+Q: the due date for filing a final income tax return (kakutei shinkoku) in Japanは何か。
+  0: January 31
+  1: February 15
+  2: March 15
+  3: April 15
+E: The final income tax return must be filed by March 15 each year for income earned in the previous calendar year. If March 15 falls on a weekend or holiday, the deadline is the next business day.
+
+--- Q93 [Tax] ---
+Q: 「year-end adjustment」は(nenmatsu chosei) do。
+  0: Adjusts the company's annual financial statements
+  1: Reconciles monthly withholding tax against actual annual tax liability for employees
+  2: Recalculates social insurance premiums
+  3: Determines annual bonus amounts
+E: Year-end adjustment is performed by employers in December to reconcile the income tax withheld monthly from employees' salaries against the actual annual tax liability, refunding any overpayment.
+
+--- Q94 [Tax] ---
+Q: the 'special taxation measure for monetary gifts for housing purchase' maximum exemptionは何か。
+  0: 5 million yen from parents to children
+  1: 10 million yen from parents/grandparents to children/grandchildren
+  2: 15 million yen cumulative from parents to children
+  3: 30 million yen from grandparents
+E: The special measure for housing purchase allows parents/grandparents to gift up to 10 million yen for home purchase to children/grandchildren, with the gift tax base calculation divided to reduce tax burden.
+
+--- Q95 [Tax] ---
+Q: the 'social insurance premium deduction' (shakai hokenryo kouteki-jo)は何か。
+  0: Full deduction of all social insurance premiums paid
+  1: 50% deduction of social insurance premiums
+  2: Fixed deduction of 100,000 yen
+  3: No deduction available
+E: The full amount of social insurance premiums (health insurance, pension, employment insurance) paid during the year can be deducted from taxable income as a social insurance premium deduction.
+
+--- Q96 [Tax] ---
+Q: the inheritance tax rate for the highest bracket in Japanは何か。
+  0: 30%
+  1: 40%
+  2: 50%
+  3: 55%
+E: Japan's inheritance tax has a maximum rate of 55% on taxable inheritance amounts exceeding 600 million yen per heir. The progressive rate structure starts at 10% for amounts over 3 million yen.
+
+--- Q97 [Tax] ---
+Q: the 'donation deduction' (kifu kin kouteki-jo) for individual income tax in Japanは何か。
+  0: Full deduction of all charitable donations
+  1: Deduction limited to (donation amount - 2,000 yen) or specific calculations for eligible organizations
+  2: Fixed 100,000 yen deduction for any donation
+  3: No deduction available for individuals
+E: For donations to eligible organizations (certain public interest corporations, local governments, etc.), the deduction is the lesser of (donation - 2,000 yen) or specific percentage-based calculations. Not all donations qualify.
+
+--- Q98 [Tax] ---
+Q: the employment income deduction (shain shotoku kouteki-jo) for salary income of 8.5 million yenは何か。
+  0: 1,545,000 yen
+  1: 2,450,000 yen
+  2: 2,750,000 yen
+  3: 3,000,000 yen
+E: For salary income of 8,500,000 yen, the employment income deduction is calculated as: 8,500,000 x 0.1 + 1,900,000 = 2,750,000 yen. This reduces the taxable income base.
+
+--- Q99 [Tax] ---
+Q: the consumption tax reduced rate applicable to in Japanは何か。
+  0: All food items at restaurants
+  1: Food (excluding dining out) and newspapers (subscription)
+  2: All educational materials and books
+  3: Medical expenses and prescription drugs
+E: The 8% reduced consumption tax rate applies to food items (excluding dining out and alcohol) and daily newspapers (subscription). Dine-in meals, alcohol, and most other goods/services are taxed at 10%.
+
+--- Q100 [Tax] ---
+Q: the 'disaster reduction tax reduction' system in Japanは何か。
+  0: A permanent tax reduction for all citizens
+  1: Tax relief measures for those affected by natural disasters (reduced income tax/residence tax)
+  2: A tax on insurance payouts after disasters
+  3: An additional tax to fund disaster recovery
+E: Japan provides tax relief for disaster victims through income tax reduction/exemption, residence tax reduction, and vehicle tax reduction. The degree of relief depends on damage severity and income loss.
+
+--- Q101 [Tax] ---
+Q: the small business mutual aid deduction (shoukou kyouai kouteki-jo)は何か。
+  0: A deduction for corporate taxes only
+  1: A deduction for premiums paid to small business mutual aid organizations
+  2: A fixed 200,000 yen deduction for all small businesses
+  3: A deduction for business start-up costs
+E: Premiums paid to small business mutual aid organizations (such as those operated by the Chamber of Commerce) can be deducted from taxable income as a small business mutual aid deduction.
+
+--- Q102 [Real Estate] ---
+Q: 「fixed asset tax」は(kotei shisanzei) apply to。
+  0: Only land
+  1: Land, buildings, and depreciable business assets
+  2: Only financial assets
+  3: Only vehicles
+E: Fixed asset tax is a local tax levied on land, buildings, and depreciable business assets. The standard rate is 1.4% of the assessed value, which is typically lower than market value.
+
+--- Q103 [Real Estate] ---
+Q: the 'city planning tax' (toshi keikakuzei) rateは何か。
+  0: 0.2% of assessed land/building value
+  1: 0.3% of assessed land/building value
+  2: 0.5% of assessed land/building value
+  3: 1.0% of assessed land/building value
+E: City planning tax is levied at 0.3% of the assessed value of land and buildings within designated city planning areas. Revenue is used for urban development projects.
+
+--- Q104 [Real Estate] ---
+Q: the 'registration and license tax' (touki menkyozei) when purchasing propertyは何か。
+  0: A fixed 50,000 yen regardless of property value
+  1: Varies by type of registration: 0.4% for ownership transfer, 0.2% for mortgage creation
+  2: 2% of the property purchase price
+  3: 5% of the property purchase price
+E: Registration tax for real estate: ownership transfer is generally 0.4% (residential land/building under certain conditions may be 0.3%), and mortgage registration is 0.2% of the loan amount.
+
+--- Q105 [Real Estate] ---
+Q: the maximum loan-to-value (LTV) ratio for FLAT 35 housing loansは何か。
+  0: 50%
+  1: 70%
+  2: 80%
+  3: 90%
+E: FLAT 35 (long-term fixed-rate housing loan) allows up to 70% LTV for general properties. For properties meeting certain seismic and insulation standards, LTV can go up to 90% in some cases.
+
+--- Q106 [Real Estate] ---
+Q: real estate investmentで、「cap rate」は(capitalization rate / kappu rate) measure。
+  0: The appreciation rate of property value
+  1: Annual net operating income divided by property value or purchase price
+  2: The mortgage interest rate
+  3: The vacancy rate of a property
+E: Cap rate = Annual net operating income / Property value. A 5% cap rate on a 100 million yen property means 5 million yen in annual net income. Higher cap rates indicate higher returns (and potentially higher risk).
+
+--- Q107 [Real Estate] ---
+Q: the 'real estate acquisition tax' (fudousan shutokuzei) for residential land under the 2024 rulesは何か。
+  0: 4% of property value
+  1: 3% of property value
+  2: 2% of property value
+  3: 1% of property value
+E: Real estate acquisition tax is 3% for land and residential buildings, and 4% for non-residential buildings and depreciable assets. The tax base is the government-assessed value (hyouka-kaku).
+
+--- Q108 [Real Estate] ---
+Q: a housing loan。does 'variable rate' (furidori kinri) meanはいくらか。
+  0: The rate changes every 5 years at the bank's discretion
+  1: The interest rate fluctuates based on market conditions throughout the loan
+  2: The rate is fixed for the entire loan period
+  3: The rate starts low and increases by 0.5% annually
+E: Variable rate (furidori) means the interest rate changes semi-annually based on short-term market rates. While it can go lower than fixed rates, it carries the risk of increasing over the loan period.
+
+--- Q109 [Real Estate] ---
+Q: a 'J-REIT' distribution yield (baitoku ritu)は何か。
+  0: The total return including price appreciation
+  1: Annual dividend per share divided by share price
+  2: The management fee as percentage of fund assets
+  3: The property vacancy rate
+E: Distribution yield = (Annual distribution per unit / Current unit price) x 100. It represents the cash return from dividends alone, not including capital gains/losses from unit price changes.
+
+--- Q110 [Real Estate] ---
+Q: the purpose of the 'real estate registry' (touki-bu) system in Japanは何か。
+  0: To assess property taxes only
+  1: To publicly record ownership rights and other legal interests in real property
+  2: To manage property rental agreements
+  3: To issue building permits
+E: The real estate registry (touki-bu) at the Legal Affairs Bureau records ownership transfers, mortgages, and other rights. Registration is required to assert legal rights against third parties.
+
+--- Q111 [Real Estate] ---
+Q: 'NOI' (Net Operating Income) in real estateは何か。
+  0: Total rent received from tenants
+  1: Gross rental income minus operating expenses (excluding debt service)
+  2: Profit after paying all expenses including mortgage
+  3: The property tax assessment value
+E: NOI = Gross Rental Income - Operating Expenses (property tax, insurance, management fees, maintenance, vacancy allowance). It does NOT include mortgage payments. NOI is key to evaluating property income potential.
+
+--- Q112 [Real Estate] ---
+Q: the 'right of surface' (chijou-ken) in Japanese real estate lawは何か。
+  0: The right to build on another person's land for a specified purpose and period
+  1: The right to excavate underground resources
+  2: The right to use the land surface for farming
+  3: The right to park vehicles on public roads
+E: The right of surface (chijou-ken) allows the holder to own buildings or structures on another person's land. It is commonly used for long-term building leases and separates land ownership from building ownership.
+
+--- Q113 [Real Estate] ---
+Q: the 'depreciation' (taishaku/tei-kashou) method for buildings in Japanは何か。
+  0: Buildings do not depreciate; only land does
+  1: Buildings are depreciated over their statutory useful life using straight-line or declining balance methods
+  2: Buildings depreciate at a fixed 10% per year
+  3: Only residential buildings can be depreciated
+E: In Japan, buildings (not land) are depreciated over statutory useful lives (e.g., 47 years for reinforced concrete residential, 22 years for wooden residential). The straight-line method is common for residential property.
+
+--- Q114 [Real Estate] ---
+Q: real estate investmentで、「yield on cost」は(cost yirudo) measure。
+  0: Current market value divided by original purchase price
+  1: Annual NOI divided by total acquisition cost (purchase price + renovation + closing costs)
+  2: Mortgage rate divided by property value
+  3: Property tax rate
+E: Yield on cost = Annual NOI / Total acquisition cost (including purchase price, renovation, registration fees, etc.). It measures the actual cash yield based on total investment, not just current market value.
+
+--- Q115 [Real Estate] ---
+Q: a 'housing loan surety company' (juutaku roon hoshou gaisha)は何か。
+  0: A company that provides housing loans directly
+  1: A company that guarantees repayment to the lending bank if the borrower defaults
+  2: A company that appraises property values
+  3: A government agency that subsidizes housing loans
+E: A housing loan surety company guarantees repayment to the bank in case of borrower default. The borrower pays a guarantee fee (typically 0.2-2% of loan amount), which is often added to the loan.
+
+--- Q116 [Real Estate] ---
+Q: the main benefit of FLAT 35 over bank variable-rate loansは何か。
+  0: Lower initial interest rate
+  1: Fixed interest rate for the entire loan period (up to 35 years)
+  2: No down payment required
+  3: Higher maximum loan amount
+E: FLAT 35's primary advantage is the long-term fixed interest rate for the entire repayment period (up to 35 years), providing payment certainty regardless of interest rate fluctuations.
+
+--- Q117 [Real Estate] ---
+Q: 'right of lease' (chin-ken) in Japanese property lawは何か。
+  0: The landlord's right to terminate a lease at any time
+  1: The tenant's right to use leased property for the agreed purpose
+  2: The right to sublease without landlord consent
+  3: The government's right to requisition private property
+E: The right of lease (chin-ken) grants the tenant the right to occupy and use the leased property for the agreed purpose and period. Landlord rights to terminate are limited by the Land Lease and Building Lease Act.
+
+--- Q118 [Real Estate] ---
+Q: the 'stamp duty' (inshi-zei) on a housing loan agreementは何か。
+  0: A fixed 10,000 yen regardless of loan amount
+  1: Varies by loan amount: 2,000-48,000 yen
+  2: 1% of the loan amount
+  3: 0.5% of the loan amount
+E: Stamp duty on housing loan contracts varies by loan amount: 2,000 yen for loans under 5 million, up to 48,000 yen for loans over 100 million yen. The exact amount is specified on the contract.
+
+--- Q119 [Real Estate] ---
+Q: real estate financeで、「DSCR」は(Debt Service Coverage Ratio) measure。
+  0: The ratio of debt to equity
+  1: Annual NOI divided by annual debt service (loan payments)
+  2: The ratio of property value to loan amount
+  3: The interest rate relative to cap rate
+E: DSCR = Annual NOI / Annual debt service. A DSCR of 1.2 means NOI covers debt payments 1.2 times. Lenders typically require DSCR above 1.0-1.2 for investment property loans.
+
+--- Q120 [Real Estate] ---
+Q: the depreciation period for a newly built reinforced concrete (RC) residential building in Japanは何か。
+  0: 22年
+  1: 47年
+  2: 50年
+  3: 60年
+E: A newly built reinforced concrete (RC) residential building has a statutory useful life of 47 years for depreciation purposes. Wooden residential buildings are 22 years, and steel-frame varies by thickness.
+
+--- Q121 [Real Estate] ---
+Q: What additional cost should buyers budget beyond the property price when purchasing real estate in Japan。
+  0: No additional costs beyond the purchase price
+  1: Approximately 5-7% of property price for taxes, fees, and agent commissions
+  2: Fixed 500,000 yen regardless of property value
+  3: Approximately 1-2% of property price
+E: Buyers should budget approximately 5-7% of the property price for: acquisition tax, registration tax, stamp duty, agent commission (3% + 60,000 yen + tax), property insurance, and other miscellaneous fees.
+
+--- Q122 [Inheritance] ---
+Q: 誰がare the 'statutory heirs' (hou-teki soushonzoku) in Japanese inheritance law when the deceased is survived by a spouse and childrenか。
+  0: Spouse inherits 100%
+  1: Spouse gets 1/2, children share 1/2 equally
+  2: Children inherit 100%, spouse gets nothing
+  3: Spouse gets 2/3, children share 1/3
+E: When both spouse and children survive, the spouse receives 1/2 and the children share the remaining 1/2 equally. If there are multiple children, each child's share is further divided equally.
+
+--- Q123 [Inheritance] ---
+Q: a 'notarized will' (kousei shouyo) in Japanは何か。
+  0: A will written on any paper and signed
+  1: A will dictated to and certified by a notary public
+  2: A verbal will made during an emergency
+  3: A will filed with the family court
+E: A notarized will (kousei shouyo) is created by the testator appearing before a notary public who certifies the will's authenticity. It has the highest probative force and cannot be easily contested.
+
+--- Q124 [Inheritance] ---
+Q: the 'statutory portion' (idou-bun) that protects heirs from being fully disinheritedは何か。
+  0: A fixed 1/3 of the estate for all heirs
+  1: A minimum share guaranteed by law to certain statutory heirs (varies by heir type)
+  2: The entire estate divided equally among all heirs
+  3: No protection; the will is absolute
+E: The statutory portion (idou-bun) guarantees certain heirs a minimum share: 1/2 of statutory share for lineal descendants (children), 1/2 for lineal ascendants (parents), 1/3 for siblings.
+
+--- Q125 [Inheritance] ---
+Q: 'inheritance division agreement' (souzoku bunkatsu kyoutei)は何か。
+  0: A court order dividing the estate
+  1: A written agreement among heirs on how to divide inherited assets
+  2: A tax filing document
+  3: A government-issued certificate of inheritance
+E: An inheritance division agreement is a written contract among all heirs specifying how the estate's assets are divided. All heirs must sign and seal it. It becomes effective upon agreement of all parties.
+
+--- Q126 [Inheritance] ---
+Q: the inheritance tax rate for a taxable inheritance of 100 million yen per heirは何か。
+  0: 20%
+  1: 30%
+  2: 40%
+  3: 50%
+E: For a taxable inheritance of 100 million yen, the rate is 30% with a quick calculation deduction of 7 million yen. Actual tax = 100 million x 30% - 7 million = 23 million yen.
+
+--- Q127 [Inheritance] ---
+Q: a 'family trust' (kazoku torasuto) in the context of inheritance planningは何か。
+  0: A trust created by a person during their lifetime to manage assets for family benefit
+  1: A government trust for all inheritance matters
+  2: A type of life insurance
+  3: A court-managed inheritance fund
+E: A family trust is established during the settlor's lifetime, transferring asset management to a trustee for the benefit of designated family members (beneficiaries). It can help smooth inheritance transitions.
+
+--- Q128 [Inheritance] ---
+Q: to inheritance if there is no will and no known heirsとき何が起こるか。
+  0: The government automatically distributes it equally to all relatives
+  1: The property becomes state property after a legal process
+  2: It goes to the deceased's employer
+  3: It remains with the previous owner's family indefinitely
+E: If no heirs exist after exhaustive search (including family court proceedings), the inherited property becomes state property (kokuyuu ni ki-kou) under the Civil Code.
+
+--- Q129 [Inheritance] ---
+Q: the 'legacy' (isshou) in Japanese inheritance lawは何か。
+  0: Property inherited by the eldest son
+  1: A specific gift or bequest to a person named in the will
+  2: The deceased's total estate value
+  3: The inheritance tax assessment
+E: A legacy (isshou) is a specific bequest in a will directing that particular property or a specified amount be given to a particular person or organization (who may or may not be a statutory heir).
+
+--- Q130 [Inheritance] ---
+Q: the deadline for filing an inheritance tax return (souzokuzei shinkoku) in Japanは何か。
+  0: 3 months from the date of death
+  1: 6 months from the date of death
+  2: 10 months from the date of death
+  3: 12 months from the date of death
+E: The inheritance tax return must be filed within 10 months from the date of death. The tax payment is also due within this period. Extensions are available in some circumstances.
+
+--- Q131 [Inheritance] ---
+Q: the inheritance order when the deceased has no spouse or childrenは何か。
+  0: Siblings inherit everything
+  1: Parents (lineal ascendants) inherit first; siblings only if no parents survive
+  2: The government takes everything
+  3: Nephews and nieces inherit
+E: The inheritance order is: (1) children, (2) lineal ascendants (parents/grandparents), (3) siblings. If no children, parents inherit. If no parents, siblings inherit. Spouse always inherits alongside.
+
+--- Q132 [Inheritance] ---
+Q: assetsは何か: included in the 'gross inheritance estate' (souzoku zaisan) for tax purposes
+  0: Only real estate and bank deposits
+  1: All property, money, claims, and rights transferred at death, plus certain deemed gifts
+  2: Only assets mentioned in the will
+  3: Only assets located in Japan
+E: The gross inheritance estate includes all assets transferred at death, plus certain gifts made within 3 years before death, life insurance proceeds, and retirement benefits received by heirs.
+
+--- Q133 [Inheritance] ---
+Q: the 'deemed acquisition' (mitame shutoku) rule in inheritance taxは何か。
+  0: The government automatically assesses property at market value
+  1: Life insurance death benefits and retirement benefits received by heirs are treated as inheritance
+  2: Gifts made 10 years before death are all included
+  3: Overseas assets are automatically excluded
+E: Life insurance death benefits paid to heirs and retirement lump sums (taishoku kin) received by heirs are deemed part of the inherited estate for tax calculation, even though they are received separately.
+
+--- Q134 [Inheritance] ---
+Q: the purpose of the 'inheritance property evaluation method' (souzoku zaisan hyouka)は何か。
+  0: To determine the market price for property sale
+  1: To calculate the inheritance tax base using standardized assessment values
+  2: To divide property among heirs equally
+  3: To appraise property for mortgage lending
+E: Inheritance property is evaluated using specific methods: land at assessed value (hyouka-kaku) x road-side price multiplier, buildings at assessed value, listed stocks at closing price x 0.8 (70% for large shareholders).
+
+--- Q135 [Inheritance] ---
+Q: 'disclaimer of inheritance' (souzoku hiki-ukemi no shinpai)は何か。
+  0: Accepting all inheritance without conditions
+  1: The legal right to refuse/renounce inheritance to avoid inheriting debts
+  2: A simplified inheritance procedure for small estates
+  3: The court's decision to distribute inheritance
+E: Disclaimer of inheritance (souzoku hiki-ukemi no shinpai - formally 'hikikomi') allows heirs to renounce their inheritance entirely. This is useful when debts exceed assets. Must be filed within 3 months of learning of the death.
+
+--- Q136 [Inheritance] ---
+Q: the inheritance division when the deceased is survived by a spouse and parents (no children)は何か。
+  0: Spouse gets 1/2, parents share 1/2
+  1: Spouse gets 2/3, parents share 1/3
+  2: Spouse gets 3/4, parents share 1/4
+  3: Spouse gets 100%
+E: When the spouse and parents survive (no children), the spouse receives 2/3 and the parents share the remaining 1/3. If both parents survive, they each get 1/6 of the total estate.
+
+--- Q137 [Inheritance] ---
+Q: the tax reduction for 'small-scale residential land' (shoukibo jutaku tochi) in inheritance taxは何か。
+  0: 100 million yen deduction
+  1: Assessed value reduced by 80% (up to 330 sqm of residential land)
+  2: No tax on residential land
+  3: 50% reduction in assessed value
+E: The small-scale residential land reduction allows an 80% reduction in assessed value for up to 330 sqm of residential land where the heir (or family) lives. This significantly reduces inheritance tax.
+
+--- Q138 [Inheritance] ---
+Q: gifts made within 3 years before death treated for inheritance taxはどうか。
+  0: They are completely exempt from inheritance tax
+  1: They are added back to the inheritance estate for tax calculation (with gradual phase-in)
+  2: They are subject to double taxation (both gift and inheritance tax)
+  3: They are excluded from all taxation
+E: Gifts made within 3 years before death are added back to the inheritance estate (with a sliding scale: 100% for gifts within 1 year, 80% within 2 years, 60% within 3 years). This prevents deathbed tax avoidance.
+
+--- Q139 [Inheritance] ---
+Q: どの種類のwillcreated entirely by the testator's own hand and signedか。
+  0: Notarized will (kousei shouyo)
+  1: Holographic will (jihitsu shouyo)
+  2: Secret will (himitsu shouyo)
+  3: Probate will (shousen shouyo)
+E: A holographic will (jihitsu shouyo) must be written entirely in the testator's own handwriting, dated, and signed. No witnesses are required. It is the simplest but most easily contested form.
+
+--- Q140 [Inheritance] ---
+Q: the spouse's inheritance share when the deceased has childrenは何か。
+  0: 1/3
+  1: 1/2
+  2: 2/3
+  3: 3/4
+E: When the deceased has a spouse and children, the spouse receives 1/2 of the estate. The children share the remaining 1/2 equally. This is the standard statutory distribution.
+
+--- Q141 [Pension & Social Security] ---
+Q: the full monthly benefit amount for the National Pension (kokumin nenkin) basic pension (as of 2024)は何か。
+  0: About 40,000 yen
+  1: About 55,000 yen
+  2: About 68,000 yen (full contribution for 40 years)
+  3: 約10万円
+E: The full basic pension benefit for 40 years of full contributions is approximately 68,000 yen per month (FY2024). The actual amount received is proportional to months of contribution.
+
+--- Q142 [Pension & Social Security] ---
+Q: At what age can men born after April 1961 start receiving the basic pension。
+  0: 60 years old
+  1: 62 years old
+  2: 65 years old
+  3: 70 years old
+E: The basic pension eligibility age has been gradually raised. For men born after April 1961 and women after April 1966, the full pension eligibility age is 65. Early receipt (60-64) at a reduced rate is possible.
+
+--- Q143 [Pension & Social Security] ---
+Q: the ' Employees' Pension Insurance' (kousei nenkin hoken) funded byは何か。
+  0: Government general revenue only
+  1: Employee and employer contributions (equal shares)
+  2: Employee contributions only
+  3: Voluntary individual contributions
+E: Employees' Pension Insurance premiums are shared equally between employee and employer. As of 2024, the total rate is 18.3% of monthly standard remuneration (9.15% each).
+
+--- Q144 [Pension & Social Security] ---
+Q: the ' special lump-sum withdrawal payment' (ikkin kanri seitai kuikase - lump-sum withdrawal) for foreignersは何か。
+  0: A bonus payment upon retirement
+  1: A lump-sum refund of pension premiums paid when a foreign resident leaves Japan permanently
+  2: A death benefit for pension recipients
+  3: An early withdrawal penalty
+E: Foreign residents who have paid into the Japanese pension system for at least 6 months can apply for a lump-sum withdrawal (dattai ichijikin) within 2 years of leaving Japan permanently.
+
+--- Q145 [Pension & Social Security] ---
+Q: the 'Kyousai Pension' (mutual aid pension)は何か。
+  0: A private company pension plan
+  1: A pension for employees of local governments and certain public organizations
+  2: The basic national pension
+  3: A voluntary supplementary pension
+E: The Kyousai Pension (local government mutual aid pension) covers employees of local governments and some public organizations. It provides pension benefits in addition to the basic pension.
+
+--- Q146 [Pension & Social Security] ---
+Q: the ' model pension' (moderu nenkin / retirement lump sum) in corporate pension plansは何か。
+  0: The national basic pension
+  1: A one-time retirement payment from an employer upon leaving the company
+  2: A voluntary pension contribution plan
+  3: The employee pension insurance
+E: The model pension (taishoku kin) is a lump-sum retirement payment made by employers when employees leave the company. It is based on years of service, final salary, and reasons for retirement.
+
+--- Q147 [Pension & Social Security] ---
+Q: the contribution rate for the National Pension (kokumin nenkin) as of 2024は何か。
+  0: 15,000 yen per month
+  1: 16,980 yen per month
+  2: 16,590 yen per month (increasing annually until reaching 16,900 yen in 2025)
+  3: 20,000 yen per month
+E: The National Pension contribution for FY2024 is 16,590 yen per month for category 1 insured persons. The premium increases by 280 yen annually until it reaches 16,900 yen (reached in FY2025).
+
+--- Q148 [Pension & Social Security] ---
+Q: 'defined contribution' (kakutei kifu / iDeCo) pensionは何か。
+  0: A pension where the benefit amount is fixed regardless of contributions
+  1: A pension where contributions are defined and the benefit depends on investment returns
+  2: A government pension for civil servants
+  3: A private life insurance product
+E: In a defined contribution pension (like iDeCo), the contribution amount is fixed and the final benefit depends on investment performance. The participant bears the investment risk but has control over asset allocation.
+
+--- Q149 [Pension & Social Security] ---
+Q: the 'defined benefit' (kakutei kyuu-yo) corporate pensionは何か。
+  0: A pension where the monthly contribution varies each year
+  1: A pension where the retirement benefit is predetermined based on salary and years of service
+  2: A voluntary individual savings plan
+  3: A government welfare payment
+E: In a defined benefit (DB) corporate pension, the employer promises a specific retirement benefit based on the employee's salary history and years of service. The employer bears the investment risk.
+
+--- Q150 [Pension & Social Security] ---
+Q: the ' welfare pension' (kousei nenkin / welfare pension) old-age benefit formula based onは何か。
+  0: Fixed amount regardless of earnings
+  1: Average standard monthly remuneration x benefit rate x months of contribution
+  2: Total lifetime contributions divided by 20 years
+  3: Final salary x 50%
+E: The welfare pension (old-age employees' pension II) benefit = Average standard monthly remuneration x multiplier (currently 7.125/1000 per month for men born 1965+) x insured months.
+
+--- Q151 [Pension & Social Security] ---
+Q: the iDeCo contribution limit for company employees (category 2)は何か。
+  0: 23,000 yen per month
+  1: 68,000 yen per month
+  2: 12,000 yen per month
+  3: 36,000 yen per month
+E: For company employees (category 2), the iDeCo monthly contribution limit is 23,000 yen. The limit varies by category: 68,000 for self-employed (category 1), 12,000-23,000 for civil servants.
+
+--- Q152 [Pension & Social Security] ---
+Q: the reduction rate for receiving the basic pension at age 60 instead of 65は何か。
+  0: 10% reduction
+  1: 21% reduction (0.5% x 42 months)
+  2: 24% reduction (0.5% x 48 months)
+  3: 30% reduction
+E: Early receipt of the basic pension at age 60 results in a 0.5% reduction per month for each month before age 65. At age 60, this is 60 months x 0.5% = 24% reduction.
+
+--- Q153 [Pension & Social Security] ---
+Q: the 'survivor pension' (izoku nenkin)は何か。
+  0: A pension paid to the deceased's employer
+  1: A pension paid to the surviving spouse and children of a deceased pension contributor
+  2: A lump-sum death benefit
+  3: A pension for surviving business owners
+E: The survivor pension (izoku nenkin) provides monthly income to the surviving spouse and qualifying children of a deceased person who was receiving or had enough contributions for a pension.
+
+--- Q154 [Pension & Social Security] ---
+Q: the 'employment insurance' (koyou hoken) unemployment benefit duration for a person with 10 years of contributionsは何か。
+  0: 90日
+  1: 150日
+  2: 240 days (90-330 days depending on age and circumstances)
+  3: 365日
+E: Unemployment benefit duration depends on age, years of insurance, and reason for unemployment. For 10 years of contributions and involuntary separation, it ranges from 90-330 days depending on age.
+
+--- Q155 [Pension & Social Security] ---
+Q: the 'workers' compensation insurance' (rousai hoken)は何か。
+  0: A voluntary insurance for workplace injuries
+  1: Mandatory insurance covering work-related injury, illness, and death
+  2: A private life insurance for workers
+  3: Health insurance for unemployed workers
+E: Workers' compensation insurance (rousai hoken) is mandatory for all employers. It covers medical expenses, disability benefits, and survivor benefits for work-related injuries, illness, or death.
+
+--- Q156 [Pension & Social Security] ---
+Q: the three categories of insured persons in the National Pension systemは何か。
+  0: Children, adults, and elderly
+  1: Category 1 (self-employed/students), Category 2 (company employees), Category 3 (dependents of Cat. 2)
+  2: Full-time, part-time, and temporary workers
+  3: Public servants, private employees, and self-employed
+E: Category 1: Self-employed, freelancers, students aged 20+ (pay full premium directly). Category 2: Company employees (premium split with employer). Category 3: Spouses of Category 2 earning under 1.3 million yen (exempt from direct payment).
+
+--- Q157 [Pension & Social Security] ---
+Q: the 'child-rearing exemption' (ikuji menjo) in the pension systemは何か。
+  0: Full exemption from pension contributions while on maternity leave
+  1: Months of child-rearing are counted as paid contributions without actual payment required
+  2: Additional pension benefits for having children
+  3: Extended retirement age for parents
+E: The child-rearing exemption allows parents (primarily mothers) to have their pension contribution months during child-rearing treated as if full contributions were made, even though no premium is required.
+
+--- Q158 [Pension & Social Security] ---
+Q: the ' disability pension' (shougai nenkin) eligibility based onは何か。
+  0: Any physical or mental disability regardless of cause
+  1: Disability (1st or 2nd grade) that originated from illness or injury during the insured period
+  2: Work-related injuries only
+  3: Age over 60 with any disability
+E: The basic disability pension is paid for 1st or 2nd grade disabilities caused by illness or injury during the insured period. The welfare disability pension applies to 3rd grade. Work-related injuries are covered by workers' compensation instead.
+
+--- Q159 [Pension & Social Security] ---
+Q: What percentage of the iDeCo contributions can be deducted from taxable income。
+  0: 50%
+  1: 100% of contributions are fully deductible
+  2: 75%
+  3: Only the employer matching portion
+E: The entire iDeCo contribution amount is deductible from taxable income. This reduces both income tax (5-45%) and residence tax (10%), making iDeCo highly tax-efficient, especially for higher earners.
+
+--- Q160 [Pension & Social Security] ---
+Q: the ' elderly person's exemption' for income taxは何か。
+  0: No tax for anyone over 65
+  1: Taxpayers aged 65+ with income under certain thresholds get an additional deduction
+  2: Reduced pension tax rate for all elderly
+  3: Free medical care for all elderly
+E: Taxpayers aged 65+ with total income under 10 million yen (where pension income is the main source) receive an additional 500,000 yen elderly person's deduction on pension income, reducing their tax burden.
+
+--- Q161 [Pension & Social Security] ---
+Q: the 'employee pension Type II' (kousei nenkin dai-2-kyuu)は何か。
+  0: The basic national pension for all residents
+  1: An earnings-related pension for company employees on top of the basic pension
+  2: A voluntary supplementary pension
+  3: The mutual aid pension for civil servants
+E: Employees' Pension Type II (kousei nenkin dai-2-kyuu) provides earnings-related pension benefits to company employees in addition to the basic pension (Type I). Both are mandatory for eligible employees.
+
+--- Q162 [Pension & Social Security] ---
+Q: iDeCo assets be withdrawn without penaltyのときはいつか。
+  0: Any time for any reason
+  1: Only at age 60 or upon death, disability, or specific qualifying events
+  2: After 5 years of participation
+  3: At age 55 with a penalty
+E: iDeCo assets are locked until age 60 (the earliest start age). Earlier withdrawal is only permitted for death, severe disability (Grade 1-3), or other specific qualifying events. This illiquidity is a key consideration.
+
+--- Q163 [Risk Management] ---
+Q: the fundamental principle of diversification in investment risk managementは何か。
+  0: Investing 100% in one high-performing asset
+  1: Spreading investments across different asset classes to reduce overall risk
+  2: Investing only in government bonds
+  3: Timing the market to avoid losses
+E: Diversification reduces unsystematic (asset-specific) risk by spreading investments across different asset classes, sectors, and geographies. It does not eliminate systematic (market-wide) risk.
+
+--- Q164 [Risk Management] ---
+Q: 'risk tolerance' (risk tarento)は何を意味するか。
+  0: The ability to accept the maximum possible loss
+  1: An individual's ability and willingness to endure investment losses
+  2: The guarantee that an investment will not lose value
+  3: The minimum return required on an investment
+E: Risk tolerance combines both capacity (financial ability to absorb losses based on income, assets, time horizon) and willingness (psychological comfort with volatility). Both should be assessed for proper asset allocation.
+
+--- Q165 [Risk Management] ---
+Q: 'asset allocation' (shisan haibun)は何か。
+  0: Selling assets to pay off debts
+  1: The strategic distribution of investment portfolio across asset classes
+  2: Choosing between stocks and bonds only
+  3: Allocating salary between savings and spending
+E: Asset allocation is the process of dividing investments among asset classes (stocks, bonds, cash, real estate, etc.) based on risk tolerance, time horizon, and financial goals. It is the primary determinant of portfolio returns.
+
+--- Q166 [Risk Management] ---
+Q: investment riskで、「standard deviation」は(hyoujun hensa) measure。
+  0: The average return of an investment
+  1: The degree of variation (volatility) of returns from the average
+  2: The maximum possible loss
+  3: The correlation between two investments
+E: Standard deviation measures the dispersion of returns around the average. A higher standard deviation means returns are more spread out (higher volatility/risk). A lower standard deviation means more consistent returns.
+
+--- Q167 [Risk Management] ---
+Q: the 'risk-return tradeoff' (risk-return toredo-ofu)は何か。
+  0: Higher risk always guarantees higher returns
+  1: Higher potential returns require accepting higher risk of loss
+  2: Risk-free investments provide the highest returns
+  3: All investments have the same risk level
+E: The risk-return tradeoff principle states that potential return increases with risk. Higher-risk investments (stocks, FX) offer higher expected returns than lower-risk ones (bonds, deposits), but also greater potential for loss.
+
+--- Q168 [Risk Management] ---
+Q: 'systematic risk' (keitou risk) vs 'unsystematic risk' (hi-keitou risk)は何か。
+  0: Systematic = company-specific; Unsystematic = market-wide
+  1: Systematic = market-wide risk; Unsystematic = company/sector-specific risk
+  2: Both refer to the same thing
+  3: Systematic = foreign exchange risk; Unsystematic = interest rate risk
+E: Systematic (market) risk affects all assets (economic downturn, inflation). It cannot be diversified away. Unsystematic risk is asset-specific and CAN be reduced through diversification.
+
+--- Q169 [Risk Management] ---
+Q: 'rebalancing' (riba-ransingu) in portfolio managementは何か。
+  0: Selling all investments when the market drops
+  1: Periodically adjusting portfolio back to target allocation percentages
+  2: Changing investment strategy every month
+  3: Adding more money to losing investments
+E: Rebalancing involves periodically buying/selling to restore the portfolio to its target allocation. If stocks grew from 60% to 70%, sell some stocks and buy bonds to return to 60/40. This enforces 'buy low, sell high.'
+
+--- Q170 [Risk Management] ---
+Q: stock analysisで、「beta」はmeasure。
+  0: The total return of a stock
+  1: The volatility of a stock relative to the overall market
+  2: The dividend yield of a stock
+  3: The trading volume of a stock
+E: Beta measures a stock's sensitivity to market movements. Beta > 1 means the stock is more volatile than the market; Beta < 1 means less volatile; Beta = 1 means it moves with the market.
+
+--- Q171 [Risk Management] ---
+Q: the 'Sharpe ratio' used forは何か。
+  0: Measuring a company's debt level
+  1: Evaluating risk-adjusted return (excess return per unit of risk)
+  2: 保険料の計算
+  3: Determining tax brackets
+E: The Sharpe ratio = (Portfolio return - Risk-free rate) / Portfolio standard deviation. A higher Sharpe ratio indicates better risk-adjusted returns. It helps compare investments with different risk levels.
+
+--- Q172 [Risk Management] ---
+Q: a 'hedging' strategy in financial risk managementは何か。
+  0: Betting on the market going up
+  1: Taking an offsetting position to reduce potential losses from adverse price movements
+  2: Selling all investments before a market crash
+  3: Investing only in gold
+E: Hedging involves taking an offsetting position (e.g., buying put options, currency forwards) to reduce potential losses from adverse price movements. It reduces risk but may also reduce potential gains.
+
+--- Q173 [Risk Management] ---
+Q: ' liquidity risk' in investmentは何か。
+  0: The risk of a company going bankrupt
+  1: The risk of being unable to sell an investment quickly at a fair price
+  2: The risk of interest rate changes
+  3: The risk of currency devaluation
+E: Liquidity risk is the risk that an asset cannot be sold quickly enough to prevent a loss, or must be sold at a significant discount. Real estate and small-cap stocks typically have higher liquidity risk than large-cap stocks or government bonds.
+
+--- Q174 [Risk Management] ---
+Q: 'credit risk' in bond investingは何か。
+  0: The risk that interest rates will rise
+  1: The risk that the bond issuer will default on interest or principal payments
+  2: The risk that the bond's price will decrease
+  3: The risk of inflation eroding returns
+E: Credit risk (default risk) is the possibility that a bond issuer fails to make interest payments or repay the principal. Credit ratings (AAA to D) assess this risk. Higher credit risk demands higher yields.
+
+--- Q175 [Risk Management] ---
+Q: the recommended stock allocation percentage for a person in their 30s with moderate risk toleranceは何か。
+  0: 20-30% stocks
+  1: 60-80% stocks
+  2: 100% stocks
+  3: 10-20% stocks
+E: A common rule of thumb: stock allocation = (110 - age)%. For someone in their 30s, this suggests 70-80% stocks. The remaining 20-30% would be in bonds/cash for stability. This aligns with long time horizons.
+
+--- Q176 [Risk Management] ---
+Q: 'currency risk' (kawase risk) in international investingは何か。
+  0: The risk of counterfeit currency
+  1: The risk of loss from exchange rate fluctuations affecting foreign investments
+  2: The risk of a country changing its currency
+  3: The risk of inflation in the investor's home country
+E: Currency risk arises when investing in foreign assets denominated in other currencies. Even if the foreign investment performs well, a strengthening home currency can reduce returns when converted back.
+
+--- Q177 [Risk Management] ---
+Q: the 'efficient frontier' in Modern Portfolio Theoryは何か。
+  0: The line representing the highest possible return for any risk level
+  1: The set of optimal portfolios offering the highest expected return for each level of risk
+  2: The boundary between risky and risk-free assets
+  3: The minimum investment needed for diversification
+E: The efficient frontier, developed by Markowitz, shows optimal portfolios that maximize expected return for a given risk level. Portfolios below the frontier are suboptimal; those on the frontier offer the best risk-return tradeoff.
+
+--- Q178 [Risk Management] ---
+Q: 'Value at Risk' (VaR)は何を意味するか。
+  0: The total value of an investment portfolio
+  1: The maximum expected loss over a given time period at a given confidence level
+  2: The average return of a portfolio
+  3: The probability of a market crash
+E: VaR estimates the maximum loss with a given probability over a specific time. Example: 1-day 95% VaR of 1 million yen means there is a 95% chance of losing no more than 1 million yen in a single day.
+
+--- Q179 [Risk Management] ---
+Q: ' dollar-cost averaging's key advantage in risk managementは何か。
+  0: It guarantees profits in any market
+  1: It reduces the impact of timing risk by spreading purchases over time
+  2: It eliminates all investment risk
+  3: It maximizes returns during bull markets
+E: Dollar-cost averaging reduces timing risk by purchasing at regular intervals regardless of price. It naturally buys more units when prices are low and fewer when high, smoothing the average purchase price over time.
+
+--- Q180 [External Economics] ---
+Q: GDP (Gross Domestic Product)は何を意味するか。
+  0: The total wealth of a country's citizens
+  1: The total value of all final goods and services produced within a country in a period
+  2: The total exports minus imports
+  3: The government's annual budget
+E: GDP measures the total monetary value of all final goods and services produced within a country's borders in a specific time period. It includes consumption, investment, government spending, and net exports.
+
+--- Q181 [External Economics] ---
+Q: differenceはいくらか: between 'nominal GDP' and 'real GDP'
+  0: Nominal GDP is always lower than real GDP
+  1: Real GDP adjusts for inflation; nominal GDP does not
+  2: Real GDP includes only exports; nominal GDP includes everything
+  3: They are the same thing
+E: Nominal GDP is measured at current prices. Real GDP adjusts for inflation using a base year's prices, showing the actual change in output quantity. Real GDP is a better measure of economic growth.
+
+--- Q182 [External Economics] ---
+Q: 'inflation' (infure)は何か。
+  0: A decrease in the money supply
+  1: A general increase in prices and decrease in purchasing power of money
+  2: An increase in interest rates
+  3: A decrease in unemployment
+E: Inflation is the sustained increase in the general price level of goods and services, reducing the purchasing power of money. The Bank of Japan targets 2% inflation as part of its monetary policy.
+
+--- Q183 [External Economics] ---
+Q: the 'Bank of Japan's monetary policy' primarilyは何を意味するか。
+  0: Exchange rate stability
+  1: Price stability (2% inflation target) and financial system stability
+  2: Government debt reduction
+  3: Stock market performance
+E: The Bank of Japan's primary mandate under the Bank of Japan Act is price stability (targeting 2% CPI inflation) and ensuring the stability of the financial system. It uses interest rate policy and asset purchases.
+
+--- Q184 [External Economics] ---
+Q: 'deflation' (defure)は何か。
+  0: A general increase in prices
+  1: A sustained decrease in the general price level
+  2: An increase in the value of foreign currency
+  3: A decrease in government spending
+E: Deflation is a sustained decrease in the general price level. It increases the real value of debt, discourages spending (as consumers wait for lower prices), and can lead to economic stagnation.
+
+--- Q185 [External Economics] ---
+Q: the 'exchange rate' (kawase rate) and what does 'yen depreciation' (en-yasu) meanは何か。
+  0: Exchange rate is the price of gold; yen depreciation means yen strengthens
+  1: Exchange rate is the price of one currency in terms of another; yen depreciation means it takes more yen to buy foreign currency
+  2: Exchange rate is fixed by the government; yen depreciation is illegal
+  3: Exchange rate measures inflation; yen depreciation means lower prices
+E: The exchange rate is the price of one currency expressed in another. Yen depreciation (en-yasu, e.g., USD/JPY going from 110 to 150) means the yen has weakened - it takes more yen to buy one dollar.
+
+--- Q186 [External Economics] ---
+Q: the 'consumer price index' (CPI / shouhi bukka shisuu)は何か。
+  0: A measure of wholesale prices
+  1: An index measuring the average change in prices paid by consumers for a basket of goods and services
+  2: A measure of stock market performance
+  3: An index of interest rates over time
+E: The CPI tracks price changes in a fixed basket of goods and services typical of consumer spending. It is the primary measure of inflation used by central banks for monetary policy decisions.
+
+--- Q187 [External Economics] ---
+Q: 'quantitative easing' (ryouteki kinyuu kanwa / QE)は何か。
+  0: Tightening money supply to fight inflation
+  1: Central bank purchasing financial assets to increase money supply and stimulate the economy
+  2: Reducing government spending
+  3: Increasing interest rates
+E: QE involves a central bank purchasing government bonds and other assets from the market, increasing the money supply, lowering long-term interest rates, and encouraging lending and investment.
+
+--- Q188 [External Economics] ---
+Q: 「interest rate」は(kinri) represent from a borrower's perspective。
+  0: The profit earned on investments
+  1: The cost of borrowing money, expressed as a percentage of the principal
+  2: The inflation rate
+  3: The tax rate on interest income
+E: Interest rate is the cost of borrowing money (or the return for lending). It compensates the lender for the time value of money, inflation risk, and default risk. Central banks set policy rates that influence all other rates.
+
+--- Q189 [External Economics] ---
+Q: the 'short-term interest rate' (tannki kinri) controlled by the Bank of Japanは何か。
+  0: The rate on 30-year government bonds
+  1: The overnight call rate (target for interbank lending)
+  2: The mortgage rate
+  3: The corporate bond rate
+E: The Bank of Japan's primary policy tool is the overnight call rate - the interest rate banks charge each other for overnight loans. By targeting this rate, the BOJ influences all other short-term interest rates.
+
+--- Q190 [External Economics] ---
+Q: 'fiscal policy' (zaisei seisaku)は何か。
+  0: The central bank's interest rate decisions
+  1: Government spending and taxation decisions to influence the economy
+  2: Private sector investment decisions
+  3: International trade agreements
+E: Fiscal policy involves government decisions on taxation and spending to influence economic conditions. Expansionary fiscal policy (tax cuts, increased spending) stimulates the economy; contractionary policy cools it.
+
+--- Q191 [External Economics] ---
+Q: the impact of yen depreciation on Japanese exportersは何か。
+  0: Exports become more expensive, hurting exporters
+  1: Export revenue increases when converted to yen, benefiting exporters
+  2: No impact on exporters
+  3: Only importers are affected
+E: When the yen depreciates, Japanese export prices become cheaper in foreign currencies (boosting competitiveness), and when foreign earnings are converted to yen, more yen is received. This benefits exporters but hurts importers.
+
+--- Q192 [External Economics] ---
+Q: ' yield curve' (kikan kikan-betsu kinri / yield curve)は何か。
+  0: A graph showing inflation over time
+  1: A graph showing interest rates across different maturities
+  2: A chart of stock prices over time
+  3: A measure of currency fluctuations
+E: The yield curve plots interest rates (yields) of bonds with equal credit quality but different maturities. A normal (upward-sloping) curve indicates expectations of economic growth. An inverted curve may signal recession.
+
+--- Q193 [External Economics] ---
+Q: the ' Nikkei 225' indexは何か。
+  0: An index of all Japanese companies
+  1: A price-weighted index of 225 major stocks listed on the Tokyo Stock Exchange
+  2: A bond market index
+  3: A measure of Japanese GDP growth
+E: The Nikkei 225 is Japan's most widely followed stock market index, tracking 225 large-cap stocks on the Tokyo Stock Exchange. It is price-weighted, meaning higher-priced stocks have more influence.
+
+--- Q194 [External Economics] ---
+Q: the ' TOPIX' indexは何か。
+  0: A price-weighted index like the Nikkei 225
+  1: A market capitalization-weighted index of all First Section stocks on TSE
+  2: An index of government bond yields
+  3: A measure of foreign investment in Japan
+E: TOPIX (Tokyo Stock Price Index) tracks all stocks on the TSE Prime Market (formerly First Section), weighted by market capitalization. Unlike the Nikkei 225 (price-weighted), TOPIX better reflects the overall market.
+
+--- Q195 [Financial Regulations] ---
+Q: the 'Financial Services Agency' (FSA / kin'yu-cho) in Japanは何か。
+  0: A private banking regulatory body
+  1: The government agency responsible for overseeing financial institutions and markets
+  2: A consumer protection organization
+  3: The central bank of Japan
+E: The Financial Services Agency (FSA) is an external bureau of the Cabinet Office responsible for supervising banks, securities firms, insurance companies, and ensuring the stability of Japan's financial system.
+
+--- Q196 [Financial Regulations] ---
+Q: the ' suitability rule' (tekigou-sei no genri) in financial product salesは何か。
+  0: Selling the most profitable product for the company
+  1: Recommending products appropriate for the customer's knowledge, experience, and financial situation
+  2: Selling only government-guaranteed products
+  3: Recommending the same product to all customers
+E: The suitability rule requires financial institutions to assess each customer's knowledge, experience, financial situation, and investment objectives, and recommend only products that are appropriate for that customer.
+
+--- Q197 [Financial Regulations] ---
+Q: the purpose of ' customer identification' (kojin shikibetsu) requirements under anti-money laundering (AML) lawsは何か。
+  0: To increase sales of financial products
+  1: To verify customer identity and prevent money laundering and terrorist financing
+  2: To check customer credit scores
+  3: To track customer investment returns
+E: Customer identification (Know Your Customer / KYC) requires financial institutions to verify the identity of customers using official documents, preventing anonymous accounts from being used for money laundering or terrorism financing.
+
+--- Q198 [Financial Regulations] ---
+Q: the 'Financial Instruments and Exchange Act' (kin'yu shouhin torihiki-hou)は何か。
+  0: A law governing only bank operations
+  1: The primary law regulating securities markets, investment services, and disclosure in Japan
+  2: A tax law for financial transactions
+  3: An insurance regulation law
+E: The Financial Instruments and Exchange Act (FIEA) is the primary law regulating securities and financial instruments markets in Japan. It covers disclosure, market integrity, investor protection, and financial intermediary conduct.
+
+--- Q199 [Financial Regulations] ---
+Q: ' insider trading' (naibu torihiki) and what are the consequencesは何か。
+  0: Trading based on analysis of public financial statements (perfectly legal)
+  1: Trading securities based on material non-public information (illegal, subject to criminal penalties)
+  2: Trading through an online broker instead of a traditional one
+  3: Buying shares in the company you work for
+E: Insider trading is using material non-public information about a company to trade its securities for profit. It undermines market fairness and is punishable by criminal fines (up to 500 million yen for companies) and imprisonment.
+
+--- Q200 [Financial Regulations] ---
+Q: the 'Japan Securities Depository Center' (JASDEC / shouken boeki kikan)は何か。
+  0: A stock exchange
+  1: The central securities depository and clearing house for securities settlement
+  2: A regulatory body like the FSA
+  3: A government treasury
+E: JASDEC (Japan Securities Depository Center) handles book-entry transfer and settlement of securities in Japan. It operates the centralized system for securities settlement, reducing physical certificate handling.
+
+--- Q201 [Financial Regulations] ---
+Q: the ' Securities Report' (yuukashouken houkoku-sho) that listed companies must fileは何か。
+  0: A report to shareholders about dividends only
+  1: A comprehensive disclosure document containing financial statements and business information
+  2: A quarterly sales report
+  3: A tax filing document
+E: The Securities Report is filed annually by listed companies with the FSA, disclosing financial statements, business overview, corporate governance, and other material information for investor transparency.
+
+--- Q202 [Financial Regulations] ---
+Q: ' fiduciary duty' (shinrai gimu) of financial advisorsは何か。
+  0: The duty to maximize profits for the financial institution
+  1: The duty to act in the best interest of the client, prioritizing client interests above own interests
+  2: The duty to follow all government regulations
+  3: The duty to provide free advice to all customers
+E: Fiduciary duty requires financial advisors to put their clients' interests first. This means recommending the best products for the client's situation, not the ones that generate the most commissions or fees for the advisor.
+
+--- Q203 [Financial Regulations] ---
+Q: 'market manipulation' (shijou sousa) under Japanese lawは何か。
+  0: Legitimate day trading activity
+  1: Deliberate acts to create false or misleading appearance of trading activity or security prices
+  2: Investing based on market research
+  3: Selling stocks during a market downturn
+E: Market manipulation includes practices like painting the tape (fake trades), wash sales, and spreading false information to influence prices. It is illegal under the FIEA and carries criminal and civil penalties.
+
+--- Q204 [Financial Regulations] ---
+Q: the 'Customer Attribute Information' management requirement under FIEAは何か。
+  0: Collecting only customer names
+  1: Financial institutions must collect, verify, and regularly update customer investment knowledge, experience, and financial situation
+  2: Sharing customer data with third parties for marketing
+  3: Deleting customer records after each transaction
+E: Under FIEA, financial institutions must systematically collect and manage customer attribute information (investment experience, knowledge, financial resources, purpose), and use this information for suitability assessments.
+
+--- Q205 [Financial Regulations] ---
+Q: the 'TSE' (Tokyo Stock Exchange) reorganization that took effect in 2022は何か。
+  0: Merging with NASDAQ
+  1: Restructuring from 4 market sections into Prime, Standard, and Growth markets
+  2: Closing down the exchange entirely
+  3: Adding a cryptocurrency trading section
+E: In April 2022, the TSE reorganized from First Section, Second Section, Mothers, and JASDAQ into three segments: Prime (large/liquid), Standard (mid-sized), and Growth (startups/emerging), each with different listing standards.
+
+--- Q206 [Financial Regulations] ---
+Q: the ' Securities and Exchange Surveillance Commission' (SESC / shouken torihiki kanshi-iin-kai)は何か。
+  0: A private company monitoring stock prices
+  1: An external organization of the FSA responsible for investigating securities market violations
+  2: A consumer protection hotline
+  3: A division of the Bank of Japan
+E: The SESC is a commission under the FSA responsible for monitoring and investigating securities market violations including insider trading, market manipulation, and false disclosure. It can recommend enforcement actions.
+
+--- Q207 [Financial Regulations] ---
+Q: the 'paid-in capital' (shihon-kin) requirement for Type 1 financial instruments business registrationは何か。
+  0: No minimum capital requirement
+  1: 30 million yen minimum
+  2: 50 million yen minimum (or 10 million yen for certain categories)
+  3: 5 billion yen for securities companies (for proprietary trading), 30 million yen for investment advisory
+E: Type 1 financial instruments business (handling securities) requires 50 million yen minimum paid-in capital for broker-dealers. Type 2 (investment advisory and agency) requires 30 million yen. Banks and insurance companies have separate requirements.
+
+--- Q208 [Financial Regulations] ---
+Q: the purpose of the ' investor classification' system under FIEAは何か。
+  0: To categorize investors by wealth only
+  1: To determine the level of regulation and protection based on investor type (professional vs. general)
+  2: To set different tax rates for different investors
+  3: To restrict foreign investment in Japan
+E: The investor classification system categorizes investors as 'professional' (institutions, high-net-worth individuals meeting criteria) or 'general.' Professional investors receive fewer protections but can access wider investment products.
+

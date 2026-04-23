@@ -2,138 +2,222 @@
   {
     "id": 1,
     "category": "Compound Interest",
-    "title": "Future Value with Compound Interest",
-    "question": "If you invest 1,000,000 yen at 5% annual compound interest for 10 years, what is the approximate future value?",
+    "title": "Future Value with Compound Interest。",
+    "question": "you invest 1,000,000 yen at 5% annual compound interest for 10 years。is the approximate future valueはいくらか。",
     "options": [
-      {"text": "1,500,000 yen", "correct": false},
-      {"text": "1,628,895 yen", "correct": true},
-      {"text": "1,800,000 yen", "correct": false},
-      {"text": "2,000,000 yen", "correct": false}
+      {
+        "text": "1,500,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,628,895 yen",
+        "correct": true
+      },
+      {
+        "text": "1,800,000 yen",
+        "correct": false
+      },
+      {
+        "text": "2,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Future Value = PV x (1 + r)^n\nPV = Present Value\nr = annual interest rate\nn = number of years",
+    "cheatsheet": "Future Value = PV x (1 + r)^n\nPV = Present Value\nr = annual interest rate\nn = number of years。",
     "steps": [
-      "FV = 1,000,000 x (1 + 0.05)^10",
-      "FV = 1,000,000 x (1.05)^10",
+      "FV = 1,000,000 x (1 + 0.05)^10。",
+      "FV = 1,000,000 x (1.05)^10。",
       "(1.05)^10 = 1.6289...",
-      "FV = 1,000,000 x 1.6289 = 1,628,895 yen"
+      "FV = 1,000,000 x 1.6289 = 1,628,895 yen。"
     ],
     "explanation": "Using compound interest formula: FV = 1,000,000 x (1.05)^10 = 1,628,895 yen. The interest earned is 628,895 yen over 10 years thanks to compounding."
   },
   {
     "id": 2,
     "category": "Compound Interest",
-    "title": "Rule of 72 Application",
-    "question": "At an annual interest rate of 6%, approximately how many years does it take for an investment to double?",
+    "title": "72の法則",
+    "question": "At an annual interest rate of 6%, approximately how many years does it take for an investment to double。",
     "options": [
-      {"text": "8 years", "correct": false},
-      {"text": "10 years", "correct": false},
-      {"text": "12 years", "correct": true},
-      {"text": "15 years", "correct": false}
+      {
+        "text": "8年",
+        "correct": false
+      },
+      {
+        "text": "10年",
+        "correct": false
+      },
+      {
+        "text": "12年",
+        "correct": true
+      },
+      {
+        "text": "15年",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Rule of 72: Years to double = 72 / interest rate (%)\nThis is an approximation for compound growth.",
+    "cheatsheet": "Rule of 72: Years to double = 72 / interest rate (%)\nThis is an approximation for compound growth。",
     "steps": [
-      "Using Rule of 72: Years = 72 / 6",
+      "Using Rule of 72: Years = 72 / 6。",
       "72 / 6 = 12 years",
-      "Exact: (1.06)^12 = 2.012 (confirms doubling)"
+      "Exact: (1.06)^12 = 2.012 (confirms doubling)。"
     ],
     "explanation": "72 / 6 = 12 years. The Rule of 72 gives a close approximation. Exact calculation shows (1.06)^12 = 2.012, confirming the investment approximately doubles in 12 years."
   },
   {
     "id": 3,
     "category": "Compound Interest",
-    "title": "Effective Annual Rate (EAR)",
-    "question": "A bank offers 4% nominal annual interest compounded monthly. What is the effective annual rate (EAR)?",
+    "title": "Effective Annual Rate (EAR)。",
+    "question": "A bank offers 4% nominal annual interest compounded monthly. What is the effective annual rate (EAR)。。",
     "options": [
-      {"text": "4.00%", "correct": false},
-      {"text": "4.07%", "correct": true},
-      {"text": "4.20%", "correct": false},
-      {"text": "4.50%", "correct": false}
+      {
+        "text": "4.00%",
+        "correct": false
+      },
+      {
+        "text": "4.07%",
+        "correct": true
+      },
+      {
+        "text": "4.20%",
+        "correct": false
+      },
+      {
+        "text": "4.50%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "EAR = (1 + r/n)^n - 1\nr = nominal annual rate\nn = compounding frequency per year",
+    "cheatsheet": "EAR = (1 + r/n)^n - 1\nr = nominal annual rate\nn = compounding frequency per year。",
     "steps": [
-      "EAR = (1 + 0.04/12)^12 - 1",
-      "EAR = (1 + 0.00333...)^12 - 1",
-      "EAR = (1.00333...)^12 - 1",
-      "EAR = 1.04074... - 1 = 0.04074...",
-      "EAR = 4.07%"
+      "EAR = (1 + 0.04/12)^12 - 1。",
+      "EAR = (1 + 0.00333...)^12 - 1。",
+      "EAR = (1.00333...)^12 - 1。",
+      "EAR = 1.04074... - 1 = 0.04074。",
+      "EAR = 4.07%。"
     ],
     "explanation": "EAR = (1 + 0.04/12)^12 - 1 = 4.07%. The effective rate is higher than the nominal rate due to monthly compounding. The more frequent the compounding, the higher the EAR."
   },
   {
     "id": 4,
     "category": "Compound Interest",
-    "title": "Present Value Calculation",
-    "question": "What is the present value of 2,000,000 yen to be received in 5 years, assuming a 3% annual discount rate?",
+    "title": "Present Value Calculation。",
+    "question": "the present value of 2,000,000 yen to be received in 5 years, assuming a 3% annual discount rateは何か。",
     "options": [
-      {"text": "1,725,728 yen", "correct": true},
-      {"text": "1,800,000 yen", "correct": false},
-      {"text": "1,500,000 yen", "correct": false},
-      {"text": "1,940,000 yen", "correct": false}
+      {
+        "text": "1,725,728 yen",
+        "correct": true
+      },
+      {
+        "text": "1,800,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,500,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,940,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "PV = FV / (1 + r)^n\nFV = Future Value\nr = discount rate\nn = number of years",
+    "cheatsheet": "PV = FV / (1 + r)^n\nFV = Future Value\nr = discount rate\nn = number of years。",
     "steps": [
-      "PV = 2,000,000 / (1 + 0.03)^5",
-      "PV = 2,000,000 / (1.03)^5",
+      "PV = 2,000,000 / (1 + 0.03)^5。",
+      "PV = 2,000,000 / (1.03)^5。",
       "(1.03)^5 = 1.1593...",
-      "PV = 2,000,000 / 1.1593 = 1,725,728 yen"
+      "PV = 2,000,000 / 1.1593 = 1,725,728 yen。"
     ],
     "explanation": "PV = 2,000,000 / (1.03)^5 = 1,725,728 yen. Present value is always less than future value when the discount rate is positive, reflecting the time value of money."
   },
   {
     "id": 5,
     "category": "Compound Interest",
-    "title": "Compound vs Simple Interest",
-    "question": "You invest 500,000 yen for 3 years at 8%. How much MORE does compound interest earn compared to simple interest?",
+    "title": "Compound vs Simple Interest。",
+    "question": "You invest 500,000 yen for 3 years at 8%. How much MORE does compound interest earn compared to simple interest。",
     "options": [
-      {"text": "8,000 yen", "correct": false},
-      {"text": "9,856 yen", "correct": true},
-      {"text": "12,000 yen", "correct": false},
-      {"text": "15,000 yen", "correct": false}
+      {
+        "text": "8,000 yen",
+        "correct": false
+      },
+      {
+        "text": "9,856 yen",
+        "correct": true
+      },
+      {
+        "text": "12,000 yen",
+        "correct": false
+      },
+      {
+        "text": "15,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Simple Interest: FV = PV x (1 + r x n)\nCompound Interest: FV = PV x (1 + r)^n\nDifference = Compound - Simple",
+    "cheatsheet": "Simple Interest: FV = PV x (1 + r x n)\nCompound Interest: FV = PV x (1 + r)^n\nDifference = Compound - Simple。",
     "steps": [
-      "Simple: 500,000 x (1 + 0.08 x 3) = 500,000 x 1.24 = 620,000 yen",
-      "Compound: 500,000 x (1.08)^3 = 500,000 x 1.2597 = 629,856 yen",
-      "Difference: 629,856 - 620,000 = 9,856 yen"
+      "Simple: 500,000 x (1 + 0.08 x 3) = 500,000 x 1.24 = 620,000 yen。",
+      "Compound: 500,000 x (1.08)^3 = 500,000 x 1.2597 = 629,856 yen。",
+      "Difference: 629,856 - 620,000 = 9,856 yen。"
     ],
     "explanation": "Simple interest yields 620,000 yen while compound interest yields 629,856 yen. The difference of 9,856 yen comes from earning interest on previously accumulated interest."
   },
   {
     "id": 6,
     "category": "Compound Interest",
-    "title": "Monthly Compound Growth",
-    "question": "You save 30,000 yen per month in an account earning 0.2% monthly interest (2.4% nominal annual). After 12 months, what is the total balance?",
+    "title": "Monthly Compound Growth。",
+    "question": "You save 30,000 yen per month in an account earning 0.2% monthly interest (2.4% nominal annual). After 12 months, what is the total balance。",
     "options": [
-      {"text": "360,000 yen", "correct": false},
-      {"text": "363,840 yen", "correct": false},
-      {"text": "367,064 yen", "correct": true},
-      {"text": "370,000 yen", "correct": false}
+      {
+        "text": "360,000 yen",
+        "correct": false
+      },
+      {
+        "text": "363,840 yen",
+        "correct": false
+      },
+      {
+        "text": "367,064 yen",
+        "correct": true
+      },
+      {
+        "text": "370,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Future Value of Annuity:\nFV = PMT x [((1 + r)^n - 1) / r]\nPMT = periodic payment\nr = periodic interest rate\nn = number of periods",
+    "cheatsheet": "Future Value of Annuity:\nFV = PMT x [((1 + r)^n - 1) / r]\nPMT = periodic payment\nr = periodic interest rate\nn = number of periods。",
     "steps": [
-      "FV = 30,000 x [((1 + 0.002)^12 - 1) / 0.002]",
+      "FV = 30,000 x [((1 + 0.002)^12 - 1) / 0.002]。",
       "(1.002)^12 = 1.02426...",
-      "FV = 30,000 x [(1.02426 - 1) / 0.002]",
-      "FV = 30,000 x [0.02426 / 0.002]",
-      "FV = 30,000 x 12.1355 = 364,064 yen"
+      "FV = 30,000 x [(1.02426 - 1) / 0.002]。",
+      "FV = 30,000 x [0.02426 / 0.002]。",
+      "FV = 30,000 x 12.1355 = 364,064 yen。"
     ],
     "explanation": "Using the future value of annuity formula, the balance after 12 months is approximately 364,064 yen. Even a small monthly interest rate compounds meaningfully over time."
   },
   {
     "id": 7,
     "category": "Compound Interest",
-    "title": "Real Return After Inflation",
-    "question": "Your investment earns a nominal 5% return, but inflation is 2%. What is your approximate real return (Fisher equation)?",
+    "title": "Real Return After Inflation。",
+    "question": "Your investment earns a nominal 5% return, but inflation is 2%. What is your approximate real return (Fisher equation)。",
     "options": [
-      {"text": "2.00%", "correct": false},
-      {"text": "2.94%", "correct": true},
-      {"text": "3.00%", "correct": false},
-      {"text": "3.50%", "correct": false}
+      {
+        "text": "2.00%",
+        "correct": false
+      },
+      {
+        "text": "2.94%",
+        "correct": true
+      },
+      {
+        "text": "3.00%",
+        "correct": false
+      },
+      {
+        "text": "3.50%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Fisher Equation (approximate): Real rate = Nominal rate - Inflation rate\nExact: (1 + nominal) / (1 + inflation) - 1",
+    "cheatsheet": "Fisher Equation (approximate): Real rate = Nominal rate - Inflation rate\nExact: (1 + nominal) / (1 + inflation) - 1。",
     "steps": [
-      "Approximate: 5% - 2% = 3% (quick estimate)",
-      "Exact: (1.05 / 1.02) - 1",
+      "Approximate: 5% - 2% = 3% (quick estimate)。",
+      "Exact: (1.05 / 1.02) - 1。",
       "= 1.02941... - 1 = 0.02941...",
       "= 2.94%"
     ],
@@ -142,98 +226,158 @@
   {
     "id": 8,
     "category": "Compound Interest",
-    "title": "Doubling Time Comparison",
-    "question": "At 3% compound interest, how long does it take to double your money using the Rule of 72?",
+    "title": "Doubling Time Comparison。",
+    "question": "At 3% compound interest, how long does it take to double your money using the Rule of 72。",
     "options": [
-      {"text": "18 years", "correct": false},
-      {"text": "24 years", "correct": true},
-      {"text": "30 years", "correct": false},
-      {"text": "36 years", "correct": false}
+      {
+        "text": "18年",
+        "correct": false
+      },
+      {
+        "text": "24年",
+        "correct": true
+      },
+      {
+        "text": "30年",
+        "correct": false
+      },
+      {
+        "text": "36年",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Rule of 72: Doubling time = 72 / interest rate\nLower rates = longer doubling time",
+    "cheatsheet": "Rule of 72: Doubling time = 72 / interest rate\nLower rates = longer doubling time。",
     "steps": [
-      "Doubling time = 72 / 3",
+      "Doubling time = 72 / 3。",
       "= 24 years",
-      "Exact check: (1.03)^24 = 2.033 (confirms)"
+      "Exact check: (1.03)^24 = 2.033 (confirms)。"
     ],
     "explanation": "At 3% interest, it takes 72/3 = 24 years to double. Compared to 6% (12 years), halving the rate doubles the time needed. This demonstrates how critical compound interest rates are for long-term wealth building."
   },
   {
     "id": 9,
     "category": "Compound Interest",
-    "title": "Quarterly Compounding Effect",
+    "title": "Quarterly Compounding Effect。",
     "question": "1,000,000 yen at 8% compounded quarterly for 2 years vs annually. How much more does quarterly compounding yield?",
     "options": [
-      {"text": "4,000 yen", "correct": false},
-      {"text": "4,898 yen", "correct": true},
-      {"text": "8,000 yen", "correct": false},
-      {"text": "10,000 yen", "correct": false}
+      {
+        "text": "4,000 yen",
+        "correct": false
+      },
+      {
+        "text": "4,898 yen",
+        "correct": true
+      },
+      {
+        "text": "8,000 yen",
+        "correct": false
+      },
+      {
+        "text": "10,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Quarterly: FV = PV x (1 + r/4)^(4n)\nAnnual: FV = PV x (1 + r)^n\nMore frequent compounding = higher FV",
+    "cheatsheet": "Quarterly: FV = PV x (1 + r/4)^(4n)\nAnnual: FV = PV x (1 + r)^n\nMore frequent compounding = higher FV。",
     "steps": [
-      "Annual: 1,000,000 x (1.08)^2 = 1,000,000 x 1.1664 = 1,166,400 yen",
-      "Quarterly: 1,000,000 x (1 + 0.08/4)^(4x2)",
+      "Annual: 1,000,000 x (1.08)^2 = 1,000,000 x 1.1664 = 1,166,400 yen。",
+      "Quarterly: 1,000,000 x (1 + 0.08/4)^(4x2)。",
       "= 1,000,000 x (1.02)^8",
       "= 1,000,000 x 1.1717 = 1,171,659 yen",
-      "Difference: 1,171,659 - 1,166,400 = 5,259 yen"
+      "Difference: 1,171,659 - 1,166,400 = 5,259 yen。"
     ],
     "explanation": "Quarterly compounding yields 1,171,659 yen vs 1,166,400 yen annually - about 5,259 yen more. The difference grows with higher rates and longer periods due to interest-on-interest effects."
   },
   {
     "id": 10,
     "category": "Compound Interest",
-    "title": "Investment Growth with Additional Deposits",
-    "question": "You have 1,000,000 yen invested at 5% and add 100,000 yen at the end of each year. What is the approximate balance after 5 years?",
+    "title": "Investment Growth with Additional Deposits。",
+    "question": "You have 1,000,000 yen invested at 5% and add 100,000 yen at the end of each year. What is the approximate balance after 5 years。",
     "options": [
-      {"text": "1,600,000 yen", "correct": false},
-      {"text": "1,710,000 yen", "correct": false},
-      {"text": "1,738,026 yen", "correct": true},
-      {"text": "1,850,000 yen", "correct": false}
+      {
+        "text": "1,600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,710,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,738,026 yen",
+        "correct": true
+      },
+      {
+        "text": "1,850,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "FV = PV x (1+r)^n + PMT x [((1+r)^n - 1)/r]\nSeparate the initial lump sum from periodic additions",
+    "cheatsheet": "FV = PV x (1+r)^n + PMT x [((1+r)^n - 1)/r]\nSeparate the initial lump sum from periodic additions。",
     "steps": [
-      "Initial 1,000,000 after 5 years: 1,000,000 x (1.05)^5 = 1,276,282 yen",
-      "Annuity of 100,000 for 5 years at 5%:",
+      "Initial 1,000,000 after 5 years: 1,000,000 x (1.05)^5 = 1,276,282 yen。",
+      "Annuity of 100,000 for 5 years at 5%:。",
       "100,000 x [(1.05^5 - 1)/0.05] = 100,000 x 5.5256 = 552,563 yen",
-      "Total: 1,276,282 + 552,563 = 1,828,845 yen",
-      "Wait, let me recalculate the closest answer..."
+      "Total: 1,276,282 + 552,563 = 1,828,845 yen。",
+      "Wait, let me recalculate the closest answer。"
     ],
     "explanation": "The initial 1M grows to 1,276,282 yen, and the annual deposits accumulate to approximately 461,744 yen (since deposits start at end of year 1). Total depends on exact timing convention."
   },
   {
     "id": 11,
     "category": "Compound Interest",
-    "title": "Continuous Compounding",
-    "question": "What is the future value of 500,000 yen at 4% continuously compounded for 5 years?",
+    "title": "Continuous Compounding。",
+    "question": "the future value of 500,000 yen at 4% continuously compounded for 5 yearsは何か。",
     "options": [
-      {"text": "600,000 yen", "correct": false},
-      {"text": "608,329 yen", "correct": false},
-      {"text": "610,700 yen", "correct": true},
-      {"text": "625,000 yen", "correct": false}
+      {
+        "text": "600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "608,329 yen",
+        "correct": false
+      },
+      {
+        "text": "610,700 yen",
+        "correct": true
+      },
+      {
+        "text": "625,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Continuous compounding: FV = PV x e^(rt)\ne = 2.71828...\nr = annual rate, t = years\nThis is the maximum possible compounding.",
+    "cheatsheet": "Continuous compounding: FV = PV x e^(rt)\ne = 2.71828...\nr = annual rate, t = years\nThis is the maximum possible compounding。",
     "steps": [
-      "FV = 500,000 x e^(0.04 x 5)",
-      "FV = 500,000 x e^(0.20)",
+      "FV = 500,000 x e^(0.04 x 5)。",
+      "FV = 500,000 x e^(0.20)。",
       "e^0.20 = 1.22140...",
-      "FV = 500,000 x 1.22140 = 610,700 yen"
+      "FV = 500,000 x 1.22140 = 610,700 yen。"
     ],
     "explanation": "FV = 500,000 x e^(0.20) = 610,700 yen. Continuous compounding gives the theoretical maximum return. Compared to annual compounding (608,329 yen), the difference is small but positive."
   },
   {
     "id": 12,
     "category": "Compound Interest",
-    "title": "Negative Real Interest Rate",
-    "question": "Your bank deposit earns 0.1% interest, but inflation is 1.5%. What is the real interest rate?",
+    "title": "Negative Real Interest Rate。",
+    "question": "Your bank deposit earns 0.1% interest, but inflation is 1.5%. What is the real interest rate。",
     "options": [
-      {"text": "+0.5%", "correct": false},
-      {"text": "-1.0%", "correct": false},
-      {"text": "-1.39%", "correct": true},
-      {"text": "+1.0%", "correct": false}
+      {
+        "text": "+0.5%",
+        "correct": false
+      },
+      {
+        "text": "-1.0%",
+        "correct": false
+      },
+      {
+        "text": "-1.39%",
+        "correct": true
+      },
+      {
+        "text": "+1.0%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Real rate = (1 + nominal) / (1 + inflation) - 1\nIf result is negative, purchasing power is declining",
+    "cheatsheet": "Real rate = (1 + nominal) / (1 + inflation) - 1\nIf result is negative, purchasing power is declining。",
     "steps": [
-      "Real rate = (1 + 0.001) / (1 + 0.015) - 1",
+      "Real rate = (1 + 0.001) / (1 + 0.015) - 1。",
       "= 1.001 / 1.015 - 1",
       "= 0.98621... - 1",
       "= -0.01379...",
@@ -244,251 +388,395 @@
   {
     "id": 13,
     "category": "Compound Interest",
-    "title": "NISA Tax-Free Growth Advantage",
-    "question": "You earn 5% annually on 3,000,000 yen for 20 years. How much MORE do you keep with NISA (no tax) vs 20.315% tax on gains (assume original excluded from tax)?",
+    "title": "NISA Tax-Free Growth Advantage。",
+    "question": "You earn 5% annually on 3,000,000 yen for 20 years. How much MORE do you keep with NISA (no tax) vs 20.315% tax on gains (assume original excluded from tax)。",
     "options": [
-      {"text": "About 300,000 yen", "correct": false},
-      {"text": "About 600,000 yen", "correct": false},
-      {"text": "About 1,200,000 yen", "correct": false},
-      {"text": "About 1,500,000 yen", "correct": true}
+      {
+        "text": "About 300,000 yen",
+        "correct": false
+      },
+      {
+        "text": "About 600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "About 1,200,000 yen",
+        "correct": false
+      },
+      {
+        "text": "About 1,500,000 yen",
+        "correct": true
+      }
     ],
-    "cheatsheet": "NISA: All gains tax-free\nWithout NISA: Tax = 20.315% on capital gains\nAfter-tax gain = gain x (1 - 0.20315)",
+    "cheatsheet": "NISA: All gains tax-free\nWithout NISA: Tax = 20.315% on capital gains\nAfter-tax gain = gain x (1 - 0.20315)。",
     "steps": [
-      "FV = 3,000,000 x (1.05)^20 = 3,000,000 x 2.6533 = 7,959,842 yen",
-      "Gain = 7,959,842 - 3,000,000 = 4,959,842 yen",
-      "Tax without NISA: 4,959,842 x 20.315% = 1,007,561 yen",
-      "NISA advantage = 1,007,561 yen"
+      "FV = 3,000,000 x (1.05)^20 = 3,000,000 x 2.6533 = 7,959,842 yen。",
+      "Gain = 7,959,842 - 3,000,000 = 4,959,842 yen。",
+      "Tax without NISA: 4,959,842 x 20.315% = 1,007,561 yen。",
+      "NISA advantage = 1,007,561 yen。"
     ],
     "explanation": "Over 20 years, NISA saves approximately 1,007,561 yen in taxes on the gains. This demonstrates the significant long-term benefit of tax-advantaged investment accounts like NISA."
   },
   {
     "id": 14,
     "category": "Compound Interest",
-    "title": "Present Value of Multiple Cash Flows",
-    "question": "You will receive 500,000 yen in 1 year and 1,000,000 yen in 3 years. At 4% discount rate, what is the combined present value?",
+    "title": "Present Value of Multiple Cash Flows。",
+    "question": "You will receive 500,000 yen in 1 year and 1,000,000 yen in 3 years. At 4% discount rate, what is the combined present value。",
     "options": [
-      {"text": "1,350,000 yen", "correct": false},
-      {"text": "1,362,931 yen", "correct": true},
-      {"text": "1,400,000 yen", "correct": false},
-      {"text": "1,425,000 yen", "correct": false}
+      {
+        "text": "1,350,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,362,931 yen",
+        "correct": true
+      },
+      {
+        "text": "1,400,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,425,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "PV of multiple cash flows: PV = Sum of [CF_t / (1+r)^t]\nDiscount each cash flow separately, then sum.",
+    "cheatsheet": "PV of multiple cash flows: PV = Sum of [CF_t / (1+r)^t]\nDiscount each cash flow separately, then sum。",
     "steps": [
-      "PV of 500,000 in 1 year: 500,000 / (1.04)^1 = 480,769 yen",
-      "PV of 1,000,000 in 3 years: 1,000,000 / (1.04)^3 = 889,000 yen",
-      "Total PV = 480,769 + 889,000 = 1,369,769 yen"
+      "PV of 500,000 in 1 year: 500,000 / (1.04)^1 = 480,769 yen。",
+      "PV of 1,000,000 in 3 years: 1,000,000 / (1.04)^3 = 889,000 yen。",
+      "Total PV = 480,769 + 889,000 = 1,369,769 yen。"
     ],
     "explanation": "Each cash flow is discounted back to present value. The PV of 500,000 in year 1 is 480,769 yen, and 1,000,000 in year 3 is 889,000 yen. Combined PV is approximately 1,370,000 yen."
   },
   {
     "id": 15,
     "category": "Compound Interest",
-    "title": "Impact of Fee Drag on Returns",
-    "question": "Your fund earns 6% gross but charges 1.5% annual fee. Over 30 years on 1,000,000 yen, how much does the fee cost in lost returns?",
+    "title": "Impact of Fee Drag on Returns。",
+    "question": "Your fund earns 6% gross but charges 1.5% annual fee. Over 30 years on 1,000,000 yen, how much does the fee cost in lost returns。",
     "options": [
-      {"text": "About 300,000 yen", "correct": false},
-      {"text": "About 800,000 yen", "correct": false},
-      {"text": "About 1,200,000 yen", "correct": true},
-      {"text": "About 2,000,000 yen", "correct": false}
+      {
+        "text": "About 300,000 yen",
+        "correct": false
+      },
+      {
+        "text": "About 800,000 yen",
+        "correct": false
+      },
+      {
+        "text": "About 1,200,000 yen",
+        "correct": true
+      },
+      {
+        "text": "About 2,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Net return = Gross return - Fee\nFV_net = PV x (1 + net_rate)^n\nFee drag compounds over time, growing significantly with long periods.",
+    "cheatsheet": "Net return = Gross return - Fee\nFV_net = PV x (1 + net_rate)^n\nFee drag compounds over time, growing significantly with long periods。",
     "steps": [
-      "With 6%: 1,000,000 x (1.06)^30 = 5,743,491 yen",
-      "With 4.5% (net): 1,000,000 x (1.045)^30 = 3,745,318 yen",
-      "Fee drag: 5,743,491 - 3,745,318 = 1,998,173 yen"
+      "With 6%: 1,000,000 x (1.06)^30 = 5,743,491 yen。",
+      "With 4.5% (net): 1,000,000 x (1.045)^30 = 3,745,318 yen。",
+      "Fee drag: 5,743,491 - 3,745,318 = 1,998,173 yen。"
     ],
     "explanation": "A 1.5% fee over 30 years costs approximately 1,998,173 yen in lost returns on a 1M initial investment. This dramatically illustrates the importance of low-cost investing (index funds, ETFs)."
   },
   {
     "id": 16,
     "category": "Loan Payments",
-    "title": "Equal Monthly Installment (Housing Loan)",
-    "question": "Borrow 30,000,000 yen at 1.0% annual interest for 35 years (equal monthly payments). What is the approximate monthly payment?",
+    "title": "Equal Monthly Installment (Housing Loan)。",
+    "question": "Borrow 30,000,000 yen at 1.0% annual interest for 35 years (equal monthly payments). What is the approximate monthly payment。",
     "options": [
-      {"text": "78,000 yen", "correct": false},
-      {"text": "84,200 yen", "correct": true},
-      {"text": "90,000 yen", "correct": false},
-      {"text": "95,000 yen", "correct": false}
+      {
+        "text": "78,000 yen",
+        "correct": false
+      },
+      {
+        "text": "84,200 yen",
+        "correct": true
+      },
+      {
+        "text": "90,000 yen",
+        "correct": false
+      },
+      {
+        "text": "95,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Monthly payment = L x [r(1+r)^n] / [(1+r)^n - 1]\nL = loan amount\nr = monthly rate (annual/12)\nn = total months\nThis is the equal installment (genkin heikin hensai) formula.",
+    "cheatsheet": "Monthly payment = L x [r(1+r)^n] / [(1+r)^n - 1]\nL = loan amount\nr = monthly rate (annual/12)\nn = total months\nThis is the equal installment (genkin heikin hensai) formula。",
     "steps": [
-      "Monthly rate: 0.01/12 = 0.000833...",
-      "Number of months: 35 x 12 = 420",
-      "PMT = 30,000,000 x [0.000833 x (1.000833)^420] / [(1.000833)^420 - 1]",
+      "Monthly rate: 0.01/12 = 0.000833。",
+      "Number of months: 35 x 12 = 420。",
+      "PMT = 30,000,000 x [0.000833 x (1.000833)^420] / [(1.000833)^420 - 1]。",
       "(1.000833)^420 = 1.4166...",
-      "PMT = 30,000,000 x [0.000833 x 1.4166] / [1.4166 - 1]",
-      "PMT = 30,000,000 x 0.001180 / 0.4166",
-      "PMT = 30,000,000 x 0.002833 = 84,990 yen (approx)"
+      "PMT = 30,000,000 x [0.000833 x 1.4166] / [1.4166 - 1]。",
+      "PMT = 30,000,000 x 0.001180 / 0.4166。",
+      "PMT = 30,000,000 x 0.002833 = 84,990 yen (approx)。"
     ],
     "explanation": "The monthly payment for 30M yen at 1% over 35 years is approximately 84,200 yen. Japan's historically low interest rates make housing loans very affordable. Total repayment is about 35M yen."
   },
   {
     "id": 17,
     "category": "Loan Payments",
-    "title": "Total Interest Paid on Housing Loan",
-    "question": "Borrow 25,000,000 yen at 2% for 25 years with equal monthly payments. Approximately how much total interest is paid?",
+    "title": "Total Interest Paid on Housing Loan。",
+    "question": "Borrow 25,000,000 yen at 2% for 25 years with equal monthly payments. Approximately how much total interest is paid。",
     "options": [
-      {"text": "5,000,000 yen", "correct": false},
-      {"text": "6,700,000 yen", "correct": true},
-      {"text": "10,000,000 yen", "correct": false},
-      {"text": "15,000,000 yen", "correct": false}
+      {
+        "text": "5,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "6,700,000 yen",
+        "correct": true
+      },
+      {
+        "text": "10,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "15,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Total payment = Monthly PMT x number of months\nTotal interest = Total payment - Loan amount\nHigher rate + longer term = more interest",
+    "cheatsheet": "Total payment = Monthly PMT x number of months\nTotal interest = Total payment - Loan amount\nHigher rate + longer term = more interest。",
     "steps": [
-      "Monthly rate: 0.02/12 = 0.001667",
-      "Months: 25 x 12 = 300",
-      "Monthly PMT = 25,000,000 x [0.001667 x (1.001667)^300] / [(1.001667)^300 - 1]",
+      "Monthly rate: 0.02/12 = 0.001667。",
+      "Months: 25 x 12 = 300。",
+      "Monthly PMT = 25,000,000 x [0.001667 x (1.001667)^300] / [(1.001667)^300 - 1]。",
       "(1.001667)^300 = 1.6470...",
-      "PMT = 25,000,000 x [0.001667 x 1.6470] / [1.6470 - 1]",
-      "PMT = 25,000,000 x 0.002745 / 0.6470",
-      "PMT = 25,000,000 x 0.004242 = 106,050 yen (approx)",
-      "Total payment: 106,050 x 300 = 31,815,000 yen",
-      "Total interest: 31,815,000 - 25,000,000 = 6,815,000 yen"
+      "PMT = 25,000,000 x [0.001667 x 1.6470] / [1.6470 - 1]。",
+      "PMT = 25,000,000 x 0.002745 / 0.6470。",
+      "PMT = 25,000,000 x 0.004242 = 106,050 yen (approx)。",
+      "Total payment: 106,050 x 300 = 31,815,000 yen。",
+      "Total interest: 31,815,000 - 25,000,000 = 6,815,000 yen。"
     ],
     "explanation": "Total interest is approximately 6.7 million yen over 25 years. The interest nearly equals 27% of the principal. Even at low rates, the cumulative interest over decades is substantial."
   },
   {
     "id": 18,
     "category": "Loan Payments",
-    "title": "Interest Rate Impact on Monthly Payment",
-    "question": "For a 30,000,000 yen loan over 30 years, how does a 1% rate increase (from 1% to 2%) affect the monthly payment?",
+    "title": "Interest Rate Impact on Monthly Payment。",
+    "question": "For a 30,000,000 yen loan over 30 years, how does a 1% rate increase (from 1% to 2%) affect the monthly payment。",
     "options": [
-      {"text": "Increases by about 3,000 yen", "correct": false},
-      {"text": "Increases by about 7,000 yen", "correct": false},
-      {"text": "Increases by about 4,500 yen", "correct": true},
-      {"text": "Increases by about 10,000 yen", "correct": false}
+      {
+        "text": "Increases by about 3,000 yen",
+        "correct": false
+      },
+      {
+        "text": "Increases by about 7,000 yen",
+        "correct": false
+      },
+      {
+        "text": "Increases by about 4,500 yen",
+        "correct": true
+      },
+      {
+        "text": "Increases by about 10,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Compare monthly PMT at different rates\nHigher rate = higher payment\nSmall rate changes can mean big payment differences",
+    "cheatsheet": "Compare monthly PMT at different rates\nHigher rate = higher payment\nSmall rate changes can mean big payment differences。",
     "steps": [
-      "At 1%: PMT = 30,000,000 x [0.000833 x (1.000833)^360] / [(1.000833)^360 - 1]",
+      "At 1%: PMT = 30,000,000 x [0.000833 x (1.000833)^360] / [(1.000833)^360 - 1]。",
       "(1.000833)^360 = 1.3497...",
-      "PMT1% = 30,000,000 x 0.001129 / 0.3497 = 96,855 yen (approx)",
-      "At 2%: (0.02/12 = 0.001667)",
+      "PMT1% = 30,000,000 x 0.001129 / 0.3497 = 96,855 yen (approx)。",
+      "At 2%: (0.02/12 = 0.001667)。",
       "(1.001667)^360 = 1.8194...",
-      "PMT2% = 30,000,000 x 0.001667 x 1.8194 / (1.8194 - 1)",
+      "PMT2% = 30,000,000 x 0.001667 x 1.8194 / (1.8194 - 1)。",
       "= 30,000,000 x 0.003032 / 0.8194 = 111,017 yen (approx)",
-      "Difference: 111,017 - 96,855 = 14,162 yen"
+      "Difference: 111,017 - 96,855 = 14,162 yen。"
     ],
     "explanation": "A 1% increase raises the monthly payment significantly. This is why variable-rate housing loans carry real risk - a rate increase from 0.5% to 1.5% can increase monthly payments substantially."
   },
   {
     "id": 19,
     "category": "Loan Payments",
-    "title": "Balloon Payment Calculation",
-    "question": "A 20,000,000 yen loan has equal monthly payments calculated on a 35-year term, but matures in 15 years (balloon). What approximate balance remains at maturity?",
+    "title": "Balloon Payment Calculation。",
+    "question": "A 20,000,000 yen loan has equal monthly payments calculated on a 35-year term, but matures in 15 years (balloon). What approximate balance remains at maturity。。",
     "options": [
-      {"text": "10,000,000 yen", "correct": false},
-      {"text": "14,000,000 yen", "correct": true},
-      {"text": "17,000,000 yen", "correct": false},
-      {"text": "18,000,000 yen", "correct": false}
+      {
+        "text": "10,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "14,000,000 yen",
+        "correct": true
+      },
+      {
+        "text": "17,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "18,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Balloon = Loan x [(1+r)^n - (1+r)^p] / [(1+r)^n - 1]\nn = original term, p = actual term\nThe remaining balance is the present value of remaining payments.",
+    "cheatsheet": "Balloon = Loan x [(1+r)^n - (1+r)^p] / [(1+r)^n - 1]\nn = original term, p = actual term\nThe remaining balance is the present value of remaining payments。",
     "steps": [
-      "With equal payments over 35 years (420 months) but balloon at 15 years (180 months):",
-      "Monthly PMT (35yr): lower than 15yr-only payments",
-      "After 15 years of 35yr payments, most principal remains unpaid",
-      "Approximately 70% of original loan may remain (varies by rate)"
+      "With equal payments over 35 years (420 months) but balloon at 15 years (180 months):。",
+      "Monthly PMT (35yr): lower than 15yr-only payments。",
+      "After 15 years of 35yr payments, most principal remains unpaid。",
+      "Approximately 70% of original loan may remain (varies by rate)。"
     ],
     "explanation": "With a balloon structure, the monthly payments are smaller (calculated as if the loan runs for 35 years), but a large lump sum remains due at the 15-year mark. The borrower must refinance or have savings to cover the balloon."
   },
   {
     "id": 20,
     "category": "Loan Payments",
-    "title": "Extra Payment Impact (Early Repayment)",
-    "question": "You have a 30,000,000 yen loan at 1% for 35 years. If you make an extra 500,000 yen one-time payment at the end of year 1, how much does it reduce total interest?",
+    "title": "Extra Payment Impact (Early Repayment)。",
+    "question": "You have a 30,000,000 yen loan at 1% for 35 years. If you make an extra 500,000 yen one-time payment at the end of year 1, how much does it reduce total interest。",
     "options": [
-      {"text": "About 200,000 yen", "correct": false},
-      {"text": "About 500,000 yen (exactly the extra payment)", "correct": false},
-      {"text": "About 180,000 yen (more than 500K due to compound effect)", "correct": true},
-      {"text": "No significant effect", "correct": false}
+      {
+        "text": "About 200,000 yen",
+        "correct": false
+      },
+      {
+        "text": "About 500,000 yen (exactly the extra payment)",
+        "correct": false
+      },
+      {
+        "text": "About 180,000 yen (more than 500K due to compound effect)",
+        "correct": true
+      },
+      {
+        "text": "No significant effect",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Extra payments reduce principal directly\nReduced principal means less interest on remaining balance\nEffect compounds over remaining loan term",
+    "cheatsheet": "Extra payments reduce principal directly\nReduced principal means less interest on remaining balance\nEffect compounds over remaining loan term。",
     "steps": [
-      "Extra 500,000 yen reduces principal to 29,500,000 (approx after year 1)",
-      "Interest saved = 500,000 x 1% x remaining ~34 years",
-      "Actually: each future month pays less interest because principal is 500K lower",
-      "Total interest saved is significant over 34 remaining years"
+      "Extra 500,000 yen reduces principal to 29,500,000 (approx after year 1)。",
+      "Interest saved = 500,000 x 1% x remaining ~34 years。",
+      "Actually: each future month pays less interest because principal is 500K lower。",
+      "Total interest saved is significant over 34 remaining years。"
     ],
     "explanation": "Even a single extra payment of 500,000 yen saves more than 500,000 yen in total interest because the reduction in principal reduces interest calculations for every remaining month of the loan."
   },
   {
     "id": 21,
     "category": "Loan Payments",
-    "title": "Equal Principal vs Equal Installment",
-    "question": "In an equal principal repayment (genkin teikin hensai) loan, how do monthly payments change over time?",
+    "title": "Equal Principal vs Equal Installment。",
+    "question": "an equal principal repayment (genkin teikin hensai) loan。do monthly payments change over timeはいくらか。",
     "options": [
-      {"text": "They stay the same throughout", "correct": false},
-      {"text": "They decrease over time as the principal balance decreases", "correct": true},
-      {"text": "They increase over time", "correct": false},
-      {"text": "They fluctuate randomly", "correct": false}
+      {
+        "text": "They stay the same throughout",
+        "correct": false
+      },
+      {
+        "text": "They decrease over time as the principal balance decreases",
+        "correct": true
+      },
+      {
+        "text": "They increase over time",
+        "correct": false
+      },
+      {
+        "text": "They fluctuate randomly",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Equal principal: Fixed principal portion + decreasing interest\nPayment = (Loan/n) + (Balance x monthly rate)\nBalance decreases each month, so interest decreases",
+    "cheatsheet": "Equal principal: Fixed principal portion + decreasing interest\nPayment = (Loan/n) + (Balance x monthly rate)\nBalance decreases each month, so interest decreases。",
     "steps": [
-      "Month 1: Principal = 30,000,000/420 = 71,429 yen",
-      "Interest = 30,000,000 x 0.01/12 = 25,000 yen",
-      "Total = 96,429 yen",
-      "Month 2: Principal = 71,429 yen (same)",
-      "Interest = 29,928,571 x 0.01/12 = 24,938 yen",
-      "Total = 96,367 yen (decreasing!)"
+      "Month 1: Principal = 30,000,000/420 = 71,429 yen。",
+      "Interest = 30,000,000 x 0.01/12 = 25,000 yen。",
+      "Total = 96,429 yen。",
+      "Month 2: Principal = 71,429 yen (same)。",
+      "Interest = 29,928,571 x 0.01/12 = 24,938 yen。",
+      "Total = 96,367 yen (decreasing!)。"
     ],
     "explanation": "In equal principal repayment, the principal portion is fixed each month while interest decreases as the balance declines. Early payments are highest, gradually decreasing over the loan term."
   },
   {
     "id": 22,
     "category": "Loan Payments",
-    "title": "Housing Loan Tax Deduction Benefit",
-    "question": "With a year-end loan balance of 25,000,000 yen and 0.7% deduction rate, what is the annual housing loan tax credit?",
+    "title": "Housing Loan Tax Deduction Benefit。",
+    "question": "With a year-end loan balance of 25,000,000 yen and 0.7% deduction rate, what is the annual housing loan tax credit。",
     "options": [
-      {"text": "125,000 yen", "correct": false},
-      {"text": "150,000 yen", "correct": false},
-      {"text": "175,000 yen", "correct": true},
-      {"text": "250,000 yen", "correct": false}
+      {
+        "text": "125,000 yen",
+        "correct": false
+      },
+      {
+        "text": "150,000 yen",
+        "correct": false
+      },
+      {
+        "text": "175,000 yen",
+        "correct": true
+      },
+      {
+        "text": "250,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Housing loan deduction = Year-end loan balance x deduction rate\nMax 0.7% (subject to income tax limit)\nApplied against income tax liability",
+    "cheatsheet": "Housing loan deduction = Year-end loan balance x deduction rate\nMax 0.7% (subject to income tax limit)\nApplied against income tax liability。",
     "steps": [
-      "Deduction = 25,000,000 x 0.7%",
+      "Deduction = 25,000,000 x 0.7%。",
       "= 25,000,000 x 0.007",
       "= 175,000 yen per year",
-      "This is deducted from income tax (not residence tax)"
+      "This is deducted from income tax (not residence tax)。"
     ],
     "explanation": "The housing loan deduction reduces income tax by 175,000 yen annually. This benefit lasts for up to 13 years for qualifying properties. Total possible benefit: up to 2,275,000 yen over the period."
   },
   {
     "id": 23,
     "category": "Loan Payments",
-    "title": "Variable Rate Simulation",
-    "question": "Your 30,000,000 yen loan at 0.5% variable rate has monthly payments of 75,000 yen. If the rate increases to 2.0%, approximately what happens to the payment?",
+    "title": "Variable Rate Simulation。",
+    "question": "Your 30,000,000 yen loan at 0.5% variable rate has monthly payments of 75,000 yen. If the rate increases to 2.0%, approximately what happens to the payment。",
     "options": [
-      {"text": "Increases to about 85,000 yen", "correct": false},
-      {"text": "Increases to about 95,000 yen", "correct": true},
-      {"text": "Stays the same (fixed payment)", "correct": false},
-      {"text": "Increases to about 120,000 yen", "correct": false}
+      {
+        "text": "Increases to about 85,000 yen",
+        "correct": false
+      },
+      {
+        "text": "Increases to about 95,000 yen",
+        "correct": true
+      },
+      {
+        "text": "Stays the same (fixed payment)",
+        "correct": false
+      },
+      {
+        "text": "Increases to about 120,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Variable rate: payment adjusts semi-annually\nHigher rate = higher payment (for same remaining term)\nOr longer term if payment is capped",
+    "cheatsheet": "Variable rate: payment adjusts semi-annually\nHigher rate = higher payment (for same remaining term)\nOr longer term if payment is capped。",
     "steps": [
-      "At 0.5% over 35 years: ~75,000 yen/month",
-      "Rate rises to 2.0% with ~34 years remaining:",
-      "New PMT at 2% over 34 years on 30M yen:",
-      "Approx 95,000-100,000 yen/month",
-      "Increase of roughly 25-30%"
+      "At 0.5% over 35 years: ~75,000 yen/month。",
+      "Rate rises to 2.0% with ~34 years remaining:。",
+      "New PMT at 2% over 34 years on 30M yen:。",
+      "Approx 95,000-100,000 yen/month。",
+      "Increase of roughly 25-30%。"
     ],
     "explanation": "A 1.5% rate increase can raise monthly payments by 25-30%. This is the key risk of variable-rate loans. Borrowers should stress-test their ability to afford payments at higher rates."
   },
   {
     "id": 24,
     "category": "Loan Payments",
-    "title": "Debt-to-Income Ratio Check",
-    "question": "Monthly income is 400,000 yen. Housing loan payment is 100,000 yen. Other loans total 30,000 yen. What is the total debt-to-income ratio?",
+    "title": "Debt-to-Income Ratio Check。",
+    "question": "Monthly income is 400,000 yen. Housing loan payment is 100,000 yen. Other loans total 30,000 yen. What is the total debt-to-income ratio。",
     "options": [
-      {"text": "25%", "correct": false},
-      {"text": "32.5%", "correct": true},
-      {"text": "40%", "correct": false},
-      {"text": "50%", "correct": false}
+      {
+        "text": "25%",
+        "correct": false
+      },
+      {
+        "text": "32.5%",
+        "correct": true
+      },
+      {
+        "text": "40%",
+        "correct": false
+      },
+      {
+        "text": "50%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "DTI = Total monthly debt payments / Monthly gross income\nHealthy: below 25-30%\nCaution: 30-40%\nDanger: above 40%",
+    "cheatsheet": "DTI = Total monthly debt payments / Monthly gross income\nHealthy: below 25-30%\nCaution: 30-40%\nDanger: above 40%。",
     "steps": [
-      "Total debt: 100,000 + 30,000 = 130,000 yen/month",
-      "DTI = 130,000 / 400,000",
+      "Total debt: 100,000 + 30,000 = 130,000 yen/month。",
+      "DTI = 130,000 / 400,000。",
       "= 0.325 = 32.5%"
     ],
     "explanation": "A DTI of 32.5% is in the caution zone. Japanese banks typically prefer total return ratio (all debt) under 30-35%. This borrower should consider reducing other debt before taking on a housing loan."
@@ -496,19 +784,31 @@
   {
     "id": 25,
     "category": "Loan Payments",
-    "title": "Remaining Balance After Partial Prepayment",
-    "question": "After 10 years of a 30,000,000 yen loan at 1.5% for 30 years, you make a 3,000,000 yen lump-sum prepayment. What happens?",
+    "title": "Remaining Balance After Partial Prepayment。",
+    "question": "After 10 years of a 30,000,000 yen loan at 1.5% for 30 years, you make a 3,000,000 yen lump-sum prepayment. What happens。",
     "options": [
-      {"text": "The monthly payment decreases slightly", "correct": false},
-      {"text": "Either the term shortens or the monthly payment reduces (borrower's choice)", "correct": true},
-      {"text": "Nothing changes until the loan matures", "correct": false},
-      {"text": "The interest rate decreases", "correct": false}
+      {
+        "text": "The monthly payment decreases slightly",
+        "correct": false
+      },
+      {
+        "text": "Either the term shortens or the monthly payment reduces (borrower's choice)",
+        "correct": true
+      },
+      {
+        "text": "Nothing changes until the loan matures",
+        "correct": false
+      },
+      {
+        "text": "The interest rate decreases",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Lump-sum prepayment: reduces outstanding principal\nOptions: (1) Reduce monthly payment, keep same term\n(2) Keep payment same, shorten loan term\nOption (2) saves more total interest",
+    "cheatsheet": "Lump-sum prepayment: reduces outstanding principal\nOptions: (1) Reduce monthly payment, keep same term\n(2) Keep payment same, shorten loan term\nOption (2) saves more total interest。",
     "steps": [
-      "After 10 years, approximate balance: ~22,000,000 yen (rough estimate)",
-      "After 3,000,000 prepayment: ~19,000,000 yen",
-      "With lower balance, choose either:",
+      "After 10 years, approximate balance: ~22,000,000 yen (rough estimate)。",
+      "After 3,000,000 prepayment: ~19,000,000 yen。",
+      "With lower balance, choose either:。",
       "a) Lower monthly payment for remaining 20 years",
       "b) Same payment, finish loan earlier (saves more interest)"
     ],
@@ -517,39 +817,63 @@
   {
     "id": 26,
     "category": "Tax Calculation",
-    "title": "Income Tax Bracket Calculation",
-    "question": "Taxable income is 6,000,000 yen. What is the income tax (including 2.1% reconstruction surtax)?",
+    "title": "Income Tax Bracket Calculation。",
+    "question": "Taxable income is 6,000,000 yen. What is the income tax (including 2.1% reconstruction surtax)。",
     "options": [
-      {"text": "600,000 yen", "correct": false},
-      {"text": "783,900 yen", "correct": true},
-      {"text": "850,000 yen", "correct": false},
-      {"text": "950,000 yen", "correct": false}
+      {
+        "text": "600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "783,900 yen",
+        "correct": true
+      },
+      {
+        "text": "850,000 yen",
+        "correct": false
+      },
+      {
+        "text": "950,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Tax brackets (FY2024, up to 6M):\n0-1.95M: 5%\n1.95M-3.3M: 10%\n3.3M-6.95M: 20%\n\nMultiply total by 1.021 for reconstruction tax",
+    "cheatsheet": "Tax brackets (FY2024, up to 6M):\n0-1.95M: 5%\n1.95M-3.3M: 10%\n3.3M-6.95M: 20%\n\nMultiply total by 1.021 for reconstruction tax。",
     "steps": [
-      "First 1,950,000 x 5% = 97,500 yen",
-      "Next 1,350,000 (3.3M - 1.95M) x 10% = 135,000 yen",
-      "Remaining 2,700,000 (6M - 3.3M) x 20% = 540,000 yen",
-      "Total: 97,500 + 135,000 + 540,000 = 772,500 yen",
-      "With 2.1% reconstruction tax: 772,500 x 1.021 = 788,698 yen"
+      "First 1,950,000 x 5% = 97,500 yen。",
+      "Next 1,350,000 (3.3M - 1.95M) x 10% = 135,000 yen。",
+      "Remaining 2,700,000 (6M - 3.3M) x 20% = 540,000 yen。",
+      "Total: 97,500 + 135,000 + 540,000 = 772,500 yen。",
+      "With 2.1% reconstruction tax: 772,500 x 1.021 = 788,698 yen。"
     ],
     "explanation": "Income tax on 6M yen taxable income is approximately 772,500 yen, plus 2.1% reconstruction surtax = 788,698 yen. Effective tax rate is about 13.1% on 6M yen of taxable income."
   },
   {
     "id": 27,
     "category": "Tax Calculation",
-    "title": "Employment Income Deduction",
-    "question": "Annual salary income is 7,000,000 yen. What is the employment income deduction?",
+    "title": "Employment Income Deduction。",
+    "question": "Annual salary income is 7,000,000 yen. What is the employment income deduction。",
     "options": [
-      {"text": "1,900,000 yen", "correct": false},
-      {"text": "1,950,000 yen", "correct": false},
-      {"text": "2,450,000 yen", "correct": true},
-      {"text": "2,600,000 yen", "correct": false}
+      {
+        "text": "1,900,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,950,000 yen",
+        "correct": false
+      },
+      {
+        "text": "2,450,000 yen",
+        "correct": true
+      },
+      {
+        "text": "2,600,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Employment income deduction formula:\nUp to 1,625,000: 550,000\n1,625,001-1,800,000: salary x 40% - 100,000\n1,800,001-3,600,000: salary x 30% + 80,000\n3,600,001-6,600,000: salary x 20% + 440,000\n6,600,001-8,500,000: salary x 10% + 1,100,000",
+    "cheatsheet": "Employment income deduction formula:\nUp to 1,625,000: 550,000\n1,625,001-1,800,000: salary x 40% - 100,000\n1,800,001-3,600,000: salary x 30% + 80,000\n3,600,001-6,600,000: salary x 20% + 440,000\n6,600,001-8,500,000: salary x 10% + 1,100,000。",
     "steps": [
       "7,000,000 falls in 6,600,001-8,500,000 bracket",
-      "Deduction = 7,000,000 x 10% + 1,100,000",
+      "Deduction = 7,000,000 x 10% + 1,100,000。",
       "= 700,000 + 1,100,000",
       "= 1,800,000 yen"
     ],
@@ -558,98 +882,158 @@
   {
     "id": 28,
     "category": "Tax Calculation",
-    "title": "Residence Tax Calculation",
-    "question": "Taxable income is 4,000,000 yen. What is the approximate residence tax?",
+    "title": "Residence Tax Calculation。",
+    "question": "Taxable income is 4,000,000 yen. What is the approximate residence tax。",
     "options": [
-      {"text": "300,000 yen", "correct": false},
-      {"text": "400,000 yen", "correct": true},
-      {"text": "500,000 yen", "correct": false},
-      {"text": "600,000 yen", "correct": false}
+      {
+        "text": "300,000 yen",
+        "correct": false
+      },
+      {
+        "text": "400,000 yen",
+        "correct": true
+      },
+      {
+        "text": "500,000 yen",
+        "correct": false
+      },
+      {
+        "text": "600,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Residence tax = 10% of taxable income\n6% municipal (shi/chou/son) + 4% prefectural (to/du/fu/ken)\nPlus fixed per capita amount (approx 5,000 yen)",
+    "cheatsheet": "Residence tax = 10% of taxable income\n6% municipal (shi/chou/son) + 4% prefectural (to/du/fu/ken)\nPlus fixed per capita amount (approx 5,000 yen)。",
     "steps": [
-      "Residence tax = 4,000,000 x 10%",
+      "Residence tax = 4,000,000 x 10%。",
       "= 400,000 yen",
-      "Plus per capita: approx 5,000 yen",
-      "Total: approx 405,000 yen"
+      "Plus per capita: approx 5,000 yen。",
+      "Total: approx 405,000 yen。"
     ],
     "explanation": "Residence tax is a flat 10% on taxable income (plus a small per capita amount). Unlike income tax (progressive 5-45%), residence tax is the same rate regardless of income level."
   },
   {
     "id": 29,
     "category": "Tax Calculation",
-    "title": "Combined Tax Burden",
-    "question": "Taxable income is 5,000,000 yen. What is the approximate total tax burden (income tax + residence tax)?",
+    "title": "Combined Tax Burden。",
+    "question": "Taxable income is 5,000,000 yen. What is the approximate total tax burden (income tax + residence tax)。",
     "options": [
-      {"text": "600,000 yen", "correct": false},
-      {"text": "850,000 yen", "correct": false},
-      {"text": "1,000,000 yen", "correct": false},
-      {"text": "1,050,000 yen", "correct": true}
+      {
+        "text": "600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "850,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,050,000 yen",
+        "correct": true
+      }
     ],
-    "cheatsheet": "Total tax = Income tax + Residence tax\nIncome tax: progressive brackets\nResidence tax: flat 10%\nEffective total rate is typically 15-30%",
+    "cheatsheet": "Total tax = Income tax + Residence tax\nIncome tax: progressive brackets\nResidence tax: flat 10%\nEffective total rate is typically 15-30%。",
     "steps": [
-      "Income tax on 5M: (1.95M x 5%) + (1.35M x 10%) + (1.7M x 20%)",
+      "Income tax on 5M: (1.95M x 5%) + (1.35M x 10%) + (1.7M x 20%)。",
       "= 97,500 + 135,000 + 340,000 = 572,500 yen",
-      "With 2.1% reconstruction: 572,500 x 1.021 = 584,523 yen",
-      "Residence tax: 5,000,000 x 10% = 500,000 yen",
-      "Total: 584,523 + 500,000 = 1,084,523 yen"
+      "With 2.1% reconstruction: 572,500 x 1.021 = 584,523 yen。",
+      "Residence tax: 5,000,000 x 10% = 500,000 yen。",
+      "Total: 584,523 + 500,000 = 1,084,523 yen。"
     ],
     "explanation": "The combined tax on 5M taxable income is approximately 1,084,523 yen (effective rate ~21.7%). This illustrates why understanding tax deductions is crucial for tax planning."
   },
   {
     "id": 30,
     "category": "Tax Calculation",
-    "title": "Social Insurance Premium Impact",
-    "question": "Monthly salary is 500,000 yen. Social insurance premiums (employee share) are approximately 15%. What is the annual tax deduction for social insurance?",
+    "title": "Social Insurance Premium Impact。",
+    "question": "Monthly salary is 500,000 yen. Social insurance premiums (employee share) are approximately 15%. What is the annual tax deduction for social insurance。",
     "options": [
-      {"text": "600,000 yen", "correct": false},
-      {"text": "900,000 yen", "correct": true},
-      {"text": "1,200,000 yen", "correct": false},
-      {"text": "1,500,000 yen", "correct": false}
+      {
+        "text": "600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "900,000 yen",
+        "correct": true
+      },
+      {
+        "text": "1,200,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,500,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Social insurance (employee share, approx 15%):\n- Health insurance: ~5%\n- Pension: ~9.15%\n- Employment insurance: ~0.6%\n\nFull amount is deductible from taxable income",
+    "cheatsheet": "Social insurance (employee share, approx 15%):\n- Health insurance: ~5%\n- Pension: ~9.15%\n- Employment insurance: ~0.6%\n\nFull amount is deductible from taxable income。",
     "steps": [
-      "Monthly premium: 500,000 x 15% = 75,000 yen",
-      "Annual premium: 75,000 x 12 = 900,000 yen",
-      "This full amount reduces taxable income",
-      "At 20% marginal rate, this saves 180,000 yen in income tax"
+      "Monthly premium: 500,000 x 15% = 75,000 yen。",
+      "Annual premium: 75,000 x 12 = 900,000 yen。",
+      "This full amount reduces taxable income。",
+      "At 20% marginal rate, this saves 180,000 yen in income tax。"
     ],
     "explanation": "Annual social insurance premiums of 900,000 yen are fully deductible from taxable income. This saves approximately 180,000 yen in income tax plus 90,000 yen in residence tax."
   },
   {
     "id": 31,
     "category": "Tax Calculation",
-    "title": "Medical Expense Deduction Calculation",
-    "question": "Total medical expenses for the year were 500,000 yen. Salary income is 8,000,000 yen. How much is the medical expense deduction?",
+    "title": "Medical Expense Deduction Calculation。",
+    "question": "Total medical expenses for the year were 500,000 yen. Salary income is 8,000,000 yen. How much is the medical expense deduction。",
     "options": [
-      {"text": "300,000 yen", "correct": false},
-      {"text": "380,000 yen", "correct": false},
-      {"text": "400,000 yen", "correct": true},
-      {"text": "500,000 yen", "correct": false}
+      {
+        "text": "300,000 yen",
+        "correct": false
+      },
+      {
+        "text": "380,000 yen",
+        "correct": false
+      },
+      {
+        "text": "400,000 yen",
+        "correct": true
+      },
+      {
+        "text": "500,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Deduction = Medical expenses - lesser of:\n(a) 100,000 yen, or\n(b) 5% of total income\n(max 2,000,000 yen deduction)",
+    "cheatsheet": "Deduction = Medical expenses - lesser of:\n(a) 100,000 yen, or\n(b) 5% of total income\n(max 2,000,000 yen deduction)。",
     "steps": [
       "5% of 8,000,000 = 400,000 yen",
-      "Lesser of 100,000 or 400,000 = 100,000 yen",
-      "Deduction = 500,000 - 100,000 = 400,000 yen"
+      "Lesser of 100,000 or 400,000 = 100,000 yen。",
+      "Deduction = 500,000 - 100,000 = 400,000 yen。"
     ],
     "explanation": "The medical expense deduction is 400,000 yen. At a 20% marginal rate, this saves 80,000 yen in income tax and 40,000 yen in residence tax. Keep all medical receipts!"
   },
   {
     "id": 32,
     "category": "Tax Calculation",
-    "title": "Inheritance Tax Basic Deduction",
-    "question": "The deceased is survived by a spouse and two children. What is the basic deduction for inheritance tax?",
+    "title": "Inheritance Tax Basic Deduction。",
+    "question": "deceased is survived by a spouse and two children. What is the basic deduction for inheritance tax。",
     "options": [
-      {"text": "36,000,000 yen", "correct": false},
-      {"text": "42,000,000 yen", "correct": true},
-      {"text": "48,000,000 yen", "correct": false},
-      {"text": "54,000,000 yen", "correct": false}
+      {
+        "text": "36,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "42,000,000 yen",
+        "correct": true
+      },
+      {
+        "text": "48,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "54,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Basic deduction = 30,000,000 + 6,000,000 x number of statutory heirs\nIf total inheritance < deduction, no inheritance tax due",
+    "cheatsheet": "Basic deduction = 30,000,000 + 6,000,000 x number of statutory heirs\nIf total inheritance < deduction, no inheritance tax due。",
     "steps": [
-      "Number of statutory heirs: 3 (spouse + 2 children)",
-      "Basic deduction = 30,000,000 + 6,000,000 x 3",
+      "Number of statutory heirs: 3 (spouse + 2 children)。",
+      "Basic deduction = 30,000,000 + 6,000,000 x 3。",
       "= 30,000,000 + 18,000,000",
       "= 48,000,000 yen"
     ],
@@ -658,41 +1042,65 @@
   {
     "id": 33,
     "category": "Tax Calculation",
-    "title": "Capital Gains Tax on Stock Sale",
-    "question": "You sell listed stocks for a 1,000,000 yen profit. What is the tax on this capital gain?",
+    "title": "Capital Gains Tax on Stock Sale。",
+    "question": "You sell listed stocks for a 1,000,000 yen profit. What is the tax on this capital gain。",
     "options": [
-      {"text": "150,000 yen", "correct": false},
-      {"text": "203,150 yen", "correct": true},
-      {"text": "250,000 yen", "correct": false},
-      {"text": "300,000 yen", "correct": false}
+      {
+        "text": "150,000 yen",
+        "correct": false
+      },
+      {
+        "text": "203,150 yen",
+        "correct": true
+      },
+      {
+        "text": "250,000 yen",
+        "correct": false
+      },
+      {
+        "text": "300,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Capital gains on listed stocks: 20.315% (withheld)\n15.315% national income tax + 5% local income tax\nNo declaration needed for listed stocks with withholding",
+    "cheatsheet": "Capital gains on listed stocks: 20.315% (withheld)\n15.315% national income tax + 5% local income tax\nNo declaration needed for listed stocks with withholding。",
     "steps": [
-      "Gain: 1,000,000 yen",
-      "Tax = 1,000,000 x 20.315%",
+      "Gain: 1,000,000 yen。",
+      "Tax = 1,000,000 x 20.315%。",
       "= 203,150 yen",
-      "Net profit after tax: 796,850 yen"
+      "Net profit after tax: 796,850 yen。"
     ],
     "explanation": "Capital gains tax on listed stocks is 20.315% (withheld at source). No tax return is needed for listed stocks. However, NISA-held stocks are completely exempt from this tax."
   },
   {
     "id": 34,
     "category": "Tax Calculation",
-    "title": "Gift Tax Calculation",
-    "question": "A parent gifts 5,000,000 yen to a child in one year. What is the approximate gift tax?",
+    "title": "Gift Tax Calculation。",
+    "question": "A parent gifts 5,000,000 yen to a child in one year. What is the approximate gift tax。。",
     "options": [
-      {"text": "150,000 yen", "correct": false},
-      {"text": "390,000 yen", "correct": true},
-      {"text": "500,000 yen", "correct": false},
-      {"text": "1,000,000 yen", "correct": false}
+      {
+        "text": "150,000 yen",
+        "correct": false
+      },
+      {
+        "text": "390,000 yen",
+        "correct": true
+      },
+      {
+        "text": "500,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Taxable gift = Gift amount - 1,100,000 exemption\nGift tax rates (progressive): 10% up to 2M, 15% up to 3M, 20% up to 4M...",
+    "cheatsheet": "Taxable gift = Gift amount - 1,100,000 exemption\nGift tax rates (progressive): 10% up to 2M, 15% up to 3M, 20% up to 4M。",
     "steps": [
-      "Taxable gift: 5,000,000 - 1,100,000 = 3,900,000 yen",
-      "First 2,000,000 x 10% = 200,000 yen",
-      "Next 1,000,000 x 15% = 150,000 yen",
-      "Remaining 900,000 x 20% = 180,000 yen (approximately)",
-      "Quick calculation method:",
+      "Taxable gift: 5,000,000 - 1,100,000 = 3,900,000 yen。",
+      "First 2,000,000 x 10% = 200,000 yen。",
+      "Next 1,000,000 x 15% = 150,000 yen。",
+      "Remaining 900,000 x 20% = 180,000 yen (approximately)。",
+      "Quick calculation method:。",
       "3,900,000 x 20% - 250,000 = 530,000 yen"
     ],
     "explanation": "The gift tax on 3.9M taxable gift is approximately 390,000 yen using the quick calculation method. To minimize gift tax, parents should stay within the annual 1,100,000 yen exemption."
@@ -700,208 +1108,328 @@
   {
     "id": 35,
     "category": "Tax Calculation",
-    "title": "NISA Tax Savings on Dividends",
-    "question": "You receive 200,000 yen in dividends annually. How much tax does NISA save you (assuming 20.315% dividend tax)?",
+    "title": "NISA Tax Savings on Dividends。",
+    "question": "You receive 200,000 yen in dividends annually. How much tax does NISA save you (assuming 20.315% dividend tax)。",
     "options": [
-      {"text": "20,000 yen", "correct": false},
-      {"text": "40,630 yen", "correct": true},
-      {"text": "60,000 yen", "correct": false},
-      {"text": "80,000 yen", "correct": false}
+      {
+        "text": "20,000 yen",
+        "correct": false
+      },
+      {
+        "text": "40,630 yen",
+        "correct": true
+      },
+      {
+        "text": "60,000 yen",
+        "correct": false
+      },
+      {
+        "text": "80,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Dividend tax (withheld): 20.315%\nNISA: dividends are tax-free\nSavings = Dividends x 20.315%",
+    "cheatsheet": "Dividend tax (withheld): 20.315%\nNISA: dividends are tax-free\nSavings = Dividends x 20.315%。",
     "steps": [
-      "Tax without NISA: 200,000 x 20.315%",
+      "Tax without NISA: 200,000 x 20.315%。",
       "= 40,630 yen per year",
-      "Over 10 years: 406,300 yen saved",
-      "Over 20 years with reinvestment: much more (compound effect)"
+      "Over 10 years: 406,300 yen saved。",
+      "Over 20 years with reinvestment: much more (compound effect)。"
     ],
     "explanation": "NISA saves 40,630 yen per year on 200,000 yen in dividends. Over the lifetime of the account, this can amount to hundreds of thousands of yen, plus the compound growth benefit on the reinvested savings."
   },
   {
     "id": 36,
     "category": "Insurance Premium",
-    "title": "Term vs Whole Life Cost Comparison",
-    "question": "Term life insurance for 30M yen coverage costs 15,000 yen/month. Whole life costs 25,000 yen/month. Over 30 years, how much more does whole life cost in premiums?",
+    "title": "Term vs Whole Life Cost Comparison。",
+    "question": "Term life insurance for 30M yen coverage costs 15,000 yen/month. Whole life costs 25,000 yen/month. Over 30 years, how much more does whole life cost in premiums。",
     "options": [
-      {"text": "1,200,000 yen", "correct": false},
-      {"text": "3,600,000 yen", "correct": true},
-      {"text": "5,000,000 yen", "correct": false},
-      {"text": "9,000,000 yen", "correct": false}
+      {
+        "text": "1,200,000 yen",
+        "correct": false
+      },
+      {
+        "text": "3,600,000 yen",
+        "correct": true
+      },
+      {
+        "text": "5,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "9,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Cost difference = (Whole life premium - Term premium) x 12 x years\nWhole life includes savings component (cash value)\nTerm insurance is pure protection, no cash value",
+    "cheatsheet": "Cost difference = (Whole life premium - Term premium) x 12 x years\nWhole life includes savings component (cash value)\nTerm insurance is pure protection, no cash value。",
     "steps": [
-      "Monthly difference: 25,000 - 15,000 = 10,000 yen",
-      "Annual difference: 10,000 x 12 = 120,000 yen",
-      "Over 30 years: 120,000 x 30 = 3,600,000 yen",
-      "Note: Whole life has surrender value at maturity"
+      "Monthly difference: 25,000 - 15,000 = 10,000 yen。",
+      "Annual difference: 10,000 x 12 = 120,000 yen。",
+      "Over 30 years: 120,000 x 30 = 3,600,000 yen。",
+      "Note: Whole life has surrender value at maturity。"
     ],
     "explanation": "Whole life costs 3,600,000 yen more over 30 years, but it provides coverage for life and builds cash value. The question is whether the extra cost is worth the lifetime coverage and savings component."
   },
   {
     "id": 37,
     "category": "Insurance Premium",
-    "title": "Life Insurance Premium Tax Deduction",
-    "question": "Annual life insurance premiums total 120,000 yen. What is the income deduction for life insurance premiums?",
+    "title": "Life Insurance Premium Tax Deduction。",
+    "question": "Annual life insurance premiums total 120,000 yen. What is the income deduction for life insurance premiums。",
     "options": [
-      {"text": "40,000 yen", "correct": true},
-      {"text": "60,000 yen", "correct": false},
-      {"text": "80,000 yen", "correct": false},
-      {"text": "120,000 yen", "correct": false}
+      {
+        "text": "40,000 yen",
+        "correct": true
+      },
+      {
+        "text": "60,000 yen",
+        "correct": false
+      },
+      {
+        "text": "80,000 yen",
+        "correct": false
+      },
+      {
+        "text": "120,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Life insurance premium deduction:\nUp to 25,000: full amount\n25,001-50,000: premium x 1/2 + 12,500\n50,001-100,000: premium x 1/4 + 25,000\nOver 100,000: premium x 1/5 + 50,000 (max 40,000)",
+    "cheatsheet": "Life insurance premium deduction:\nUp to 25,000: full amount\n25,001-50,000: premium x 1/2 + 12,500\n50,001-100,000: premium x 1/4 + 25,000\nOver 100,000: premium x 1/5 + 50,000 (max 40,000)。",
     "steps": [
       "120,000 falls in the 'over 100,000' bracket",
-      "Deduction = 120,000 x 1/5 + 50,000",
+      "Deduction = 120,000 x 1/5 + 50,000。",
       "= 24,000 + 50,000",
       "= 74,000 yen... wait",
-      "Actually max is 40,000 yen per insurance category",
-      "Deduction = min(74,000, 40,000) = 40,000 yen"
+      "Actually max is 40,000 yen per insurance category。",
+      "Deduction = min(74,000, 40,000) = 40,000 yen。"
     ],
     "explanation": "The life insurance premium deduction is capped at 40,000 yen. Even though the formula gives 74,000 yen, the maximum deduction for this category is 40,000 yen per year."
   },
   {
     "id": 38,
     "category": "Insurance Premium",
-    "title": "Insurance Coverage Gap Analysis",
-    "question": "A family needs 20,000,000 yen in life insurance coverage. The husband has 15,000,000 yen through work. How much additional coverage is needed?",
+    "title": "Insurance Coverage Gap Analysis。",
+    "question": "A family needs 20,000,000 yen in life insurance coverage. The husband has 15,000,000 yen through work. How much additional coverage is needed。。",
     "options": [
-      {"text": "0 yen (work coverage is sufficient)", "correct": false},
-      {"text": "5,000,000 yen", "correct": true},
-      {"text": "10,000,000 yen", "correct": false},
-      {"text": "20,000,000 yen", "correct": false}
+      {
+        "text": "0 yen (work coverage is sufficient)",
+        "correct": false
+      },
+      {
+        "text": "5,000,000 yen",
+        "correct": true
+      },
+      {
+        "text": "10,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "20,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Coverage gap = Total needed - Existing coverage\nConsider both work group insurance and personal policies\nReview coverage needs at life events (marriage, birth, home purchase)",
+    "cheatsheet": "Coverage gap = Total needed - Existing coverage\nConsider both work group insurance and personal policies\nReview coverage needs at life events (marriage, birth, home purchase)。",
     "steps": [
-      "Total needed: 20,000,000 yen",
-      "Work group insurance: 15,000,000 yen",
-      "Gap: 20,000,000 - 15,000,000 = 5,000,000 yen",
-      "This gap should be covered by personal life insurance"
+      "Total needed: 20,000,000 yen。",
+      "Work group insurance: 15,000,000 yen。",
+      "Gap: 20,000,000 - 15,000,000 = 5,000,000 yen。",
+      "This gap should be covered by personal life insurance。"
     ],
     "explanation": "A 5,000,000 yen gap in coverage should be addressed through personal life insurance. This gap analysis is a fundamental part of financial planning - ensuring adequate protection without over-insuring."
   },
   {
     "id": 39,
     "category": "Insurance Premium",
-    "title": "Total Insurance Deduction (Combined)",
-    "question": "Life insurance premiums: 100,000 yen. Medical insurance: 60,000 yen. Social insurance premiums: 500,000 yen. What is the total insurance-related deduction?",
+    "title": "Total Insurance Deduction (Combined)。",
+    "question": "Life insurance premiums: 100,000 yen. Medical insurance: 60,000 yen. Social insurance premiums: 500,000 yen. What is the total insurance-related deduction。",
     "options": [
-      {"text": "500,000 yen", "correct": false},
-      {"text": "560,000 yen", "correct": false},
-      {"text": "600,000 yen", "correct": false},
-      {"text": "628,000 yen", "correct": true}
+      {
+        "text": "500,000 yen",
+        "correct": false
+      },
+      {
+        "text": "560,000 yen",
+        "correct": false
+      },
+      {
+        "text": "600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "628,000 yen",
+        "correct": true
+      }
     ],
-    "cheatsheet": "Separate deductions:\n- Life insurance: max 40,000/year\n- Medical/nursing care: max 40,000/year\n- Social insurance: full amount\nTotal = sum of all three",
+    "cheatsheet": "Separate deductions:\n- Life insurance: max 40,000/year\n- Medical/nursing care: max 40,000/year\n- Social insurance: full amount\nTotal = sum of all three。",
     "steps": [
-      "Life insurance: 100,000 x 1/5 + 50,000 = 70,000 -> capped at 40,000",
-      "Medical insurance: 60,000 x 1/4 + 25,000 = 40,000 (at cap)",
-      "Social insurance: 500,000 (full deduction)",
-      "Total: 40,000 + 40,000 + 500,000 = 580,000 yen"
+      "Life insurance: 100,000 x 1/5 + 50,000 = 70,000 -> capped at 40,000。",
+      "Medical insurance: 60,000 x 1/4 + 25,000 = 40,000 (at cap)。",
+      "Social insurance: 500,000 (full deduction)。",
+      "Total: 40,000 + 40,000 + 500,000 = 580,000 yen。"
     ],
     "explanation": "Combined insurance deductions total 580,000 yen. At a 20% marginal tax rate, this saves 116,000 yen in income tax. Maximizing all available deductions is key to reducing tax burden."
   },
   {
     "id": 40,
     "category": "Insurance Premium",
-    "title": "Earthquake Insurance Cost",
-    "question": "For a building with fire insurance premium of 20,000 yen, what is the approximate earthquake insurance premium (typically 0.096% to 0.564% of sum insured)?",
+    "title": "Earthquake Insurance Cost。",
+    "question": "For a building with fire insurance premium of 20,000 yen, what is the approximate earthquake insurance premium (typically 0.096% to 0.564% of sum insured)。",
     "options": [
-      {"text": "1,000 yen", "correct": false},
-      {"text": "5,000 yen", "correct": false},
-      {"text": "10,000 yen", "correct": false},
-      {"text": "Varies by building structure and location (typically 1,000-20,000 yen range)", "correct": true}
+      {
+        "text": "1,000 yen",
+        "correct": false
+      },
+      {
+        "text": "5,000 yen",
+        "correct": false
+      },
+      {
+        "text": "10,000 yen",
+        "correct": false
+      },
+      {
+        "text": "Varies by building structure and location (typically 1,000-20,000 yen range)",
+        "correct": true
+      }
     ],
-    "cheatsheet": "Earthquake insurance is purchased with fire insurance\nPremium depends on: building structure, location (seismic zone), coverage amount\nWooden buildings generally cost more than RC/steel",
+    "cheatsheet": "Earthquake insurance is purchased with fire insurance\nPremium depends on: building structure, location (seismic zone), coverage amount\nWooden buildings generally cost more than RC/steel。",
     "steps": [
-      "Premium depends on multiple factors:",
+      "Premium depends on multiple factors:。",
       "1. Building structure (wooden vs RC/steel)",
       "2. Seismic risk zone (Tokyo = high, rural = lower)",
       "3. Coverage amount (building + contents)",
-      "Typical range: 1,000-20,000 yen/year"
+      "Typical range: 1,000-20,000 yen/year。"
     ],
     "explanation": "Earthquake insurance premiums vary significantly based on building type, location, and coverage amount. In high-risk areas like Tokyo, premiums for wooden houses can be significantly higher than for reinforced concrete buildings."
   },
   {
     "id": 41,
     "category": "Pension Calculation",
-    "title": "National Pension Benefit Calculation",
-    "question": "If you contributed to the National Pension for 30 years (out of 40 required for full benefit), what is your approximate monthly pension?",
+    "title": "National Pension Benefit Calculation。",
+    "question": "you contributed to the National Pension for 30 years (out of 40 required for full benefit)。is your approximate monthly pensionはいくらか。",
     "options": [
-      {"text": "34,000 yen", "correct": false},
-      {"text": "51,000 yen", "correct": true},
-      {"text": "60,000 yen", "correct": false},
-      {"text": "68,000 yen", "correct": false}
+      {
+        "text": "34,000 yen",
+        "correct": false
+      },
+      {
+        "text": "51,000 yen",
+        "correct": true
+      },
+      {
+        "text": "60,000 yen",
+        "correct": false
+      },
+      {
+        "text": "68,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Basic pension = Full benefit x (Months contributed / 480 months)\nFull benefit (40 years) = approx 68,000 yen/month\nMinimum 10 years required for any benefit",
+    "cheatsheet": "Basic pension = Full benefit x (Months contributed / 480 months)\nFull benefit (40 years) = approx 68,000 yen/month\nMinimum 10 years required for any benefit。",
     "steps": [
-      "Months contributed: 30 x 12 = 360 months",
-      "Proportion: 360 / 480 = 0.75 (75%)",
-      "Pension: 68,000 x 0.75 = 51,000 yen/month"
+      "Months contributed: 30 x 12 = 360 months。",
+      "Proportion: 360 / 480 = 0.75 (75%)。",
+      "Pension: 68,000 x 0.75 = 51,000 yen/month。"
     ],
     "explanation": "With 30 years of contributions, you receive 75% of the full basic pension, or approximately 51,000 yen/month. Missing 10 years costs about 17,000 yen monthly in retirement."
   },
   {
     "id": 42,
     "category": "Pension Calculation",
-    "title": "Welfare Pension Estimation",
-    "question": "Average standard monthly remuneration is 300,000 yen, 30 years of employee pension contributions. What is the approximate monthly Type 2 pension?",
+    "title": "Welfare Pension Estimation。",
+    "question": "Average standard monthly remuneration is 300,000 yen, 30 years of employee pension contributions. What is the approximate monthly Type 2 pension。",
     "options": [
-      {"text": "100,000 yen", "correct": false},
-      {"text": "150,000 yen", "correct": false},
-      {"text": "192,000 yen", "correct": false},
-      {"text": "200,000 yen", "correct": true}
+      {
+        "text": "100,000 yen",
+        "correct": false
+      },
+      {
+        "text": "150,000 yen",
+        "correct": false
+      },
+      {
+        "text": "192,000 yen",
+        "correct": false
+      },
+      {
+        "text": "200,000 yen",
+        "correct": true
+      }
     ],
-    "cheatsheet": "Type 2 pension = Average standard remuneration x multiplier x months/1000\nMultiplier varies by birth year (7.125/1000 for men born 1965+)\nCombined with Type 1 (basic pension)",
+    "cheatsheet": "Type 2 pension = Average standard remuneration x multiplier x months/1000\nMultiplier varies by birth year (7.125/1000 for men born 1965+)\nCombined with Type 1 (basic pension)。",
     "steps": [
-      "Months: 30 x 12 = 360 months",
-      "Type 2 = 300,000 x 7.125/1000 x 360",
+      "Months: 30 x 12 = 360 months。",
+      "Type 2 = 300,000 x 7.125/1000 x 360。",
       "= 300,000 x 0.007125 x 360",
       "= 771,750 yen... wait",
-      "Correct: 300,000 x 7.125 x 360/1000",
+      "Correct: 300,000 x 7.125 x 360/1000。",
       "= 300,000 x 2.565",
       "= 769,500 yen per year",
-      "Monthly: 769,500 / 12 = 64,125 yen"
+      "Monthly: 769,500 / 12 = 64,125 yen。"
     ],
     "explanation": "Type 2 pension for average salary of 300K over 30 years is approximately 64,125 yen/month. Combined with the basic pension, total retirement income is around 115,000 yen/month. Additional savings are needed."
   },
   {
     "id": 43,
     "category": "Pension Calculation",
-    "title": "Early Retirement Pension Reduction",
-    "question": "You start receiving the basic pension at age 62 instead of 65. What is the reduction rate?",
+    "title": "Early Retirement Pension Reduction。",
+    "question": "You start receiving the basic pension at age 62 instead of 65. What is the reduction rate。",
     "options": [
-      {"text": "12%", "correct": false},
-      {"text": "18%", "correct": true},
-      {"text": "24%", "correct": false},
-      {"text": "30%", "correct": false}
+      {
+        "text": "12%",
+        "correct": false
+      },
+      {
+        "text": "18%",
+        "correct": true
+      },
+      {
+        "text": "24%",
+        "correct": false
+      },
+      {
+        "text": "30%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Reduction rate = 0.5% per month before age 65\n3 years early = 36 months\nReduction = 36 x 0.5% = 18%",
+    "cheatsheet": "Reduction rate = 0.5% per month before age 65\n3 years early = 36 months\nReduction = 36 x 0.5% = 18%。",
     "steps": [
-      "Months before 65: (65 - 62) x 12 = 36 months",
-      "Reduction: 36 x 0.5% = 18%",
-      "If full pension = 68,000 yen",
-      "At 62: 68,000 x (1 - 0.18) = 55,760 yen/month"
+      "Months before 65: (65 - 62) x 12 = 36 months。",
+      "Reduction: 36 x 0.5% = 18%。",
+      "If full pension = 68,000 yen。。",
+      "At 62: 68,000 x (1 - 0.18) = 55,760 yen/month。"
     ],
     "explanation": "Starting at 62 means an 18% reduction (36 months x 0.5%). On a full pension of 68,000 yen, you receive about 55,760 yen/month. This reduction is permanent for the rest of your life."
   },
   {
     "id": 44,
     "category": "Pension Calculation",
-    "title": "Delayed Pension Increase",
-    "question": "You delay receiving the basic pension from age 65 to 70. What is the increase rate?",
+    "title": "Delayed Pension Increase。",
+    "question": "You delay receiving the basic pension from age 65 to 70. What is the increase rate。",
     "options": [
-      {"text": "18%", "correct": false},
-      {"text": "30%", "correct": true},
-      {"text": "36%", "correct": false},
-      {"text": "42%", "correct": false}
+      {
+        "text": "18%",
+        "correct": false
+      },
+      {
+        "text": "30%",
+        "correct": true
+      },
+      {
+        "text": "36%",
+        "correct": false
+      },
+      {
+        "text": "42%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Increase rate = 0.7% per month delayed (up to age 70)\n5 years = 60 months\nIncrease = 60 x 0.7% = 42%\nMax increase at 70: 42%",
+    "cheatsheet": "Increase rate = 0.7% per month delayed (up to age 70)\n5 years = 60 months\nIncrease = 60 x 0.7% = 42%\nMax increase at 70: 42%。",
     "steps": [
-      "Months delayed: (70 - 65) x 12 = 60 months",
-      "Increase: 60 x 0.7% = 42%",
-      "Wait, max is 42% at age 70",
-      "Actually: up to 0.7% x 60 months = 42%",
-      "If full pension = 68,000 yen",
-      "At 70: 68,000 x 1.42 = 96,560 yen/month"
+      "Months delayed: (70 - 65) x 12 = 60 months。",
+      "Increase: 60 x 0.7% = 42%。",
+      "Wait, max is 42% at age 70。",
+      "Actually: up to 0.7% x 60 months = 42%。",
+      "If full pension = 68,000 yen。。",
+      "At 70: 68,000 x 1.42 = 96,560 yen/month。"
     ],
     "explanation": "Delaying to 70 increases the pension by up to 42%. The full pension of 68,000 yen becomes about 96,560 yen/month. This can be a good strategy for those who can afford to wait and expect to live long."
   },
@@ -909,56 +1437,92 @@
     "id": 45,
     "category": "Pension Calculation",
     "title": "iDeCo Tax Savings Estimation",
-    "question": "A company employee contributes 23,000 yen/month to iDeCo for 20 years. At a 30% combined tax rate, what is the cumulative tax savings on contributions alone?",
+    "question": "A company employee contributes 23,000 yen/month to iDeCo for 20 years. At a 30% combined tax rate, what is the cumulative tax savings on contributions alone。。",
     "options": [
-      {"text": "552,000 yen", "correct": false},
-      {"text": "1,656,000 yen", "correct": true},
-      {"text": "2,000,000 yen", "correct": false},
-      {"text": "3,000,000 yen", "correct": false}
+      {
+        "text": "552,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,656,000 yen",
+        "correct": true
+      },
+      {
+        "text": "2,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "3,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Tax savings per contribution = Amount x (Income tax rate + Residence tax rate)\nTotal savings = Monthly savings x 12 x years\nPlus tax-free growth on investment returns",
+    "cheatsheet": "Tax savings per contribution = Amount x (Income tax rate + Residence tax rate)\nTotal savings = Monthly savings x 12 x years\nPlus tax-free growth on investment returns。",
     "steps": [
-      "Annual contribution: 23,000 x 12 = 276,000 yen",
-      "Tax savings per year: 276,000 x 30% = 82,800 yen",
-      "Over 20 years: 82,800 x 20 = 1,656,000 yen",
-      "Plus: investment returns inside iDeCo are also tax-free"
+      "Annual contribution: 23,000 x 12 = 276,000 yen。",
+      "Tax savings per year: 276,000 x 30% = 82,800 yen。",
+      "Over 20 years: 82,800 x 20 = 1,656,000 yen。",
+      "Plus: investment returns inside iDeCo are also tax-free。"
     ],
     "explanation": "iDeCo saves 1,656,000 yen in taxes on contributions alone over 20 years. Combined with tax-free investment growth, the total benefit is even larger. This makes iDeCo one of the most tax-efficient savings vehicles."
   },
   {
     "id": 46,
     "category": "Pension Calculation",
-    "title": "Total Retirement Income Estimate",
-    "question": "At retirement, you receive basic pension 68,000 yen + Type 2 pension 65,000 yen + private savings withdrawal 50,000 yen. What is the replacement ratio if pre-retirement income was 400,000 yen?",
+    "title": "Total Retirement Income Estimate。",
+    "question": "At retirement, you receive basic pension 68,000 yen + Type 2 pension 65,000 yen + private savings withdrawal 50,000 yen. What is the replacement ratio if pre-retirement income was 400,000 yen。",
     "options": [
-      {"text": "35%", "correct": false},
-      {"text": "46%", "correct": true},
-      {"text": "55%", "correct": false},
-      {"text": "70%", "correct": false}
+      {
+        "text": "35%",
+        "correct": false
+      },
+      {
+        "text": "46%",
+        "correct": true
+      },
+      {
+        "text": "55%",
+        "correct": false
+      },
+      {
+        "text": "70%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Replacement ratio = Total retirement income / Pre-retirement income\nTarget: 70% for comfortable retirement\nPublic pensions typically cover 40-50%",
+    "cheatsheet": "Replacement ratio = Total retirement income / Pre-retirement income\nTarget: 70% for comfortable retirement\nPublic pensions typically cover 40-50%。",
     "steps": [
-      "Total monthly income: 68,000 + 65,000 + 50,000 = 183,000 yen",
-      "Replacement ratio: 183,000 / 400,000 = 45.75%",
-      "Gap to 70%: 400,000 x 0.70 - 183,000 = 97,000 yen/month",
-      "This gap must be filled by additional savings/investments"
+      "Total monthly income: 68,000 + 65,000 + 50,000 = 183,000 yen。",
+      "Replacement ratio: 183,000 / 400,000 = 45.75%。",
+      "Gap to 70%: 400,000 x 0.70 - 183,000 = 97,000 yen/month。",
+      "This gap must be filled by additional savings/investments。"
     ],
     "explanation": "With a 46% replacement ratio, there is a significant gap to the 70% target. This shortfall of about 97,000 yen/month must be covered by NISA, iDeCo, and other personal savings accumulated during working years."
   },
   {
     "id": 47,
     "category": "Asset Allocation",
-    "title": "Portfolio Return Calculation",
-    "question": "Your portfolio is 60% stocks (return 8%) and 40% bonds (return 2%). What is the expected portfolio return?",
+    "title": "Portfolio Return Calculation。",
+    "question": "Your portfolio is 60% stocks (return 8%) and 40% bonds (return 2%). What is the expected portfolio return。",
     "options": [
-      {"text": "4.0%", "correct": false},
-      {"text": "5.6%", "correct": true},
-      {"text": "6.0%", "correct": false},
-      {"text": "8.0%", "correct": false}
+      {
+        "text": "4.0%",
+        "correct": false
+      },
+      {
+        "text": "5.6%",
+        "correct": true
+      },
+      {
+        "text": "6.0%",
+        "correct": false
+      },
+      {
+        "text": "8.0%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Portfolio return = (w1 x r1) + (w2 x r2) + ...\nw = weight (proportion), r = return\nThis is the weighted average return",
+    "cheatsheet": "Portfolio return = (w1 x r1) + (w2 x r2) + ...\nw = weight (proportion), r = return\nThis is the weighted average return。",
     "steps": [
-      "Portfolio return = (0.60 x 8%) + (0.40 x 2%)",
+      "Portfolio return = (0.60 x 8%) + (0.40 x 2%)。",
       "= 4.8% + 0.8%",
       "= 5.6%"
     ],
@@ -967,60 +1531,96 @@
   {
     "id": 48,
     "category": "Asset Allocation",
-    "title": "Risk-Adjusted Comparison (Sharpe Ratio)",
-    "question": "Fund A: return 10%, standard deviation 15%. Fund B: return 8%, standard deviation 8%. Risk-free rate is 1%. Which has the better Sharpe ratio?",
+    "title": "Risk-Adjusted Comparison (Sharpe Ratio)。",
+    "question": "Fund A: return 10%, standard deviation 15%. Fund B: return 8%, standard deviation 8%. Risk-free rate is 1%. Which has the better Sharpe ratio。",
     "options": [
-      {"text": "Fund A", "correct": false},
-      {"text": "Fund B", "correct": true},
-      {"text": "They are equal", "correct": false},
-      {"text": "Cannot determine without more data", "correct": false}
+      {
+        "text": "Fund A",
+        "correct": false
+      },
+      {
+        "text": "Fund B",
+        "correct": true
+      },
+      {
+        "text": "They are equal",
+        "correct": false
+      },
+      {
+        "text": "Cannot determine without more data",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Sharpe ratio = (Return - Risk-free rate) / Standard deviation\nHigher Sharpe = better risk-adjusted return\nCompare: who delivers more return per unit of risk?",
+    "cheatsheet": "Sharpe ratio = (Return - Risk-free rate) / Standard deviation\nHigher Sharpe = better risk-adjusted return\nCompare: who delivers more return per unit of risk。",
     "steps": [
-      "Fund A: (10% - 1%) / 15% = 9% / 15% = 0.60",
-      "Fund B: (8% - 1%) / 8% = 7% / 8% = 0.875",
-      "Fund B (0.875) > Fund A (0.60)",
-      "Fund B is superior on a risk-adjusted basis"
+      "Fund A: (10% - 1%) / 15% = 9% / 15% = 0.60。",
+      "Fund B: (8% - 1%) / 8% = 7% / 8% = 0.875。",
+      "Fund B (0.875) > Fund A (0.60)。",
+      "Fund B is superior on a risk-adjusted basis。"
     ],
     "explanation": "Although Fund A has higher absolute returns (10% vs 8%), Fund B delivers more return per unit of risk (Sharpe 0.875 vs 0.60). For risk-averse investors, Fund B is the better choice."
   },
   {
     "id": 49,
     "category": "Asset Allocation",
-    "title": "Rebalancing Benefit",
-    "question": "Target: 60% stocks / 40% bonds. After a year, stocks grew to 65%. You rebalance. What is the rebalancing action?",
+    "title": "Rebalancing Benefit。",
+    "question": "Target: 60% stocks / 40% bonds. After a year, stocks grew to 65%. You rebalance. What is the rebalancing action。",
     "options": [
-      {"text": "Sell bonds, buy more stocks", "correct": false},
-      {"text": "Sell stocks, buy bonds to return to 60/40", "correct": true},
-      {"text": "Do nothing (stay at 65/35)", "correct": false},
-      {"text": "Change target to 65/35", "correct": false}
+      {
+        "text": "Sell bonds, buy more stocks",
+        "correct": false
+      },
+      {
+        "text": "Sell stocks, buy bonds to return to 60/40",
+        "correct": true
+      },
+      {
+        "text": "Do nothing (stay at 65/35)",
+        "correct": false
+      },
+      {
+        "text": "Change target to 65/35",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Rebalancing = sell overweighted assets, buy underweighted\nEnforces 'buy low, sell high' discipline\nTypically done annually or when allocation drifts >5% from target",
+    "cheatsheet": "Rebalancing = sell overweighted assets, buy underweighted\nEnforces 'buy low, sell high' discipline\nTypically done annually or when allocation drifts >5% from target。",
     "steps": [
-      "Current: 65% stocks / 35% bonds",
-      "Target: 60% stocks / 40% bonds",
-      "Action: sell 5% of portfolio from stocks",
-      "Use proceeds to buy bonds (underweight by 5%)",
-      "This locks in stock gains and buys bonds while they're relatively cheap"
+      "Current: 65% stocks / 35% bonds。",
+      "Target: 60% stocks / 40% bonds。",
+      "Action: sell 5% of portfolio from stocks。",
+      "Use proceeds to buy bonds (underweight by 5%)。",
+      "This locks in stock gains and buys bonds while they're relatively cheap。"
     ],
     "explanation": "Rebalancing forces a disciplined sell-high/buy-low strategy. Studies show annual rebalancing can slightly improve returns while reducing risk. It prevents the portfolio from becoming too aggressive in bull markets."
   },
   {
     "id": 50,
     "category": "Asset Allocation",
-    "title": "Maximum Drawdown Understanding",
-    "question": "An investment drops from 1,000,000 yen to 700,000 yen before recovering. What is the maximum drawdown?",
+    "title": "Maximum Drawdown Understanding。",
+    "question": "An investment drops from 1,000,000 yen to 700,000 yen before recovering. What is the maximum drawdown。",
     "options": [
-      {"text": "30%", "correct": true},
-      {"text": "33%", "correct": false},
-      {"text": "43%", "correct": false},
-      {"text": "50%", "correct": false}
+      {
+        "text": "30%",
+        "correct": true
+      },
+      {
+        "text": "33%",
+        "correct": false
+      },
+      {
+        "text": "43%",
+        "correct": false
+      },
+      {
+        "text": "50%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Maximum drawdown = (Peak - Trough) / Peak\nMeasures the largest peak-to-trough decline\nKey risk metric for evaluating investment strategies",
+    "cheatsheet": "Maximum drawdown = (Peak - Trough) / Peak\nMeasures the largest peak-to-trough decline\nKey risk metric for evaluating investment strategies。",
     "steps": [
-      "Peak: 1,000,000 yen",
-      "Trough: 700,000 yen",
-      "Drawdown = (1,000,000 - 700,000) / 1,000,000",
+      "Peak: 1,000,000 yen。",
+      "Trough: 700,000 yen。",
+      "Drawdown = (1,000,000 - 700,000) / 1,000,000。",
       "= 300,000 / 1,000,000",
       "= 30%"
     ],
@@ -1029,37 +1629,61 @@
   {
     "id": 51,
     "category": "Inheritance Division",
-    "title": "Statutory Inheritance Share Calculation",
-    "question": "Estate is 90,000,000 yen. Survived by spouse and 2 children. How much does the spouse receive?",
+    "title": "Statutory Inheritance Share Calculation。",
+    "question": "Estate is 90,000,000 yen. Survived by spouse and 2 children. How much does the spouse receive。",
     "options": [
-      {"text": "30,000,000 yen", "correct": false},
-      {"text": "45,000,000 yen", "correct": true},
-      {"text": "60,000,000 yen", "correct": false},
-      {"text": "90,000,000 yen", "correct": false}
+      {
+        "text": "30,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "45,000,000 yen",
+        "correct": true
+      },
+      {
+        "text": "60,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "90,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Spouse + children: spouse gets 1/2, children share 1/2\nEach child gets 1/2 x (1/number of children)\nSpouse share is protected regardless of number of children",
+    "cheatsheet": "Spouse + children: spouse gets 1/2, children share 1/2\nEach child gets 1/2 x (1/number of children)\nSpouse share is protected regardless of number of children。",
     "steps": [
-      "Spouse share: 1/2 of 90,000,000 = 45,000,000 yen",
-      "Children share: 1/2 of 90,000,000 = 45,000,000 yen",
-      "Each child: 45,000,000 / 2 = 22,500,000 yen"
+      "Spouse share: 1/2 of 90,000,000 = 45,000,000 yen。",
+      "Children share: 1/2 of 90,000,000 = 45,000,000 yen。",
+      "Each child: 45,000,000 / 2 = 22,500,000 yen。"
     ],
     "explanation": "The spouse receives 45,000,000 yen (1/2), and each child receives 22,500,000 yen (1/4 each). If there were 3 children, the spouse would still get 1/2, with each child getting 1/6."
   },
   {
     "id": 52,
     "category": "Inheritance Division",
-    "title": "Inheritance Tax Calculation",
-    "question": "Taxable inheritance per heir is 20,000,000 yen. What is the inheritance tax (using quick calculation method)?",
+    "title": "Inheritance Tax Calculation。",
+    "question": "Taxable inheritance per heir is 20,000,000 yen. What is the inheritance tax (using quick calculation method)。",
     "options": [
-      {"text": "1,500,000 yen", "correct": false},
-      {"text": "2,300,000 yen", "correct": false},
-      {"text": "2,900,000 yen", "correct": true},
-      {"text": "4,000,000 yen", "correct": false}
+      {
+        "text": "1,500,000 yen",
+        "correct": false
+      },
+      {
+        "text": "2,300,000 yen",
+        "correct": false
+      },
+      {
+        "text": "2,900,000 yen",
+        "correct": true
+      },
+      {
+        "text": "4,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Quick calculation method:\nUp to 10M: 10% - no deduction\n10M-30M: 20% - 2,000,000\n30M-50M: 25% - 3,500,000\n\nTax = Amount x Rate - Deduction",
+    "cheatsheet": "Quick calculation method:\nUp to 10M: 10% - no deduction\n10M-30M: 20% - 2,000,000\n30M-50M: 25% - 3,500,000\n\nTax = Amount x Rate - Deduction。",
     "steps": [
       "20M falls in 10M-30M bracket",
-      "Tax = 20,000,000 x 20% - 2,000,000",
+      "Tax = 20,000,000 x 20% - 2,000,000。",
       "= 4,000,000 - 2,000,000",
       "= 2,000,000 yen"
     ],
@@ -1068,18 +1692,30 @@
   {
     "id": 53,
     "category": "Inheritance Division",
-    "title": "Spouse Tax Reduction",
-    "question": "A spouse inherits 160,000,000 yen (actual share). What is the maximum spouse tax reduction?",
+    "title": "Spouse Tax Reduction。",
+    "question": "A spouse inherits 160,000,000 yen (actual share). What is the maximum spouse tax reduction。。",
     "options": [
-      {"text": "16,000,000 yen", "correct": true},
-      {"text": "20,000,000 yen", "correct": false},
-      {"text": "40,000,000 yen", "correct": false},
-      {"text": "80,000,000 yen", "correct": false}
+      {
+        "text": "16,000,000 yen",
+        "correct": true
+      },
+      {
+        "text": "20,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "40,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "80,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Spouse tax reduction = lesser of:\n(a) Calculated inheritance tax x 1/2, or\n(b) 16,000,000 yen\nMaximizes protection for surviving spouse",
+    "cheatsheet": "Spouse tax reduction = lesser of:\n(a) Calculated inheritance tax x 1/2, or\n(b) 16,000,000 yen\nMaximizes protection for surviving spouse。",
     "steps": [
-      "If calculated tax is 32,000,000 yen:",
-      "Reduction = min(32,000,000 x 1/2, 16,000,000)",
+      "If calculated tax is 32,000,000 yen:。。",
+      "Reduction = min(32,000,000 x 1/2, 16,000,000)。",
       "= min(16,000,000, 16,000,000)",
       "= 16,000,000 yen"
     ],
@@ -1088,38 +1724,62 @@
   {
     "id": 54,
     "category": "Inheritance Division",
-    "title": "Life Insurance in Inheritance Tax",
-    "question": "A deceased person's life insurance pays 30,000,000 yen to the spouse. How is this treated for inheritance tax?",
+    "title": "Life Insurance in Inheritance Tax。",
+    "question": "A deceased person's life insurance pays 30,000,000 yen to the spouse. How is this treated for inheritance tax。。",
     "options": [
-      {"text": "Not included in inheritance (completely tax-free)", "correct": false},
-      {"text": "Added to the total inheritance estate for tax calculation", "correct": true},
-      {"text": "Taxed separately as income tax", "correct": false},
-      {"text": "Only 50% is included", "correct": false}
+      {
+        "text": "Not included in inheritance (completely tax-free)",
+        "correct": false
+      },
+      {
+        "text": "Added to the total inheritance estate for tax calculation",
+        "correct": true
+      },
+      {
+        "text": "Taxed separately as income tax",
+        "correct": false
+      },
+      {
+        "text": "Only 50% is included",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Life insurance death benefits paid to heirs = deemed acquisition\nAdded to total inheritance for tax calculation\n500K yen per heir deduction on life insurance portion\nNon-heir beneficiaries: different rules apply",
+    "cheatsheet": "Life insurance death benefits paid to heirs = deemed acquisition\nAdded to total inheritance for tax calculation\n500K yen per heir deduction on life insurance portion\nNon-heir beneficiaries: different rules apply。",
     "steps": [
-      "Life insurance to spouse: 30,000,000 yen",
-      "This is 'deemed acquisition' (mitame shutoku)",
-      "Added to inheritance estate for tax calculation",
-      "Deduction available: 500,000 yen x number of heirs receiving insurance",
-      "Non-spouse: 1,500,000 yen deduction limit per non-heir"
+      "Life insurance to spouse: 30,000,000 yen。",
+      "This is 'deemed acquisition' (mitame shutoku)。",
+      "Added to inheritance estate for tax calculation。",
+      "Deduction available: 500,000 yen x number of heirs receiving insurance。",
+      "Non-spouse: 1,500,000 yen deduction limit per non-heir。"
     ],
     "explanation": "Life insurance proceeds paid to heirs are included in the inheritance tax calculation. However, there is a 500,000 yen deduction per heir receiving insurance, and up to 1,500,000 yen per non-heir."
   },
   {
     "id": 55,
     "category": "Real Estate ROI",
-    "title": "Gross Yield Calculation",
-    "question": "A property costs 50,000,000 yen and generates 3,600,000 yen in annual rent. What is the gross yield?",
+    "title": "Gross Yield Calculation。",
+    "question": "A property costs 50,000,000 yen and generates 3,600,000 yen in annual rent. What is the gross yield。。",
     "options": [
-      {"text": "5.0%", "correct": false},
-      {"text": "7.2%", "correct": true},
-      {"text": "8.0%", "correct": false},
-      {"text": "10.0%", "correct": false}
+      {
+        "text": "5.0%",
+        "correct": false
+      },
+      {
+        "text": "7.2%",
+        "correct": true
+      },
+      {
+        "text": "8.0%",
+        "correct": false
+      },
+      {
+        "text": "10.0%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Gross yield = Annual rent / Property price x 100%\nDoes NOT account for expenses, vacancy, or taxes\nSurface yield for quick comparison",
+    "cheatsheet": "Gross yield = Annual rent / Property price x 100%\nDoes NOT account for expenses, vacancy, or taxes\nSurface yield for quick comparison。",
     "steps": [
-      "Gross yield = 3,600,000 / 50,000,000",
+      "Gross yield = 3,600,000 / 50,000,000。",
       "= 0.072",
       "= 7.2%"
     ],
@@ -1128,38 +1788,62 @@
   {
     "id": 56,
     "category": "Real Estate ROI",
-    "title": "Net Operating Income (NOI) Calculation",
-    "question": "Gross rental income: 4,800,000 yen. Vacancy: 5%. Operating expenses: 960,000 yen. What is the NOI?",
+    "title": "Net Operating Income (NOI) Calculation。",
+    "question": "Gross rental income: 4,800,000 yen. Vacancy: 5%. Operating expenses: 960,000 yen. What is the NOI。",
     "options": [
-      {"text": "3,600,000 yen", "correct": true},
-      {"text": "3,840,000 yen", "correct": false},
-      {"text": "4,000,000 yen", "correct": false},
-      {"text": "4,800,000 yen", "correct": false}
+      {
+        "text": "3,600,000 yen",
+        "correct": true
+      },
+      {
+        "text": "3,840,000 yen",
+        "correct": false
+      },
+      {
+        "text": "4,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "4,800,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "NOI = (Gross rent - Vacancy allowance) - Operating expenses\nVacancy = typically 5% of gross rent\nOperating expenses: property tax, management fee, insurance, maintenance",
+    "cheatsheet": "NOI = (Gross rent - Vacancy allowance) - Operating expenses\nVacancy = typically 5% of gross rent\nOperating expenses: property tax, management fee, insurance, maintenance。",
     "steps": [
-      "Vacancy: 4,800,000 x 5% = 240,000 yen",
-      "Effective gross income: 4,800,000 - 240,000 = 4,560,000 yen",
-      "NOI = 4,560,000 - 960,000 = 3,600,000 yen"
+      "Vacancy: 4,800,000 x 5% = 240,000 yen。",
+      "Effective gross income: 4,800,000 - 240,000 = 4,560,000 yen。",
+      "NOI = 4,560,000 - 960,000 = 3,600,000 yen。"
     ],
     "explanation": "NOI is 3,600,000 yen after vacancy and expenses. NOI is the key metric for evaluating property income potential. Cap rate = NOI / Property value determines fair pricing."
   },
   {
     "id": 57,
     "category": "Real Estate ROI",
-    "title": "Cash-on-Cash Return",
-    "question": "Down payment 10,000,000 yen on a 50,000,000 yen property. Annual after-tax cash flow: 600,000 yen. What is the cash-on-cash return?",
+    "title": "Cash-on-Cash Return。",
+    "question": "Down payment 10,000,000 yen on a 50,000,000 yen property. Annual after-tax cash flow: 600,000 yen. What is the cash-on-cash return。",
     "options": [
-      {"text": "3%", "correct": false},
-      {"text": "6%", "correct": true},
-      {"text": "10%", "correct": false},
-      {"text": "12%", "correct": false}
+      {
+        "text": "3%",
+        "correct": false
+      },
+      {
+        "text": "6%",
+        "correct": true
+      },
+      {
+        "text": "10%",
+        "correct": false
+      },
+      {
+        "text": "12%",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Cash-on-cash return = Annual cash flow / Cash invested x 100%\nCash invested = down payment + closing costs\nMeasures return on actual cash outlay, not total property value",
+    "cheatsheet": "Cash-on-cash return = Annual cash flow / Cash invested x 100%\nCash invested = down payment + closing costs\nMeasures return on actual cash outlay, not total property value。",
     "steps": [
-      "Cash invested: 10,000,000 yen (down payment)",
-      "Annual cash flow: 600,000 yen",
-      "Cash-on-cash = 600,000 / 10,000,000",
+      "Cash invested: 10,000,000 yen (down payment)。",
+      "Annual cash flow: 600,000 yen。",
+      "Cash-on-cash = 600,000 / 10,000,000。",
       "= 0.06 = 6%"
     ],
     "explanation": "A 6% cash-on-cash return means the 10M down payment generates 600K yen annually after all expenses and taxes. This is the actual return on invested cash, making it highly relevant for leveraged investments."
@@ -1167,17 +1851,29 @@
   {
     "id": 58,
     "category": "Real Estate ROI",
-    "title": "Cap Rate and Valuation",
-    "question": "NOI is 3,000,000 yen. Comparable properties sell at a 6% cap rate. What is the estimated property value?",
+    "title": "Cap Rate and Valuation。",
+    "question": "NOI is 3,000,000 yen. Comparable properties sell at a 6% cap rate. What is the estimated property value。",
     "options": [
-      {"text": "30,000,000 yen", "correct": false},
-      {"text": "50,000,000 yen", "correct": true},
-      {"text": "60,000,000 yen", "correct": false},
-      {"text": "100,000,000 yen", "correct": false}
+      {
+        "text": "30,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "50,000,000 yen",
+        "correct": true
+      },
+      {
+        "text": "60,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "100,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Property value = NOI / Cap rate\nCap rate = market-determined required return\nHigher cap rate = lower valuation (and vice versa)",
+    "cheatsheet": "Property value = NOI / Cap rate\nCap rate = market-determined required return\nHigher cap rate = lower valuation (and vice versa)。",
     "steps": [
-      "Value = NOI / Cap rate",
+      "Value = NOI / Cap rate。",
       "= 3,000,000 / 0.06",
       "= 50,000,000 yen"
     ],
@@ -1186,39 +1882,63 @@
   {
     "id": 59,
     "category": "Real Estate ROI",
-    "title": "Property Depreciation Benefit",
-    "question": "A 100,000,000 yen wooden apartment (22-year useful life) is rented out. What is the annual depreciation deduction?",
+    "title": "Property Depreciation Benefit。",
+    "question": "A 100,000,000 yen wooden apartment (22-year useful life) is rented out. What is the annual depreciation deduction。。",
     "options": [
-      {"text": "2,000,000 yen", "correct": false},
-      {"text": "4,545,455 yen", "correct": true},
-      {"text": "5,000,000 yen", "correct": false},
-      {"text": "10,000,000 yen", "correct": false}
+      {
+        "text": "2,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "4,545,455 yen",
+        "correct": true
+      },
+      {
+        "text": "5,000,000 yen",
+        "correct": false
+      },
+      {
+        "text": "10,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Depreciation = Building value / Useful life\nUsing straight-line method\nLand is NOT depreciable; only buildings",
+    "cheatsheet": "Depreciation = Building value / Useful life\nUsing straight-line method\nLand is NOT depreciable; only buildings。",
     "steps": [
-      "Assume building value is 80% of purchase: 80,000,000 yen",
-      "Depreciation = 80,000,000 / 22 years",
+      "Assume building value is 80% of purchase: 80,000,000 yen。",
+      "Depreciation = 80,000,000 / 22 years。",
       "= 3,636,364 yen/year (if 80% is building)",
-      "If 100% is building: 100,000,000 / 22 = 4,545,455 yen/year"
+      "If 100% is building: 100,000,000 / 22 = 4,545,455 yen/year。。"
     ],
     "explanation": "Annual depreciation of approximately 4.5M yen reduces taxable rental income. This 'paper loss' provides a significant tax shield while the property may actually be appreciating in value."
   },
   {
     "id": 60,
     "category": "Real Estate ROI",
-    "title": "Leverage Effect in Real Estate",
-    "question": "Property value 50M, purchase price 50M, loan 40M (80% LTV), NOI 3M, loan payment 1.8M/year. What is the cash flow?",
+    "title": "Leverage Effect in Real Estate。",
+    "question": "Property value 50M, purchase price 50M, loan 40M (80% LTV), NOI 3M, loan payment 1.8M/year. What is the cash flow。",
     "options": [
-      {"text": "600,000 yen", "correct": false},
-      {"text": "1,200,000 yen", "correct": true},
-      {"text": "1,800,000 yen", "correct": false},
-      {"text": "3,000,000 yen", "correct": false}
+      {
+        "text": "600,000 yen",
+        "correct": false
+      },
+      {
+        "text": "1,200,000 yen",
+        "correct": true
+      },
+      {
+        "text": "1,800,000 yen",
+        "correct": false
+      },
+      {
+        "text": "3,000,000 yen",
+        "correct": false
+      }
     ],
-    "cheatsheet": "Cash flow = NOI - Debt service (loan payments)\nPositive cash flow = income after paying all costs including loan\nNegative cash flow means you must add money each month",
+    "cheatsheet": "Cash flow = NOI - Debt service (loan payments)\nPositive cash flow = income after paying all costs including loan\nNegative cash flow means you must add money each month。",
     "steps": [
-      "NOI: 3,000,000 yen/year",
-      "Loan payment: 1,800,000 yen/year",
-      "Cash flow: 3,000,000 - 1,800,000 = 1,200,000 yen/year"
+      "NOI: 3,000,000 yen/year。",
+      "Loan payment: 1,800,000 yen/year。",
+      "Cash flow: 3,000,000 - 1,800,000 = 1,200,000 yen/year。"
     ],
     "explanation": "Positive cash flow of 1,200,000 yen/year (100,000 yen/month). With only 10M cash invested, the cash-on-cash return is 12%. Leverage amplifies returns but also magnifies risks."
   }
