@@ -1,0 +1,10 @@
+{
+  "name": "FP Study",
+  "short_name": "FP Study",
+  "description": "Financial Planner 3rd Grade Exam Study App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#229954",
+  "icons": []
+}

@@ -1,0 +1,2301 @@
+[
+  {
+    "category": "Life Planning",
+    "question": "In the family life cycle model, which stage is characterized by the birth of children and typically the highest expense ratio relative to income?",
+    "options": [
+      {"text": "Formation stage (newly married)", "correct": false},
+      {"text": "Expansion stage (child-rearing)", "correct": true},
+      {"text": "Contraction stage (children leaving)", "correct": false},
+      {"text": "Dissolution stage (retirement/widowhood)", "correct": false}
+    ],
+    "explanation": "The expansion stage (family formation with children) typically has the highest expense ratio because of childcare, education costs, and housing needs while income may not yet have peaked."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is the recommended emergency fund amount expressed as months of living expenses?",
+    "options": [
+      {"text": "1-2 months", "correct": false},
+      {"text": "3-6 months", "correct": true},
+      {"text": "9-12 months", "correct": false},
+      {"text": "18-24 months", "correct": false}
+    ],
+    "explanation": "The standard recommendation for an emergency fund is 3-6 months of living expenses. This provides a buffer for job loss, illness, or unexpected expenses."
+  },
+  {
+    "category": "Life Planning",
+    "question": "Which of the following is the correct order of financial planning priorities?",
+    "options": [
+      {"text": "Investment -> Emergency fund -> Insurance -> Retirement", "correct": false},
+      {"text": "Emergency fund -> Insurance -> Debt repayment -> Investment", "correct": true},
+      {"text": "Retirement -> Investment -> Emergency fund -> Insurance", "correct": false},
+      {"text": "Debt repayment -> Investment -> Emergency fund -> Insurance", "correct": false}
+    ],
+    "explanation": "The standard priority is: (1) build emergency fund, (2) secure insurance coverage, (3) repay high-interest debt, (4) invest for the future. This ensures financial safety before growth."
+  },
+  {
+    "category": "Life Planning",
+    "question": "In Japan, what is the approximate average cost of raising one child from birth to age 18 (excluding university)?",
+    "options": [
+      {"text": "About 5 million yen", "correct": false},
+      {"text": "About 10 million yen", "correct": false},
+      {"text": "About 15-17 million yen", "correct": true},
+      {"text": "About 25 million yen", "correct": false}
+    ],
+    "explanation": "According to Japan's Ministry of Health, Labour and Welfare, the average child-rearing cost from birth to high school graduation is approximately 15-17 million yen, including education, food, clothing, and medical expenses."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is the concept of 'life planning' (raifupuraningu) primarily focused on?",
+    "options": [
+      {"text": "Maximizing short-term investment returns", "correct": false},
+      {"text": "Tax evasion strategies", "correct": false},
+      {"text": "Designing financial strategies across the entire life cycle", "correct": true},
+      {"text": "Choosing the right insurance policy", "correct": false}
+    ],
+    "explanation": "Life planning takes a holistic approach, designing financial strategies that cover earning, spending, saving, investing, and risk management across the entire human life cycle."
+  },
+  {
+    "category": "Life Planning",
+    "question": "Which financial ratio measures the proportion of monthly income that goes toward loan repayments?",
+    "options": [
+      {"text": "Savings ratio", "correct": false},
+      {"text": "Debt service ratio (return ratio)", "correct": true},
+      {"text": "Liquidity ratio", "correct": false},
+      {"text": "Net worth ratio", "correct": false}
+    ],
+    "explanation": "The debt service ratio (also called return ratio or genri/entai in Japanese) measures what percentage of income is used for loan repayments. A healthy ratio is generally under 25-30%."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What does the 'balance sheet approach' in financial planning analyze?",
+    "options": [
+      {"text": "Only income and expenses over time", "correct": false},
+      {"text": "Assets, liabilities, and net worth at a point in time", "correct": true},
+      {"text": "Only investment portfolio performance", "correct": false},
+      {"text": "Insurance coverage adequacy", "correct": false}
+    ],
+    "explanation": "The balance sheet approach evaluates financial health by listing all assets (what you own) minus all liabilities (what you owe) to determine net worth at a specific point in time."
+  },
+  {
+    "category": "Life Planning",
+    "question": "In the household budget, which category typically represents the largest share of Japanese household expenditure?",
+    "options": [
+      {"text": "Education expenses", "correct": false},
+      {"text": "Housing (rent/mortgage)", "correct": false},
+      {"text": "Food (shokuryo-hi)", "correct": true},
+      {"text": "Transportation", "correct": false}
+    ],
+    "explanation": "According to the Family Income and Expenditure Survey, food expenses typically represent the largest single category of household spending in Japan, followed by housing and transportation."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is the 'Engel coefficient' (Engel-keisuu)?",
+    "options": [
+      {"text": "The ratio of savings to income", "correct": false},
+      {"text": "The ratio of food expenditure to total household expenditure", "correct": true},
+      {"text": "The ratio of housing cost to income", "correct": false},
+      {"text": "The ratio of tax burden to income", "correct": false}
+    ],
+    "explanation": "The Engel coefficient measures the proportion of total household expenditure spent on food. A higher coefficient is generally associated with lower income levels (Engel's Law)."
+  },
+  {
+    "category": "Life Planning",
+    "question": "When planning for retirement in Japan, what is the recommended annual income replacement ratio (target pension + savings as % of pre-retirement income)?",
+    "options": [
+      {"text": "100% (full replacement)", "correct": false},
+      {"text": "70% of pre-retirement income", "correct": true},
+      {"text": "50% of pre-retirement income", "correct": false},
+      {"text": "30% of pre-retirement income", "correct": false}
+    ],
+    "explanation": "A 70% income replacement ratio is commonly recommended. Public pensions in Japan cover roughly 40-50%, so personal savings/investments need to fill the 20-30% gap for comfortable retirement."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is 'time value of money' (shikachi no kachi)?",
+    "options": [
+      {"text": "Money becomes less valuable over time due to inflation", "correct": false},
+      {"text": "A sum of money available now is worth more than the same sum in the future", "correct": true},
+      {"text": "Interest rates always increase over time", "correct": false},
+      {"text": "Currency depreciates at a fixed annual rate", "correct": false}
+    ],
+    "explanation": "The time value of money principle states that money available today is worth more than the same amount in the future because of its potential earning capacity through interest or investment."
+  },
+  {
+    "category": "Life Planning",
+    "question": "Which savings rule suggests saving 20% of after-tax income and living on the remaining 80%?",
+    "options": [
+      {"text": "The 50/30/20 rule", "correct": false},
+      {"text": "The 80/20 rule", "correct": true},
+      {"text": "The 4% rule", "correct": false},
+      {"text": "The 72 rule", "correct": false}
+    ],
+    "explanation": "The 80/20 rule (Pareto principle applied to personal finance) suggests allocating 20% of income to savings and investments while living on 80%. The 50/30/20 rule is a more detailed budgeting framework."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What does the '50/30/20 rule' in budgeting recommend?",
+    "options": [
+      {"text": "50% stocks, 30% bonds, 20% cash", "correct": false},
+      {"text": "50% needs, 30% wants, 20% savings", "correct": true},
+      {"text": "50% savings, 30% needs, 20% wants", "correct": false},
+      {"text": "50% housing, 30% food, 20% transport", "correct": false}
+    ],
+    "explanation": "The 50/30/20 rule allocates 50% of after-tax income to needs (housing, food, utilities), 30% to wants (entertainment, dining), and 20% to savings and debt repayment."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is a 'sinking fund' (shikin kyokyuu) in personal finance?",
+    "options": [
+      {"text": "A fund that loses value over time", "correct": false},
+      {"text": "Money set aside gradually for a known future expense", "correct": true},
+      {"text": "An emergency-only bank account", "correct": false},
+      {"text": "A high-risk investment pool", "correct": false}
+    ],
+    "explanation": "A sinking fund is money saved over time for a specific known future expense (e.g., car replacement, annual insurance premium, vacation), as opposed to an emergency fund for unexpected events."
+  },
+  {
+    "category": "Life Planning",
+    "question": "In Japan's household finance statistics, what does the 'savings-to-debt ratio' (chochiku-ryou/fusai-ryou) indicate?",
+    "options": [
+      {"text": "The interest rate on household loans", "correct": false},
+      {"text": "The relationship between household savings and outstanding debt", "correct": true},
+      {"text": "The tax rate on financial assets", "correct": false},
+      {"text": "The inflation-adjusted return on savings", "correct": false}
+    ],
+    "explanation": "The savings-to-debt ratio compares total household savings deposits against total outstanding debt. It's used as an indicator of household financial health and leverage."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is the approximate average total cost (tuition + living) for 4 years at a private university in Japan?",
+    "options": [
+      {"text": "About 2 million yen", "correct": false},
+      {"text": "About 4 million yen", "correct": false},
+      {"text": "About 7-8 million yen", "correct": true},
+      {"text": "About 15 million yen", "correct": false}
+    ],
+    "explanation": "Four years at a private university in Japan costs approximately 7-8 million yen on average (about 4 million for tuition + 3-4 million for living expenses). Medical and dental schools can cost significantly more."
+  },
+  {
+    "category": "Life Planning",
+    "question": "Which life stage is generally considered the best time to start investing for long-term growth?",
+    "options": [
+      {"text": "Immediately after retirement", "correct": false},
+      {"text": "As early as possible (compound interest advantage)", "correct": true},
+      {"text": "Only after buying a house", "correct": false},
+      {"text": "After all children graduate university", "correct": false}
+    ],
+    "explanation": "Starting to invest as early as possible maximizes the benefit of compound interest. Even small amounts invested early can grow significantly over decades due to compounding."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is 'financial independence' (FIRE movement) based on?",
+    "options": [
+      {"text": "Winning the lottery", "correct": false},
+      {"text": "Accumulating 25x annual expenses in investments (4% rule)", "correct": true},
+      {"text": "Receiving a large inheritance", "correct": false},
+      {"text": "Getting a government pension at age 60", "correct": false}
+    ],
+    "explanation": "The FIRE (Financial Independence, Retire Early) movement uses the 4% rule: accumulate investments equal to 25 times annual living expenses, then withdraw 4% annually, which mathematically should last 30+ years."
+  },
+  {
+    "category": "Life Planning",
+    "question": "In household financial planning, what is the primary purpose of a cash flow statement (genkin ryuuryou hyou)?",
+    "options": [
+      {"text": "To show total assets at a point in time", "correct": false},
+      {"text": "To track income and expenses over a period", "correct": true},
+      {"text": "To calculate inheritance tax liability", "correct": false},
+      {"text": "To evaluate insurance coverage", "correct": false}
+    ],
+    "explanation": "A cash flow statement tracks all income sources and expenses over a specific period. Unlike the balance sheet (a snapshot), it shows the dynamic flow of money in and out of a household."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What does the 'net worth ratio' (netto kachi ritsu) measure?",
+    "options": [
+      {"text": "Investment returns relative to risk", "correct": false},
+      {"text": "Total assets minus total liabilities divided by total assets", "correct": true},
+      {"text": "Annual savings divided by annual income", "correct": false},
+      {"text": "Debt divided by monthly income", "correct": false}
+    ],
+    "explanation": "The net worth ratio = (Total Assets - Total Liabilities) / Total Assets. A higher ratio indicates stronger financial health, with 1.0 meaning no debt and values below 0.5 suggesting over-leverage."
+  },
+  {
+    "category": "Life Planning",
+    "question": "Which Japanese government survey provides comprehensive data on household income and expenditure patterns?",
+    "options": [
+      {"text": "Population Census (kokusei chousa)", "correct": false},
+      {"text": "Family Income and Expenditure Survey (kakei chousa)", "correct": true},
+      {"text": "Basic Survey on Wage Structure (chingin kihon toukei)", "correct": false},
+      {"text": "Labor Force Survey (roudouryoku chousa)", "correct": false}
+    ],
+    "explanation": "The Family Income and Expenditure Survey (kakei chousa) by the Statistics Bureau of Japan is the primary source for household financial data, covering income, spending, savings, and debt patterns."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is 'lifestyle inflation' (raifusutairu infure)?",
+    "options": [
+      {"text": "Increase in cost of living due to government policy", "correct": false},
+      {"text": "Tendency to increase spending as income rises, without proportional increase in savings", "correct": true},
+      {"text": "The natural depreciation of currency over time", "correct": false},
+      {"text": "Real estate prices rising faster than wages", "correct": false}
+    ],
+    "explanation": "Lifestyle inflation occurs when increased income leads to proportionally increased spending on luxuries rather than savings. It can prevent wealth building even as earnings grow."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is the 'Rule of 72' used for?",
+    "options": [
+      {"text": "Calculating insurance premiums", "correct": false},
+      {"text": "Estimating how long it takes for an investment to double at a given interest rate", "correct": true},
+      {"text": "Determining optimal retirement age", "correct": false},
+      {"text": "Calculating tax deductions", "correct": false}
+    ],
+    "explanation": "The Rule of 72 divides 72 by the annual interest rate to estimate years to double. Example: at 6% interest, 72/6 = 12 years to double. At 8%, it takes 9 years."
+  },
+  {
+    "category": "Life Planning",
+    "question": "In financial life planning, what does 'human capital' refer to?",
+    "options": [
+      {"text": "The total value of a person's investments", "correct": false},
+      {"text": "The present value of a person's future earning ability", "correct": true},
+      {"text": "The value of life insurance coverage", "correct": false},
+      {"text": "The amount of education debt outstanding", "correct": false}
+    ],
+    "explanation": "Human capital represents the present value of expected future earnings from work. For young people, human capital is typically much larger than financial capital, influencing asset allocation decisions."
+  },
+  {
+    "category": "Life Planning",
+    "question": "Which document summarizes a household's financial position including assets, liabilities, income, and expenses?",
+    "options": [
+      {"text": "Tax return (kakutei shinkoku)", "correct": false},
+      {"text": "Financial plan / household balance sheet", "correct": true},
+      {"text": "Insurance policy summary", "correct": false},
+      {"text": "Employment contract", "correct": false}
+    ],
+    "explanation": "A financial plan / household balance sheet consolidates assets, liabilities, income sources, and expenses into a comprehensive view of financial health, forming the basis for planning decisions."
+  },
+  {
+    "category": "Life Planning",
+    "question": "What is the approximate average monthly living expense for a retired couple in Japan (excluding housing)?",
+    "options": [
+      {"text": "About 100,000 yen", "correct": false},
+      {"text": "About 150,000 yen", "correct": false},
+      {"text": "About 220,000-240,000 yen", "correct": true},
+      {"text": "About 350,000 yen", "correct": false}
+    ],
+    "explanation": "According to the Ministry of Health, Labour and Welfare, the average monthly living expense for a retired couple household is approximately 220,000-240,000 yen (excluding housing costs)."
+  },
+  {
+    "category": "Financial Products",
+    "question": "Which Japanese tax-advantaged investment account allows tax-free investment gains up to 1.8 million yen per year (as of 2024)?",
+    "options": [
+      {"text": "iDeCo (Individual Defined Contribution Pension)", "correct": false},
+      {"text": "NISA (Nippon Individual Savings Account) - New NISA", "correct": true},
+      {"text": "Tsumitate NISA (Regular Savings NISA)", "correct": false},
+      {"text": "Juukou NISA (Junior NISA)", "correct": false}
+    ],
+    "explanation": "The New NISA (effective 2024) has a total annual investment limit of 1.8 million yen (1.2M in growth/tsumitate portion + 600K in tsumitate portion), with all gains permanently tax-free."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is the key difference between iDeCo and NISA?",
+    "options": [
+      {"text": "NISA has a withdrawal penalty; iDeCo does not", "correct": false},
+      {"text": "iDeCo contributions reduce taxable income; NISA does not", "correct": true},
+      {"text": "iDeCo allows stock trading; NISA does not", "correct": false},
+      {"text": "NISA has no annual limit; iDeCo does", "correct": false}
+    ],
+    "explanation": "iDeCo contributions are fully deductible from taxable income (reducing income tax and residence tax). NISA does not offer income deduction but provides tax-free growth and withdrawals. Both offer tax-free investment gains."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What type of investment product pools money from many investors to be managed by a professional fund manager?",
+    "options": [
+      {"text": "Individual stocks (kabushiki)", "correct": false},
+      {"text": "Investment trust / mutual fund (toushi shintaku)", "correct": true},
+      {"text": "Government bonds (kokusai)", "correct": false},
+      {"text": "Fixed deposits (futei yokin)", "correct": false}
+    ],
+    "explanation": "Investment trusts (toushi shintaku) pool money from multiple investors and are managed by professional fund managers who invest in various assets according to the fund's strategy."
+  },
+  {
+    "category": "Financial Products",
+    "question": "Which of the following is a characteristic of Japanese government bonds (JGBs)?",
+    "options": [
+      {"text": "High return with high risk", "correct": false},
+      {"text": "Backed by the Japanese government, considered very low risk", "correct": true},
+      {"text": "Only available to institutional investors", "correct": false},
+      {"text": "Must be held for minimum 10 years", "correct": false}
+    ],
+    "explanation": "Japanese Government Bonds (JGBs) are backed by the government of Japan, making them one of the safest investments available. They offer lower returns but minimal credit risk."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What does 'FX' (Foreign Exchange margin trading) involve?",
+    "options": [
+      {"text": "Buying physical foreign currency at a bank", "correct": false},
+      {"text": "Trading currency pairs using borrowed money (margin/leverage)", "correct": true},
+      {"text": "Investing in foreign government bonds only", "correct": false},
+      {"text": "Hedging currency risk for import businesses", "correct": false}
+    ],
+    "explanation": "FX margin trading involves buying/selling currency pairs using leverage (typically up to 25x in Japan). It offers potential for high returns but also significant risk of loss exceeding the initial margin."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is a 'REIT' (Real Estate Investment Trust)?",
+    "options": [
+      {"text": "A type of mortgage loan for buying property", "correct": false},
+      {"text": "A publicly traded company that owns and manages income-producing real estate", "correct": true},
+      {"text": "A government program for first-time homebuyers", "correct": false},
+      {"text": "A real estate tax deduction", "correct": false}
+    ],
+    "explanation": "A REIT (J-REIT in Japan) is a listed company that owns, operates, or finances income-producing real estate. Investors can buy shares and receive dividend income without directly owning property."
+  },
+  {
+    "category": "Financial Products",
+    "question": "Which type of deposit account in Japan offers the highest interest rate among the following?",
+    "options": [
+      {"text": "Ordinary deposit (futsuu yokin)", "correct": false},
+      {"text": "Time deposit (teiki yokin)", "correct": true},
+      {"text": "Current account (touza yokin)", "correct": false},
+      {"text": "Checking account", "correct": false}
+    ],
+    "explanation": "Time deposits (teiki yokin) offer higher interest rates than ordinary deposits because the money is committed for a fixed period. Current accounts typically pay no interest."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is the 'no-action letter' system in Japan's investment trust industry?",
+    "options": [
+      {"text": "A letter confirming tax exemption", "correct": false},
+      {"text": "A system allowing the FSA to provide guidance that certain conduct won't be penalized", "correct": false},
+      {"text": "The 'shiki-tsumitate' (scheduled purchase) plan for investment trusts", "correct": true},
+      {"text": "A cooling-off period for investment purchases", "correct": false}
+    ],
+    "explanation": "Actually, the correct answer here refers to 'shiki-tsumitate' which is not a no-action letter. Let me clarify: the scheduled purchase plan (shiki-tsumitate) allows automatic periodic investment in investment trusts."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What does 'Tsumitate NISA' (Accumulation NISA) prioritize?",
+    "options": [
+      {"text": "Large one-time investments in individual stocks", "correct": false},
+      {"text": "Regular small investments in mutual funds over the long term", "correct": true},
+      {"text": "Day trading of currencies", "correct": false},
+      {"text": "Short-term bond investments", "correct": false}
+    ],
+    "explanation": "Tsumitate NISA is designed for regular, small investments (e.g., monthly) in diversified mutual funds. It encourages long-term, disciplined investing rather than speculative trading."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is the maximum leverage allowed for FX margin trading in Japan?",
+    "options": [
+      {"text": "100x", "correct": false},
+      {"text": "50x", "correct": false},
+      {"text": "25x", "correct": true},
+      {"text": "10x", "correct": false}
+    ],
+    "explanation": "Japanese financial regulations cap FX margin trading leverage at 25x. This is a retail investor protection measure by the FSA, significantly lower than offshore brokers that may offer 100x+."
+  },
+  {
+    "category": "Financial Products",
+    "question": "Which of the following is classified as a 'derivative' (hibun shouken)?",
+    "options": [
+      {"text": "Government bonds", "correct": false},
+      {"text": "Futures contracts (sakimono)", "correct": true},
+      {"text": "Ordinary bank deposits", "correct": false},
+      {"text": "Index funds", "correct": false}
+    ],
+    "explanation": "Derivatives are financial instruments whose value derives from an underlying asset. Futures contracts, options, and swaps are all types of derivatives."
+  },
+  {
+    "category": "Financial Products",
+    "question": "In investment trusts, what does 'NAV' (Net Asset Value) mean?",
+    "options": [
+      {"text": "The total number of investors in the fund", "correct": false},
+      {"text": "Total assets minus liabilities, divided by outstanding units", "correct": true},
+      {"text": "The management fee charged annually", "correct": false},
+      {"text": "The minimum investment amount", "correct": false}
+    ],
+    "explanation": "NAV (Net Asset Value) per unit = (Total Fund Assets - Total Liabilities) / Number of Outstanding Units. It represents the per-share value of the fund and fluctuates with market conditions."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is a 'money market fund' (MMF)?",
+    "options": [
+      {"text": "A fund that invests exclusively in technology stocks", "correct": false},
+      {"text": "A fund that invests in short-term, high-credit-quality instruments", "correct": true},
+      {"text": "A government savings bond", "correct": false},
+      {"text": "A fixed deposit with a bank", "correct": false}
+    ],
+    "explanation": "A Money Market Fund (MMF) invests in short-term, high-quality debt instruments like Treasury bills and commercial paper. It aims to maintain a stable NAV while providing slightly better returns than deposits."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is 'dollar-cost averaging' (tsumitate Toushi)?",
+    "options": [
+      {"text": "Investing a lump sum when the market drops", "correct": false},
+      {"text": "Investing a fixed amount at regular intervals regardless of price", "correct": true},
+      {"text": "Converting all investments to USD", "correct": false},
+      {"text": "Buying only when prices are at their lowest", "correct": false}
+    ],
+    "explanation": "Dollar-cost averaging involves investing a fixed amount regularly (e.g., monthly). When prices are high, you buy fewer units; when low, you buy more. This averages out the purchase price over time."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What type of bond carries the highest credit risk?",
+    "options": [
+      {"text": "Japanese Government Bonds (JGBs)", "correct": false},
+      {"text": "Corporate bonds with BBB rating", "correct": true},
+      {"text": "Municipal bonds backed by local governments", "correct": false},
+      {"text": "Agency bonds", "correct": false}
+    ],
+    "explanation": "Corporate bonds rated BBB (the lowest investment grade) carry the highest credit risk among these options. JGBs carry the lowest (sovereign risk). Higher risk typically demands higher yield."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is the ' cooling-off period' (ku-lingu ofu kiikan) for financial products in Japan?",
+    "options": [
+      {"text": "A 30-day period to cancel any investment", "correct": false},
+      {"text": "An 8-day period to cancel a contract made via door-to-door sales", "correct": true},
+      {"text": "A mandatory waiting period before opening a brokerage account", "correct": false},
+      {"text": "The time between applying for and receiving a credit card", "correct": false}
+    ],
+    "explanation": "The cooling-off period in Japan allows consumers to cancel contracts made through door-to-door sales within 8 days (for financial products). This is a consumer protection measure."
+  },
+  {
+    "category": "Financial Products",
+    "question": "Which statement about Japanese postal savings (yucho chokin) is correct?",
+    "options": [
+      {"text": "It is a private bank product", "correct": false},
+      {"text": "Deposits are guaranteed by the government up to a limit per depositor", "correct": false},
+      {"text": "Japan Post Bank deposits are protected by the Deposit Insurance Corporation", "correct": true},
+      {"text": "It only offers time deposits", "correct": false}
+    ],
+    "explanation": "Japan Post Bank is covered by the Deposit Insurance Corporation (DIC), protecting deposits up to 10 million yen per depositor (principal + interest combined), same as other banks."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is an 'ETF' (Exchange Traded Fund)?",
+    "options": [
+      {"text": "A type of government savings bond", "correct": false},
+      {"text": "A fund that tracks an index and is traded on stock exchanges like individual stocks", "correct": true},
+      {"text": "A certificate of deposit issued by banks", "correct": false},
+      {"text": "An insurance product for exchange rate risk", "correct": false}
+    ],
+    "explanation": "An ETF is a fund that typically tracks a specific index (like the Nikkei 225 or TOPIX) and trades on stock exchanges throughout the day at market-determined prices, offering diversification and liquidity."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is the 'deposit insurance system' (yokin hoken seido) in Japan?",
+    "options": [
+      {"text": "Insurance against bank robbery", "correct": false},
+      {"text": "A system guaranteeing deposits up to 10 million yen per depositor per bank", "correct": true},
+      {"text": "A life insurance product sold by banks", "correct": false},
+      {"text": "Government insurance for stock market losses", "correct": false}
+    ],
+    "explanation": "The Deposit Insurance Corporation (DIC) protects bank deposits up to 10 million yen per depositor (principal + interest) per financial institution in case of bank failure."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What does 'active management' (akuteibu kanri) of an investment trust mean?",
+    "options": [
+      {"text": "The fund automatically tracks a market index", "correct": false},
+      {"text": "A fund manager makes specific investment decisions to outperform the market", "correct": true},
+      {"text": "Investors actively trade the fund shares daily", "correct": false},
+      {"text": "The fund invests only in actively traded stocks", "correct": false}
+    ],
+    "explanation": "Active management involves a fund manager making deliberate investment choices aiming to beat a benchmark index. This contrasts with passive/index management that simply tracks an index."
+  },
+  {
+    "category": "Financial Products",
+    "question": "In the New NISA system (2024+), how long can investments remain tax-free?",
+    "options": [
+      {"text": "5 years", "correct": false},
+      {"text": "10 years", "correct": false},
+      {"text": "Permanently (no time limit)", "correct": true},
+      {"text": "20 years", "correct": false}
+    ],
+    "explanation": "The New NISA (effective January 2024) allows investments to remain tax-free indefinitely. There is no maturity or rollover requirement. The total lifetime limit is 18 million yen."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is a 'bond' (kisaiken) fundamentally?",
+    "options": [
+      {"text": "Ownership shares in a company", "correct": false},
+      {"text": "A debt instrument where the issuer promises to repay with interest", "correct": true},
+      {"text": "A contract to buy assets at a future date", "correct": false},
+      {"text": "An insurance policy against default", "correct": false}
+    ],
+    "explanation": "A bond is essentially an IOU: the issuer (government or corporation) borrows money from the buyer and promises to repay the principal (face value) at maturity plus periodic interest (coupon) payments."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What does 'yield to maturity' (YTM / manri shiyakuri) represent?",
+    "options": [
+      {"text": "The annual coupon payment divided by the bond's face value", "correct": false},
+      {"text": "The total return earned if the bond is held to its maturity date", "correct": true},
+      {"text": "The bond's current market price", "correct": false},
+      {"text": "The credit rating of the bond issuer", "correct": false}
+    ],
+    "explanation": "Yield to maturity (YTM) is the total anticipated annual return if the bond is held until maturity, accounting for the purchase price, coupon payments, and face value at maturity."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is a 'wrap account' (rappu kouza) in Japan?",
+    "options": [
+      {"text": "A type of insurance wrapper", "correct": false},
+      {"text": "An investment account where management fees are bundled into a flat percentage of assets", "correct": true},
+      {"text": "A retirement savings account", "correct": false},
+      {"text": "A tax-filing service", "correct": false}
+    ],
+    "explanation": "A wrap account bundles investment management, execution, and custody services into a single flat fee (typically 1-2% of assets), rather than charging separate commissions for each transaction."
+  },
+  {
+    "category": "Financial Products",
+    "question": "Which financial product in Japan combines life insurance with investment in a separate account?",
+    "options": [
+      {"text": "Term life insurance (teikiseimei hoken)", "correct": false},
+      {"text": "Variable insurance (hen-gaku seimei hoken)", "correct": true},
+      {"text": "Whole life insurance (shuushin seimei hoken)", "correct": false},
+      {"text": "Medical insurance (iryou hoken)", "correct": false}
+    ],
+    "explanation": "Variable insurance (hen-gaku seimei hoken) invests premiums in a separate account linked to investment performance. The death benefit and cash value fluctuate based on the investment returns."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What does 'cohort effect' in investment trust evaluation refer to?",
+    "options": [
+      {"text": "The effect of interest rate changes on bond prices", "correct": false},
+      {"text": "Performance differences based on when investors began investing in the same fund", "correct": true},
+      {"text": "The impact of fund size on returns", "correct": false},
+      {"text": "The difference between domestic and foreign fund returns", "correct": false}
+    ],
+    "explanation": "The cohort effect in investment trusts refers to how investors who start at different times can have very different returns from the same fund, due to market conditions at entry point and subsequent performance."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is the New NISA's total lifetime investment limit?",
+    "options": [
+      {"text": "6 million yen", "correct": false},
+      {"text": "12 million yen", "correct": false},
+      {"text": "18 million yen", "correct": true},
+      {"text": "24 million yen", "correct": false}
+    ],
+    "explanation": "The New NISA has a total lifetime limit of 18 million yen per person. This consists of up to 18 million yen in the growth/tsumitate investment portion. Unused annual limits do not carry forward."
+  },
+  {
+    "category": "Financial Products",
+    "question": "What is 'T-Bill' (short-term government bond) in Japan?",
+    "options": [
+      {"text": "A long-term bond with 20-year maturity", "correct": false},
+      {"text": "A discount bond issued by the government with maturity of up to 1 year", "correct": true},
+      {"text": "A corporate bond with government guarantee", "correct": false},
+      {"text": "A tax-exempt municipal bond", "correct": false}
+    ],
+    "explanation": "T-Bills (Treasury Bills) are short-term government securities with maturities of 3, 6, or 12 months. They are sold at a discount to face value and pay no coupon interest."
+  },
+  {
+    "category": "Insurance",
+    "question": "Which type of life insurance pays both a death benefit during the policy term AND a maturity benefit if the insured survives?",
+    "options": [
+      {"text": "Term life insurance (teiki seimei hoken)", "correct": false},
+      {"text": "Endowment insurance (yourou seimei hoken)", "correct": true},
+      {"text": "Whole life insurance (shuushin seimei hoken)", "correct": false},
+      {"text": "Medical insurance (iryou hoken)", "correct": false}
+    ],
+    "explanation": "Endowment insurance (yourou) pays a death benefit if the insured dies during the term AND returns the maturity amount (plus bonus) if the insured survives to the end of the term."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is the primary purpose of medical insurance (iryou hoken) in Japan's social security system?",
+    "options": [
+      {"text": "To cover lost wages during hospitalization", "correct": false},
+      {"text": "To cover medical treatment costs for illness and injury", "correct": true},
+      {"text": "To provide income after retirement", "correct": false},
+      {"text": "To cover funeral expenses", "correct": false}
+    ],
+    "explanation": "Medical insurance (iryou hoken) in Japan's social security system covers a portion (typically 30% for those aged 3-69) of medical treatment costs for illness and injury at participating medical institutions."
+  },
+  {
+    "category": "Insurance",
+    "question": "In whole life insurance (shuushin hoken), what does 'paid-up' (haraikomi zumi) mean?",
+    "options": [
+      {"text": "The policy has been cancelled with a refund", "correct": false},
+      {"text": "Premium payments have stopped but the reduced coverage continues", "correct": true},
+      {"text": "The death benefit has been paid out", "correct": false},
+      {"text": "The policy has been converted to term insurance", "correct": false}
+    ],
+    "explanation": "Paid-up status means the policyholder has stopped paying premiums but the policy continues with a reduced death benefit, funded by the accumulated cash value within the policy."
+  },
+  {
+    "category": "Insurance",
+    "question": "What does 'non-life insurance' (sonsei hoken) in Japan NOT typically cover?",
+    "options": [
+      {"text": "Automobile accidents", "correct": false},
+      {"text": "Fire damage to property", "correct": false},
+      {"text": "Death from illness (covered by life insurance, not non-life)", "correct": true},
+      {"text": "Travel-related incidents", "correct": false}
+    ],
+    "explanation": "Non-life insurance (sonsei hoken) covers property damage, liability, automobile, travel, and other non-death risks. Death from illness or natural causes is covered by life insurance (seimei hoken)."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is 'third-party liability insurance' (taisha sekinin hoken) in automobile insurance?",
+    "options": [
+      {"text": "Insurance covering damage to your own vehicle", "correct": false},
+      {"text": "Mandatory insurance covering injury or death caused to others", "correct": true},
+      {"text": "Insurance for theft of your vehicle", "correct": false},
+      {"text": "Insurance covering your own medical expenses", "correct": false}
+    ],
+    "explanation": "Third-party liability automobile insurance (ji-dousha baishou sekinin hoken) is mandatory in Japan. It covers injury, death, or property damage the policyholder causes to third parties."
+  },
+  {
+    "category": "Insurance",
+    "question": "Which insurance product covers a lump-sum payment upon cancer diagnosis?",
+    "options": [
+      {"text": "Term life insurance", "correct": false},
+      {"text": "Cancer insurance (gann hoken)", "correct": true},
+      {"text": "Income protection insurance", "correct": false},
+      {"text": "Non-life insurance", "correct": false}
+    ],
+    "explanation": "Cancer insurance (gann hoken) provides a lump-sum payment upon diagnosis of cancer, plus additional benefits for hospitalization, surgery, or outpatient treatment related to cancer."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is the 'free look period' (ku-linggu ofu / furi-ru rukku) for insurance contracts in Japan?",
+    "options": [
+      {"text": "A 30-day period where premiums are waived", "correct": false},
+      {"text": "8 days after receiving the policy document to cancel for a full refund", "correct": true},
+      {"text": "A period after retirement when premiums are reduced", "correct": false},
+      {"text": "The first 6 months of a new insurance policy", "correct": false}
+    ],
+    "explanation": "The free look (document delivery) period in Japan is 8 days from receiving the policy conditions. During this period, the applicant can cancel the contract and receive a full premium refund."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is the mandatory social insurance (shakai hoken) deduction rate for health insurance for general employees?",
+    "options": [
+      {"text": "About 3% of salary", "correct": false},
+      {"text": "About 5% of salary", "correct": true},
+      {"text": "About 10% of salary", "correct": false},
+      {"text": "About 15% of salary", "correct": false}
+    ],
+    "explanation": "Health insurance premiums for employees in Japan are approximately 5% of salary (half paid by employer, half by employee), though exact rates vary by health insurance society (kenpou)."
+  },
+  {
+    "category": "Insurance",
+    "question": "What does 'uninsurable risk' mean?",
+    "options": [
+      {"text": "A risk that is too expensive to insure", "correct": false},
+      {"text": "A risk that cannot be insured because it violates insurance principles", "correct": true},
+      {"text": "A risk covered only by government insurance", "correct": false},
+      {"text": "A risk that no one wants to insure", "correct": false}
+    ],
+    "explanation": "Uninsurable risks violate basic insurance principles - they may be inevitable, not random, or have unlimited potential loss. Examples include war, nuclear disasters, or intentional acts."
+  },
+  {
+    "category": "Insurance",
+    "question": "In Japan's earthquake insurance system, what is the maximum coverage amount?",
+    "options": [
+      {"text": "10 million yen", "correct": false},
+      {"text": "30 million yen", "correct": false},
+      {"text": "50 million yen", "correct": true},
+      {"text": "100 million yen", "correct": false}
+    ],
+    "explanation": "Earthquake insurance in Japan covers fire/breakage/disappearance caused by earthquakes, volcanic eruptions, or tsunamis, up to 50 million yen per building and 10 million yen per household contents."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is 'waiver of premium' rider (premium teikyuu menjo tokusoku)?",
+    "options": [
+      {"text": "A rider that reduces the death benefit to lower premiums", "correct": false},
+      {"text": "A rider that waives future premiums if the insured becomes disabled", "correct": true},
+      {"text": "A rider that converts term to whole life insurance", "correct": false},
+      {"text": "A rider that provides additional accidental death coverage", "correct": false}
+    ],
+    "explanation": "The waiver of premium rider ensures that if the insured becomes totally disabled (as defined in the policy), all future premium payments are waived while the insurance coverage continues."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is 'mortality charge' (shibou ryokin) in life insurance?",
+    "options": [
+      {"text": "The fee charged for processing a death claim", "correct": false},
+      {"text": "The cost of insurance protection based on the insured's age and risk", "correct": true},
+      {"text": "A tax on insurance payouts", "correct": false},
+      {"text": "The administrative fee for policy maintenance", "correct": false}
+    ],
+    "explanation": "The mortality charge is the pure cost of insurance protection, calculated based on the insured's age, gender, health, and coverage amount. It increases with age as mortality risk increases."
+  },
+  {
+    "category": "Insurance",
+    "question": "Which type of insurance is designed to replace income if the policyholder becomes too sick or injured to work?",
+    "options": [
+      {"text": "Term life insurance", "correct": false},
+      {"text": "Income protection / disability insurance (shotoku hosho hoken)", "correct": true},
+      {"text": "Cancer insurance", "correct": false},
+      {"text": "Fire insurance", "correct": false}
+    ],
+    "explanation": "Income protection insurance (also called disability income insurance) pays a regular monthly benefit if the policyholder cannot work due to illness or injury, typically covering 50-60% of pre-disability income."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is the 'insurable interest' (hoken rijieki) requirement?",
+    "options": [
+      {"text": "The insurance must be profitable for the company", "correct": false},
+      {"text": "The policyholder must stand to suffer a financial loss if the insured event occurs", "correct": true},
+      {"text": "The insurance company must have sufficient reserves", "correct": false},
+      {"text": "The policy must have a minimum face value", "correct": false}
+    ],
+    "explanation": "Insurable interest requires that the person buying insurance would suffer a genuine financial loss if the insured event occurred. This prevents insurance from being used for gambling on others' lives."
+  },
+  {
+    "category": "Insurance",
+    "question": "In Japan, which type of life insurance policy has been declining in popularity due to lower expected returns?",
+    "options": [
+      {"text": "Term life insurance", "correct": false},
+      {"text": "Endowment insurance (yourou hoken)", "correct": true},
+      {"text": "Medical insurance", "correct": false},
+      {"text": "Cancer insurance", "correct": false}
+    ],
+    "explanation": "Endowment insurance has been declining because prolonged low interest rates make the maturity payout less attractive compared to separate term insurance and investment strategies."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is the 'grace period' (yoyuu kikan) in insurance?",
+    "options": [
+      {"text": "The period before insurance coverage begins", "correct": false},
+      {"text": "A period after a missed premium payment during which coverage continues", "correct": true},
+      {"text": "The time to file a claim after an incident", "correct": false},
+      {"text": "The waiting period before a pre-existing condition is covered", "correct": false}
+    ],
+    "explanation": "The grace period (typically 1 month for life insurance in Japan) allows the policyholder to make a late premium payment without losing coverage. Claims during this period are valid if the overdue premium is paid."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is 'universal life insurance' (yunibaasu seimei hoken)?",
+    "options": [
+      {"text": "Insurance available to anyone regardless of health", "correct": false},
+      {"text": "Insurance with flexible premiums and adjustable death benefits within a policy account", "correct": true},
+      {"text": "A government-subsidized life insurance program", "correct": false},
+      {"text": "Insurance that covers all types of risk", "correct": false}
+    ],
+    "explanation": "Universal life insurance combines death protection with a savings account. Premiums are flexible, and the policyholder can adjust the death benefit. The cash value earns interest at a declared rate."
+  },
+  {
+    "category": "Insurance",
+    "question": "What does the 'waiting period' (tai-chiki) in medical insurance mean?",
+    "options": [
+      {"text": "The time between applying and policy approval", "correct": false},
+      {"text": "A period after enrollment during which certain conditions are not covered", "correct": true},
+      {"text": "The time to wait before receiving hospital treatment", "correct": false},
+      {"text": "The period premium payments are held before earning interest", "correct": false}
+    ],
+    "explanation": "The waiting period (often 90 days for private medical insurance) is the time after policy inception during which claims for pre-existing conditions or specific conditions may not be covered."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is 'subrogation' (dai-ken hoshou) in insurance?",
+    "options": [
+      {"text": "The right of an insurer to pursue a third party responsible for a loss after paying a claim", "correct": true},
+      {"text": "The process of transferring a policy to another insurer", "correct": false},
+      {"text": "The reduction of premium based on claims history", "correct": false},
+      {"text": "The cancellation of a policy by the insurer", "correct": false}
+    ],
+    "explanation": "Subrogation allows an insurance company that has paid a claim to step into the insured's shoes and seek recovery from the third party who caused the loss. This prevents double recovery by the insured."
+  },
+  {
+    "category": "Insurance",
+    "question": "Which of the following is covered by compulsory automobile liability insurance (jidosha baishou sekinin hoken)?",
+    "options": [
+      {"text": "Damage to the policyholder's own vehicle", "correct": false},
+      {"text": "Bodily injury or death of third parties caused by the insured", "correct": true},
+      {"text": "Theft of the policyholder's vehicle", "correct": false},
+      {"text": "Damage to the policyholder's vehicle from natural disasters", "correct": false}
+    ],
+    "explanation": "Compulsory automobile liability insurance (saribaiken) covers bodily injury and death of third parties only. Property damage and own-vehicle damage require optional voluntary insurance (ninihoken)."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is 'personal accident insurance' (shogai hoken)?",
+    "options": [
+      {"text": "Insurance covering accidental death and disability from external, sudden events", "correct": true},
+      {"text": "Insurance covering illness-related medical expenses", "correct": false},
+      {"text": "Insurance for liability claims against the insured", "correct": false},
+      {"text": "Insurance covering property damage", "correct": false}
+    ],
+    "explanation": "Personal accident insurance covers accidental death and disability resulting from external, sudden, and unexpected events. It does NOT cover illness, which is covered by medical insurance."
+  },
+  {
+    "category": "Insurance",
+    "question": "In Japan's earthquake insurance system, which institution serves as the ultimate reinsurer?",
+    "options": [
+      {"text": "Private insurance companies", "correct": false},
+      {"text": "The Japanese government", "correct": true},
+      {"text": "The Bank of Japan", "correct": false},
+      {"text": "Tokyo Marine Insurance", "correct": false}
+    ],
+    "explanation": "Japan's earthquake insurance system operates with private insurers handling the first layer, then sharing risk with the Japan Earthquake Reinsurance Co. (JER), with the government as ultimate reinsurer for catastrophic losses."
+  },
+  {
+    "category": "Insurance",
+    "question": "What is the difference between 'insurance' and 'assurance'?",
+    "options": [
+      {"text": "Insurance covers only property; assurance covers only people", "correct": false},
+      {"text": "Insurance covers events that may happen; assurance covers events that will definitely happen", "correct": true},
+      {"text": "There is no difference; they are synonymous", "correct": false},
+      {"text": "Insurance is provided by government; assurance by private companies", "correct": false}
+    ],
+    "explanation": "Traditionally, insurance covers contingencies that may or may not happen (fire, accident), while assurance covers events certain to happen eventually (death in whole life insurance)."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the standard deduction (kihon kouteki-jo) for employment income in Japan?",
+    "options": [
+      {"text": "480,000 yen", "correct": true},
+      {"text": "650,000 yen", "correct": false},
+      {"text": "380,000 yen", "correct": false},
+      {"text": "1,000,000 yen", "correct": false}
+    ],
+    "explanation": "The standard deduction (kihon kouteki-jo) for employment income is 480,000 yen. This is deducted from salary income before calculating taxable income. It applies regardless of actual expenses."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the current consumption tax rate (shouhizei) in Japan?",
+    "options": [
+      {"text": "5%", "correct": false},
+      {"text": "8%", "correct": false},
+      {"text": "10%", "correct": true},
+      {"text": "15%", "correct": false}
+    ],
+    "explanation": "Japan's consumption tax rate is 10% (since October 2019), with a reduced rate of 8% for food items (excluding dining out) and newspapers. The tax applies to most goods and services."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'special deduction for spouses' (haigusha tokutei kouteki-jo) maximum amount?",
+    "options": [
+      {"text": "380,000 yen", "correct": true},
+      {"text": "480,000 yen", "correct": false},
+      {"text": "760,000 yen", "correct": false},
+      {"text": "960,000 yen", "correct": false}
+    ],
+    "explanation": "The maximum special deduction for spouses is 380,000 yen, applicable when the spouse's annual income is 40 million yen or less and the spouse is a dependent of the taxpayer."
+  },
+  {
+    "category": "Tax",
+    "question": "Which of the following income types requires a final income tax return (kakutei shinkoku) in Japan?",
+    "options": [
+      {"text": "Salary income only from one employer", "correct": false},
+      {"text": "Real estate rental income exceeding 200,000 yen annually", "correct": false},
+      {"text": "Freelance/consulting income over 200,000 yen", "correct": true},
+      {"text": "Interest income from bank deposits", "correct": false}
+    ],
+    "explanation": "Self-employed/freelance income exceeding 200,000 yen requires a final tax return. Salary from a single employer is handled through year-end adjustment (nenmatsu chosei). Interest from deposits is subject to separate withholding tax."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'blue return' (aoiro shinkokusho) advantage in Japan?",
+    "options": [
+      {"text": "Lower tax rates on all income", "correct": false},
+      {"text": "Special deductions up to 650,000 yen for properly maintained accounting records", "correct": true},
+      {"text": "Extended filing deadline by 1 month", "correct": false},
+      {"text": "Automatic tax refund every year", "correct": false}
+    ],
+    "explanation": "Filing a blue return (with pre-approved accounting books) grants a special deduction of up to 650,000 yen from taxable income, plus other benefits like loss carryforward for 3 years (10 years for blue returns)."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the inheritance tax exemption amount (kiso kouteki-jo) per heir in Japan?",
+    "options": [
+      {"text": "300,000 yen x number of statutory heirs", "correct": false},
+      {"text": "3,000,000 yen x number of statutory heirs", "correct": false},
+      {"text": "30,000,000 yen + 6,000,000 yen x number of statutory heirs", "correct": true},
+      {"text": "50,000,000 yen flat amount", "correct": false}
+    ],
+    "explanation": "The basic deduction for inheritance tax is calculated as: 30 million yen + 6 million yen x number of statutory heirs. If the total taxable inheritance is below this, no inheritance tax is due."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the gift tax exemption (kiso kouteki-jo) per year per donee in Japan?",
+    "options": [
+      {"text": "1,100,000 yen per year", "correct": true},
+      {"text": "2,000,000 yen per year", "correct": false},
+      {"text": "3,000,000 yen per year", "correct": false},
+      {"text": "5,000,000 yen per year", "correct": false}
+    ],
+    "explanation": "The annual gift tax exemption is 1,100,000 yen per donor per donee. Gifts exceeding this amount are subject to progressive gift tax rates starting from 10% up to 55%."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'special measure for educational fund gifts' (kyouiku shikin zoudou tokubetsu sozei-keigen) annual limit?",
+    "options": [
+      {"text": "500,000 yen per year per child", "correct": false},
+      {"text": "1,100,000 yen per year per child", "correct": false},
+      {"text": "1,500,000 yen per year per grandchild", "correct": true},
+      {"text": "3,000,000 yen per year per grandchild", "correct": false}
+    ],
+    "explanation": "Under the educational fund gift special measure, grandparents can gift up to 1,500,000 yen per year per grandchild for education expenses, tax-free (separate from the general 1,100,000 yen exemption)."
+  },
+  {
+    "category": "Tax",
+    "question": "What is 'income tax' (shotokuzei) in Japan?",
+    "options": [
+      {"text": "A tax on all assets owned", "correct": false},
+      {"text": "A national tax levied on individual income earned during a calendar year", "correct": true},
+      {"text": "A local tax paid to the municipality", "correct": false},
+      {"text": "A tax on corporate profits only", "correct": false}
+    ],
+    "explanation": "Income tax (shotokuzei) is a national tax on individual income earned during the year (Jan 1 to Dec 31). It uses a progressive rate structure from 5% to 45% plus a reconstruction surtax of 2.1%."
+  },
+  {
+    "category": "Tax",
+    "question": "What are the residence tax (juminzei) rates in Japan?",
+    "options": [
+      {"text": "Flat 5% nationwide", "correct": false},
+      {"text": "4% municipal + 6% prefectural = 10% flat", "correct": false},
+      {"text": "6% municipal + 4% prefectural = 10% flat on taxable income", "correct": true},
+      {"text": "Progressive from 5% to 20%", "correct": false}
+    ],
+    "explanation": "Residence tax is a flat 10% on taxable income: 6% to the municipality (shi/chou/son) and 4% to the prefecture (to/du/fu/ken). Unlike income tax, it uses a flat rate, not progressive brackets."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the medical expense deduction (iryouhi kouteki-jo) threshold in Japan?",
+    "options": [
+      {"text": "All medical expenses are fully deductible", "correct": false},
+      {"text": "Total medical expenses exceeding 100,000 yen or 5% of income (whichever is lower)", "correct": true},
+      {"text": "Total medical expenses exceeding 200,000 yen", "correct": false},
+      {"text": "10% of total income regardless of amount", "correct": false}
+    ],
+    "explanation": "The medical expense deduction applies when total medical expenses exceed the lesser of 100,000 yen or 5% of total income (salary income for employees). The excess amount is deducted from taxable income."
+  },
+  {
+    "category": "Tax",
+    "question": "Which of the following is NOT subject to income tax withholding at source in Japan?",
+    "options": [
+      {"text": "Salary income", "correct": false},
+      {"text": "Interest on bank deposits", "correct": false},
+      {"text": "Freelance consulting income", "correct": true},
+      {"text": "Dividends from listed stocks", "correct": false}
+    ],
+    "explanation": "Freelance/consulting income is not subject to withholding tax. The freelancer must make estimated tax payments and file a final return. Salary, interest, and dividends are subject to withholding."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'housing loan deduction' (juutaku rounen kouteki-jo / housing loan tax credit) maximum annual deduction?",
+    "options": [
+      {"text": "200,000 yen", "correct": false},
+      {"text": "300,000 yen", "correct": false},
+      {"text": "400,000 yen", "correct": false},
+      {"text": "Variable based on loan amount and property conditions (up to ~500,000 yen/year for 13 years)", "correct": true}
+    ],
+    "explanation": "The housing loan deduction reduces income tax by up to a certain amount based on the year-end loan balance (generally 0.7% for 13 years, with max loan balance limits based on property type/energy efficiency)."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the gift tax rate for gifts exceeding 30 million yen?",
+    "options": [
+      {"text": "30%", "correct": false},
+      {"text": "45%", "correct": false},
+      {"text": "50%", "correct": true},
+      {"text": "55%", "correct": false}
+    ],
+    "explanation": "Japan's gift tax uses progressive rates. For gifts exceeding 30 million yen (after applying the 1,100,000 yen exemption), the rate is 50%. The maximum rate of 55% applies to gifts over 45 million yen."
+  },
+  {
+    "category": "Tax",
+    "question": "What is 'taxable income' (kazei shotoku)?",
+    "options": [
+      {"text": "Gross income before any deductions", "correct": false},
+      {"text": "Income after subtracting income deductions from gross income", "correct": true},
+      {"text": "Income after subtracting social insurance premiums only", "correct": false},
+      {"text": "Only salary income", "correct": false}
+    ],
+    "explanation": "Taxable income = Gross income - Income deductions (employment income deduction, social insurance deductions, spouse deduction, dependents deduction, etc.). Tax is calculated on this amount."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the due date for filing a final income tax return (kakutei shinkoku) in Japan?",
+    "options": [
+      {"text": "January 31", "correct": false},
+      {"text": "February 15", "correct": false},
+      {"text": "March 15", "correct": true},
+      {"text": "April 15", "correct": false}
+    ],
+    "explanation": "The final income tax return must be filed by March 15 each year for income earned in the previous calendar year. If March 15 falls on a weekend or holiday, the deadline is the next business day."
+  },
+  {
+    "category": "Tax",
+    "question": "What does 'year-end adjustment' (nenmatsu chosei) do?",
+    "options": [
+      {"text": "Adjusts the company's annual financial statements", "correct": false},
+      {"text": "Reconciles monthly withholding tax against actual annual tax liability for employees", "correct": true},
+      {"text": "Recalculates social insurance premiums", "correct": false},
+      {"text": "Determines annual bonus amounts", "correct": false}
+    ],
+    "explanation": "Year-end adjustment is performed by employers in December to reconcile the income tax withheld monthly from employees' salaries against the actual annual tax liability, refunding any overpayment."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'special taxation measure for monetary gifts for housing purchase' maximum exemption?",
+    "options": [
+      {"text": "5 million yen from parents to children", "correct": false},
+      {"text": "10 million yen from parents/grandparents to children/grandchildren", "correct": false},
+      {"text": "15 million yen cumulative from parents to children", "correct": true},
+      {"text": "30 million yen from grandparents", "correct": false}
+    ],
+    "explanation": "The special measure for housing purchase allows parents/grandparents to gift up to 10 million yen for home purchase to children/grandchildren, with the gift tax base calculation divided to reduce tax burden."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'social insurance premium deduction' (shakai hokenryo kouteki-jo)?",
+    "options": [
+      {"text": "Full deduction of all social insurance premiums paid", "correct": true},
+      {"text": "50% deduction of social insurance premiums", "correct": false},
+      {"text": "Fixed deduction of 100,000 yen", "correct": false},
+      {"text": "No deduction available", "correct": false}
+    ],
+    "explanation": "The full amount of social insurance premiums (health insurance, pension, employment insurance) paid during the year can be deducted from taxable income as a social insurance premium deduction."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the inheritance tax rate for the highest bracket in Japan?",
+    "options": [
+      {"text": "30%", "correct": false},
+      {"text": "40%", "correct": false},
+      {"text": "50%", "correct": false},
+      {"text": "55%", "correct": true}
+    ],
+    "explanation": "Japan's inheritance tax has a maximum rate of 55% on taxable inheritance amounts exceeding 600 million yen per heir. The progressive rate structure starts at 10% for amounts over 3 million yen."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'donation deduction' (kifu kin kouteki-jo) for individual income tax in Japan?",
+    "options": [
+      {"text": "Full deduction of all charitable donations", "correct": false},
+      {"text": "Deduction limited to (donation amount - 2,000 yen) or specific calculations for eligible organizations", "correct": true},
+      {"text": "Fixed 100,000 yen deduction for any donation", "correct": false},
+      {"text": "No deduction available for individuals", "correct": false}
+    ],
+    "explanation": "For donations to eligible organizations (certain public interest corporations, local governments, etc.), the deduction is the lesser of (donation - 2,000 yen) or specific percentage-based calculations. Not all donations qualify."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the employment income deduction (shain shotoku kouteki-jo) for salary income of 8.5 million yen?",
+    "options": [
+      {"text": "1,545,000 yen", "correct": false},
+      {"text": "2,450,000 yen", "correct": false},
+      {"text": "2,750,000 yen", "correct": true},
+      {"text": "3,000,000 yen", "correct": false}
+    ],
+    "explanation": "For salary income of 8,500,000 yen, the employment income deduction is calculated as: 8,500,000 x 0.1 + 1,900,000 = 2,750,000 yen. This reduces the taxable income base."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the consumption tax reduced rate applicable to in Japan?",
+    "options": [
+      {"text": "All food items at restaurants", "correct": false},
+      {"text": "Food (excluding dining out) and newspapers (subscription)", "correct": true},
+      {"text": "All educational materials and books", "correct": false},
+      {"text": "Medical expenses and prescription drugs", "correct": false}
+    ],
+    "explanation": "The 8% reduced consumption tax rate applies to food items (excluding dining out and alcohol) and daily newspapers (subscription). Dine-in meals, alcohol, and most other goods/services are taxed at 10%."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the 'disaster reduction tax reduction' system in Japan?",
+    "options": [
+      {"text": "A permanent tax reduction for all citizens", "correct": false},
+      {"text": "Tax relief measures for those affected by natural disasters (reduced income tax/residence tax)", "correct": true},
+      {"text": "A tax on insurance payouts after disasters", "correct": false},
+      {"text": "An additional tax to fund disaster recovery", "correct": false}
+    ],
+    "explanation": "Japan provides tax relief for disaster victims through income tax reduction/exemption, residence tax reduction, and vehicle tax reduction. The degree of relief depends on damage severity and income loss."
+  },
+  {
+    "category": "Tax",
+    "question": "What is the small business mutual aid deduction (shoukou kyouai kouteki-jo)?",
+    "options": [
+      {"text": "A deduction for corporate taxes only", "correct": false},
+      {"text": "A deduction for premiums paid to small business mutual aid organizations", "correct": true},
+      {"text": "A fixed 200,000 yen deduction for all small businesses", "correct": false},
+      {"text": "A deduction for business start-up costs", "correct": false}
+    ],
+    "explanation": "Premiums paid to small business mutual aid organizations (such as those operated by the Chamber of Commerce) can be deducted from taxable income as a small business mutual aid deduction."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What does 'fixed asset tax' (kotei shisanzei) apply to?",
+    "options": [
+      {"text": "Only land", "correct": false},
+      {"text": "Land, buildings, and depreciable business assets", "correct": true},
+      {"text": "Only financial assets", "correct": false},
+      {"text": "Only vehicles", "correct": false}
+    ],
+    "explanation": "Fixed asset tax is a local tax levied on land, buildings, and depreciable business assets. The standard rate is 1.4% of the assessed value, which is typically lower than market value."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the 'city planning tax' (toshi keikakuzei) rate?",
+    "options": [
+      {"text": "0.2% of assessed land/building value", "correct": false},
+      {"text": "0.3% of assessed land/building value", "correct": true},
+      {"text": "0.5% of assessed land/building value", "correct": false},
+      {"text": "1.0% of assessed land/building value", "correct": false}
+    ],
+    "explanation": "City planning tax is levied at 0.3% of the assessed value of land and buildings within designated city planning areas. Revenue is used for urban development projects."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the 'registration and license tax' (touki menkyozei) when purchasing property?",
+    "options": [
+      {"text": "A fixed 50,000 yen regardless of property value", "correct": false},
+      {"text": "Varies by type of registration: 0.4% for ownership transfer, 0.2% for mortgage creation", "correct": true},
+      {"text": "2% of the property purchase price", "correct": false},
+      {"text": "5% of the property purchase price", "correct": false}
+    ],
+    "explanation": "Registration tax for real estate: ownership transfer is generally 0.4% (residential land/building under certain conditions may be 0.3%), and mortgage registration is 0.2% of the loan amount."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the maximum loan-to-value (LTV) ratio for FLAT 35 housing loans?",
+    "options": [
+      {"text": "50%", "correct": false},
+      {"text": "70%", "correct": true},
+      {"text": "80%", "correct": false},
+      {"text": "90%", "correct": false}
+    ],
+    "explanation": "FLAT 35 (long-term fixed-rate housing loan) allows up to 70% LTV for general properties. For properties meeting certain seismic and insulation standards, LTV can go up to 90% in some cases."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What does 'cap rate' (capitalization rate / kappu rate) measure in real estate investment?",
+    "options": [
+      {"text": "The appreciation rate of property value", "correct": false},
+      {"text": "Annual net operating income divided by property value or purchase price", "correct": true},
+      {"text": "The mortgage interest rate", "correct": false},
+      {"text": "The vacancy rate of a property", "correct": false}
+    ],
+    "explanation": "Cap rate = Annual net operating income / Property value. A 5% cap rate on a 100 million yen property means 5 million yen in annual net income. Higher cap rates indicate higher returns (and potentially higher risk)."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the 'real estate acquisition tax' (fudousan shutokuzei) for residential land under the 2024 rules?",
+    "options": [
+      {"text": "4% of property value", "correct": false},
+      {"text": "3% of property value", "correct": true},
+      {"text": "2% of property value", "correct": false},
+      {"text": "1% of property value", "correct": false}
+    ],
+    "explanation": "Real estate acquisition tax is 3% for land and residential buildings, and 4% for non-residential buildings and depreciable assets. The tax base is the government-assessed value (hyouka-kaku)."
+  },
+  {
+    "category": "Real Estate",
+    "question": "In a housing loan, what does 'variable rate' (furidori kinri) mean?",
+    "options": [
+      {"text": "The rate changes every 5 years at the bank's discretion", "correct": false},
+      {"text": "The interest rate fluctuates based on market conditions throughout the loan", "correct": true},
+      {"text": "The rate is fixed for the entire loan period", "correct": false},
+      {"text": "The rate starts low and increases by 0.5% annually", "correct": false}
+    ],
+    "explanation": "Variable rate (furidori) means the interest rate changes semi-annually based on short-term market rates. While it can go lower than fixed rates, it carries the risk of increasing over the loan period."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is a 'J-REIT' distribution yield (baitoku ritu)?",
+    "options": [
+      {"text": "The total return including price appreciation", "correct": false},
+      {"text": "Annual dividend per share divided by share price", "correct": true},
+      {"text": "The management fee as percentage of fund assets", "correct": false},
+      {"text": "The property vacancy rate", "correct": false}
+    ],
+    "explanation": "Distribution yield = (Annual distribution per unit / Current unit price) x 100. It represents the cash return from dividends alone, not including capital gains/losses from unit price changes."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the purpose of the 'real estate registry' (touki-bu) system in Japan?",
+    "options": [
+      {"text": "To assess property taxes only", "correct": false},
+      {"text": "To publicly record ownership rights and other legal interests in real property", "correct": true},
+      {"text": "To manage property rental agreements", "correct": false},
+      {"text": "To issue building permits", "correct": false}
+    ],
+    "explanation": "The real estate registry (touki-bu) at the Legal Affairs Bureau records ownership transfers, mortgages, and other rights. Registration is required to assert legal rights against third parties."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is 'NOI' (Net Operating Income) in real estate?",
+    "options": [
+      {"text": "Total rent received from tenants", "correct": false},
+      {"text": "Gross rental income minus operating expenses (excluding debt service)", "correct": true},
+      {"text": "Profit after paying all expenses including mortgage", "correct": false},
+      {"text": "The property tax assessment value", "correct": false}
+    ],
+    "explanation": "NOI = Gross Rental Income - Operating Expenses (property tax, insurance, management fees, maintenance, vacancy allowance). It does NOT include mortgage payments. NOI is key to evaluating property income potential."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the 'right of surface' (chijou-ken) in Japanese real estate law?",
+    "options": [
+      {"text": "The right to build on another person's land for a specified purpose and period", "correct": true},
+      {"text": "The right to excavate underground resources", "correct": false},
+      {"text": "The right to use the land surface for farming", "correct": false},
+      {"text": "The right to park vehicles on public roads", "correct": false}
+    ],
+    "explanation": "The right of surface (chijou-ken) allows the holder to own buildings or structures on another person's land. It is commonly used for long-term building leases and separates land ownership from building ownership."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the 'depreciation' (taishaku/tei-kashou) method for buildings in Japan?",
+    "options": [
+      {"text": "Buildings do not depreciate; only land does", "correct": false},
+      {"text": "Buildings are depreciated over their statutory useful life using straight-line or declining balance methods", "correct": true},
+      {"text": "Buildings depreciate at a fixed 10% per year", "correct": false},
+      {"text": "Only residential buildings can be depreciated", "correct": false}
+    ],
+    "explanation": "In Japan, buildings (not land) are depreciated over statutory useful lives (e.g., 47 years for reinforced concrete residential, 22 years for wooden residential). The straight-line method is common for residential property."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What does 'yield on cost' (cost yirudo) measure in real estate investment?",
+    "options": [
+      {"text": "Current market value divided by original purchase price", "correct": false},
+      {"text": "Annual NOI divided by total acquisition cost (purchase price + renovation + closing costs)", "correct": true},
+      {"text": "Mortgage rate divided by property value", "correct": false},
+      {"text": "Property tax rate", "correct": false}
+    ],
+    "explanation": "Yield on cost = Annual NOI / Total acquisition cost (including purchase price, renovation, registration fees, etc.). It measures the actual cash yield based on total investment, not just current market value."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is a 'housing loan surety company' (juutaku roon hoshou gaisha)?",
+    "options": [
+      {"text": "A company that provides housing loans directly", "correct": false},
+      {"text": "A company that guarantees repayment to the lending bank if the borrower defaults", "correct": true},
+      {"text": "A company that appraises property values", "correct": false},
+      {"text": "A government agency that subsidizes housing loans", "correct": false}
+    ],
+    "explanation": "A housing loan surety company guarantees repayment to the bank in case of borrower default. The borrower pays a guarantee fee (typically 0.2-2% of loan amount), which is often added to the loan."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the main benefit of FLAT 35 over bank variable-rate loans?",
+    "options": [
+      {"text": "Lower initial interest rate", "correct": false},
+      {"text": "Fixed interest rate for the entire loan period (up to 35 years)", "correct": true},
+      {"text": "No down payment required", "correct": false},
+      {"text": "Higher maximum loan amount", "correct": false}
+    ],
+    "explanation": "FLAT 35's primary advantage is the long-term fixed interest rate for the entire repayment period (up to 35 years), providing payment certainty regardless of interest rate fluctuations."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is 'right of lease' (chin-ken) in Japanese property law?",
+    "options": [
+      {"text": "The landlord's right to terminate a lease at any time", "correct": false},
+      {"text": "The tenant's right to use leased property for the agreed purpose", "correct": true},
+      {"text": "The right to sublease without landlord consent", "correct": false},
+      {"text": "The government's right to requisition private property", "correct": false}
+    ],
+    "explanation": "The right of lease (chin-ken) grants the tenant the right to occupy and use the leased property for the agreed purpose and period. Landlord rights to terminate are limited by the Land Lease and Building Lease Act."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the 'stamp duty' (inshi-zei) on a housing loan agreement?",
+    "options": [
+      {"text": "A fixed 10,000 yen regardless of loan amount", "correct": false},
+      {"text": "Varies by loan amount: 2,000-48,000 yen", "correct": true},
+      {"text": "1% of the loan amount", "correct": false},
+      {"text": "0.5% of the loan amount", "correct": false}
+    ],
+    "explanation": "Stamp duty on housing loan contracts varies by loan amount: 2,000 yen for loans under 5 million, up to 48,000 yen for loans over 100 million yen. The exact amount is specified on the contract."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What does 'DSCR' (Debt Service Coverage Ratio) measure in real estate finance?",
+    "options": [
+      {"text": "The ratio of debt to equity", "correct": false},
+      {"text": "Annual NOI divided by annual debt service (loan payments)", "correct": true},
+      {"text": "The ratio of property value to loan amount", "correct": false},
+      {"text": "The interest rate relative to cap rate", "correct": false}
+    ],
+    "explanation": "DSCR = Annual NOI / Annual debt service. A DSCR of 1.2 means NOI covers debt payments 1.2 times. Lenders typically require DSCR above 1.0-1.2 for investment property loans."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What is the depreciation period for a newly built reinforced concrete (RC) residential building in Japan?",
+    "options": [
+      {"text": "22 years", "correct": false},
+      {"text": "47 years", "correct": true},
+      {"text": "50 years", "correct": false},
+      {"text": "60 years", "correct": false}
+    ],
+    "explanation": "A newly built reinforced concrete (RC) residential building has a statutory useful life of 47 years for depreciation purposes. Wooden residential buildings are 22 years, and steel-frame varies by thickness."
+  },
+  {
+    "category": "Real Estate",
+    "question": "What additional cost should buyers budget beyond the property price when purchasing real estate in Japan?",
+    "options": [
+      {"text": "No additional costs beyond the purchase price", "correct": false},
+      {"text": "Approximately 5-7% of property price for taxes, fees, and agent commissions", "correct": true},
+      {"text": "Fixed 500,000 yen regardless of property value", "correct": false},
+      {"text": "Approximately 1-2% of property price", "correct": false}
+    ],
+    "explanation": "Buyers should budget approximately 5-7% of the property price for: acquisition tax, registration tax, stamp duty, agent commission (3% + 60,000 yen + tax), property insurance, and other miscellaneous fees."
+  },
+  {
+    "category": "Inheritance",
+    "question": "Who are the 'statutory heirs' (hou-teki soushonzoku) in Japanese inheritance law when the deceased is survived by a spouse and children?",
+    "options": [
+      {"text": "Spouse inherits 100%", "correct": false},
+      {"text": "Spouse gets 1/2, children share 1/2 equally", "correct": true},
+      {"text": "Children inherit 100%, spouse gets nothing", "correct": false},
+      {"text": "Spouse gets 2/3, children share 1/3", "correct": false}
+    ],
+    "explanation": "When both spouse and children survive, the spouse receives 1/2 and the children share the remaining 1/2 equally. If there are multiple children, each child's share is further divided equally."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is a 'notarized will' (kousei shouyo) in Japan?",
+    "options": [
+      {"text": "A will written on any paper and signed", "correct": false},
+      {"text": "A will dictated to and certified by a notary public", "correct": true},
+      {"text": "A verbal will made during an emergency", "correct": false},
+      {"text": "A will filed with the family court", "correct": false}
+    ],
+    "explanation": "A notarized will (kousei shouyo) is created by the testator appearing before a notary public who certifies the will's authenticity. It has the highest probative force and cannot be easily contested."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the 'statutory portion' (idou-bun) that protects heirs from being fully disinherited?",
+    "options": [
+      {"text": "A fixed 1/3 of the estate for all heirs", "correct": false},
+      {"text": "A minimum share guaranteed by law to certain statutory heirs (varies by heir type)", "correct": true},
+      {"text": "The entire estate divided equally among all heirs", "correct": false},
+      {"text": "No protection; the will is absolute", "correct": false}
+    ],
+    "explanation": "The statutory portion (idou-bun) guarantees certain heirs a minimum share: 1/2 of statutory share for lineal descendants (children), 1/2 for lineal ascendants (parents), 1/3 for siblings."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is 'inheritance division agreement' (souzoku bunkatsu kyoutei)?",
+    "options": [
+      {"text": "A court order dividing the estate", "correct": false},
+      {"text": "A written agreement among heirs on how to divide inherited assets", "correct": true},
+      {"text": "A tax filing document", "correct": false},
+      {"text": "A government-issued certificate of inheritance", "correct": false}
+    ],
+    "explanation": "An inheritance division agreement is a written contract among all heirs specifying how the estate's assets are divided. All heirs must sign and seal it. It becomes effective upon agreement of all parties."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the inheritance tax rate for a taxable inheritance of 100 million yen per heir?",
+    "options": [
+      {"text": "20%", "correct": false},
+      {"text": "30%", "correct": true},
+      {"text": "40%", "correct": false},
+      {"text": "50%", "correct": false}
+    ],
+    "explanation": "For a taxable inheritance of 100 million yen, the rate is 30% with a quick calculation deduction of 7 million yen. Actual tax = 100 million x 30% - 7 million = 23 million yen."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is a 'family trust' (kazoku torasuto) in the context of inheritance planning?",
+    "options": [
+      {"text": "A trust created by a person during their lifetime to manage assets for family benefit", "correct": true},
+      {"text": "A government trust for all inheritance matters", "correct": false},
+      {"text": "A type of life insurance", "correct": false},
+      {"text": "A court-managed inheritance fund", "correct": false}
+    ],
+    "explanation": "A family trust is established during the settlor's lifetime, transferring asset management to a trustee for the benefit of designated family members (beneficiaries). It can help smooth inheritance transitions."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What happens to inheritance if there is no will and no known heirs?",
+    "options": [
+      {"text": "The government automatically distributes it equally to all relatives", "correct": false},
+      {"text": "The property becomes state property after a legal process", "correct": true},
+      {"text": "It goes to the deceased's employer", "correct": false},
+      {"text": "It remains with the previous owner's family indefinitely", "correct": false}
+    ],
+    "explanation": "If no heirs exist after exhaustive search (including family court proceedings), the inherited property becomes state property (kokuyuu ni ki-kou) under the Civil Code."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the 'legacy' (isshou) in Japanese inheritance law?",
+    "options": [
+      {"text": "Property inherited by the eldest son", "correct": false},
+      {"text": "A specific gift or bequest to a person named in the will", "correct": true},
+      {"text": "The deceased's total estate value", "correct": false},
+      {"text": "The inheritance tax assessment", "correct": false}
+    ],
+    "explanation": "A legacy (isshou) is a specific bequest in a will directing that particular property or a specified amount be given to a particular person or organization (who may or may not be a statutory heir)."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the deadline for filing an inheritance tax return (souzokuzei shinkoku) in Japan?",
+    "options": [
+      {"text": "3 months from the date of death", "correct": false},
+      {"text": "6 months from the date of death", "correct": false},
+      {"text": "10 months from the date of death", "correct": true},
+      {"text": "12 months from the date of death", "correct": false}
+    ],
+    "explanation": "The inheritance tax return must be filed within 10 months from the date of death. The tax payment is also due within this period. Extensions are available in some circumstances."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the inheritance order when the deceased has no spouse or children?",
+    "options": [
+      {"text": "Siblings inherit everything", "correct": false},
+      {"text": "Parents (lineal ascendants) inherit first; siblings only if no parents survive", "correct": true},
+      {"text": "The government takes everything", "correct": false},
+      {"text": "Nephews and nieces inherit", "correct": false}
+    ],
+    "explanation": "The inheritance order is: (1) children, (2) lineal ascendants (parents/grandparents), (3) siblings. If no children, parents inherit. If no parents, siblings inherit. Spouse always inherits alongside."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What assets are included in the 'gross inheritance estate' (souzoku zaisan) for tax purposes?",
+    "options": [
+      {"text": "Only real estate and bank deposits", "correct": false},
+      {"text": "All property, money, claims, and rights transferred at death, plus certain deemed gifts", "correct": true},
+      {"text": "Only assets mentioned in the will", "correct": false},
+      {"text": "Only assets located in Japan", "correct": false}
+    ],
+    "explanation": "The gross inheritance estate includes all assets transferred at death, plus certain gifts made within 3 years before death, life insurance proceeds, and retirement benefits received by heirs."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the 'deemed acquisition' (mitame shutoku) rule in inheritance tax?",
+    "options": [
+      {"text": "The government automatically assesses property at market value", "correct": false},
+      {"text": "Life insurance death benefits and retirement benefits received by heirs are treated as inheritance", "correct": true},
+      {"text": "Gifts made 10 years before death are all included", "correct": false},
+      {"text": "Overseas assets are automatically excluded", "correct": false}
+    ],
+    "explanation": "Life insurance death benefits paid to heirs and retirement lump sums (taishoku kin) received by heirs are deemed part of the inherited estate for tax calculation, even though they are received separately."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the purpose of the 'inheritance property evaluation method' (souzoku zaisan hyouka)?",
+    "options": [
+      {"text": "To determine the market price for property sale", "correct": false},
+      {"text": "To calculate the inheritance tax base using standardized assessment values", "correct": true},
+      {"text": "To divide property among heirs equally", "correct": false},
+      {"text": "To appraise property for mortgage lending", "correct": false}
+    ],
+    "explanation": "Inheritance property is evaluated using specific methods: land at assessed value (hyouka-kaku) x road-side price multiplier, buildings at assessed value, listed stocks at closing price x 0.8 (70% for large shareholders)."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is 'disclaimer of inheritance' (souzoku hiki-ukemi no shinpai)?",
+    "options": [
+      {"text": "Accepting all inheritance without conditions", "correct": false},
+      {"text": "The legal right to refuse/renounce inheritance to avoid inheriting debts", "correct": true},
+      {"text": "A simplified inheritance procedure for small estates", "correct": false},
+      {"text": "The court's decision to distribute inheritance", "correct": false}
+    ],
+    "explanation": "Disclaimer of inheritance (souzoku hiki-ukemi no shinpai - formally 'hikikomi') allows heirs to renounce their inheritance entirely. This is useful when debts exceed assets. Must be filed within 3 months of learning of the death."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the inheritance division when the deceased is survived by a spouse and parents (no children)?",
+    "options": [
+      {"text": "Spouse gets 1/2, parents share 1/2", "correct": false},
+      {"text": "Spouse gets 2/3, parents share 1/3", "correct": true},
+      {"text": "Spouse gets 3/4, parents share 1/4", "correct": false},
+      {"text": "Spouse gets 100%", "correct": false}
+    ],
+    "explanation": "When the spouse and parents survive (no children), the spouse receives 2/3 and the parents share the remaining 1/3. If both parents survive, they each get 1/6 of the total estate."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the tax reduction for 'small-scale residential land' (shoukibo jutaku tochi) in inheritance tax?",
+    "options": [
+      {"text": "100 million yen deduction", "correct": false},
+      {"text": "Assessed value reduced by 80% (up to 330 sqm of residential land)", "correct": true},
+      {"text": "No tax on residential land", "correct": false},
+      {"text": "50% reduction in assessed value", "correct": false}
+    ],
+    "explanation": "The small-scale residential land reduction allows an 80% reduction in assessed value for up to 330 sqm of residential land where the heir (or family) lives. This significantly reduces inheritance tax."
+  },
+  {
+    "category": "Inheritance",
+    "question": "How are gifts made within 3 years before death treated for inheritance tax?",
+    "options": [
+      {"text": "They are completely exempt from inheritance tax", "correct": false},
+      {"text": "They are added back to the inheritance estate for tax calculation (with gradual phase-in)", "correct": true},
+      {"text": "They are subject to double taxation (both gift and inheritance tax)", "correct": false},
+      {"text": "They are excluded from all taxation", "correct": false}
+    ],
+    "explanation": "Gifts made within 3 years before death are added back to the inheritance estate (with a sliding scale: 100% for gifts within 1 year, 80% within 2 years, 60% within 3 years). This prevents deathbed tax avoidance."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What type of will is created entirely by the testator's own hand and signed?",
+    "options": [
+      {"text": "Notarized will (kousei shouyo)", "correct": false},
+      {"text": "Holographic will (jihitsu shouyo)", "correct": true},
+      {"text": "Secret will (himitsu shouyo)", "correct": false},
+      {"text": "Probate will (shousen shouyo)", "correct": false}
+    ],
+    "explanation": "A holographic will (jihitsu shouyo) must be written entirely in the testator's own handwriting, dated, and signed. No witnesses are required. It is the simplest but most easily contested form."
+  },
+  {
+    "category": "Inheritance",
+    "question": "What is the spouse's inheritance share when the deceased has children?",
+    "options": [
+      {"text": "1/3", "correct": false},
+      {"text": "1/2", "correct": true},
+      {"text": "2/3", "correct": false},
+      {"text": "3/4", "correct": false}
+    ],
+    "explanation": "When the deceased has a spouse and children, the spouse receives 1/2 of the estate. The children share the remaining 1/2 equally. This is the standard statutory distribution."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the full monthly benefit amount for the National Pension (kokumin nenkin) basic pension (as of 2024)?",
+    "options": [
+      {"text": "About 40,000 yen", "correct": false},
+      {"text": "About 55,000 yen", "correct": false},
+      {"text": "About 68,000 yen (full contribution for 40 years)", "correct": true},
+      {"text": "About 100,000 yen", "correct": false}
+    ],
+    "explanation": "The full basic pension benefit for 40 years of full contributions is approximately 68,000 yen per month (FY2024). The actual amount received is proportional to months of contribution."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "At what age can men born after April 1961 start receiving the basic pension?",
+    "options": [
+      {"text": "60 years old", "correct": false},
+      {"text": "62 years old", "correct": false},
+      {"text": "65 years old", "correct": true},
+      {"text": "70 years old", "correct": false}
+    ],
+    "explanation": "The basic pension eligibility age has been gradually raised. For men born after April 1961 and women after April 1966, the full pension eligibility age is 65. Early receipt (60-64) at a reduced rate is possible."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the ' Employees' Pension Insurance' (kousei nenkin hoken) funded by?",
+    "options": [
+      {"text": "Government general revenue only", "correct": false},
+      {"text": "Employee and employer contributions (equal shares)", "correct": true},
+      {"text": "Employee contributions only", "correct": false},
+      {"text": "Voluntary individual contributions", "correct": false}
+    ],
+    "explanation": "Employees' Pension Insurance premiums are shared equally between employee and employer. As of 2024, the total rate is 18.3% of monthly standard remuneration (9.15% each)."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the ' special lump-sum withdrawal payment' (ikkin kanri seitai kuikase - lump-sum withdrawal) for foreigners?",
+    "options": [
+      {"text": "A bonus payment upon retirement", "correct": false},
+      {"text": "A lump-sum refund of pension premiums paid when a foreign resident leaves Japan permanently", "correct": true},
+      {"text": "A death benefit for pension recipients", "correct": false},
+      {"text": "An early withdrawal penalty", "correct": false}
+    ],
+    "explanation": "Foreign residents who have paid into the Japanese pension system for at least 6 months can apply for a lump-sum withdrawal (dattai ichijikin) within 2 years of leaving Japan permanently."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the 'Kyousai Pension' (mutual aid pension)?",
+    "options": [
+      {"text": "A private company pension plan", "correct": false},
+      {"text": "A pension for employees of local governments and certain public organizations", "correct": true},
+      {"text": "The basic national pension", "correct": false},
+      {"text": "A voluntary supplementary pension", "correct": false}
+    ],
+    "explanation": "The Kyousai Pension (local government mutual aid pension) covers employees of local governments and some public organizations. It provides pension benefits in addition to the basic pension."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the ' model pension' (moderu nenkin / retirement lump sum) in corporate pension plans?",
+    "options": [
+      {"text": "The national basic pension", "correct": false},
+      {"text": "A one-time retirement payment from an employer upon leaving the company", "correct": true},
+      {"text": "A voluntary pension contribution plan", "correct": false},
+      {"text": "The employee pension insurance", "correct": false}
+    ],
+    "explanation": "The model pension (taishoku kin) is a lump-sum retirement payment made by employers when employees leave the company. It is based on years of service, final salary, and reasons for retirement."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the contribution rate for the National Pension (kokumin nenkin) as of 2024?",
+    "options": [
+      {"text": "15,000 yen per month", "correct": false},
+      {"text": "16,980 yen per month", "correct": false},
+      {"text": "16,590 yen per month (increasing annually until reaching 16,900 yen in 2025)", "correct": true},
+      {"text": "20,000 yen per month", "correct": false}
+    ],
+    "explanation": "The National Pension contribution for FY2024 is 16,590 yen per month for category 1 insured persons. The premium increases by 280 yen annually until it reaches 16,900 yen (reached in FY2025)."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is 'defined contribution' (kakutei kifu / iDeCo) pension?",
+    "options": [
+      {"text": "A pension where the benefit amount is fixed regardless of contributions", "correct": false},
+      {"text": "A pension where contributions are defined and the benefit depends on investment returns", "correct": true},
+      {"text": "A government pension for civil servants", "correct": false},
+      {"text": "A private life insurance product", "correct": false}
+    ],
+    "explanation": "In a defined contribution pension (like iDeCo), the contribution amount is fixed and the final benefit depends on investment performance. The participant bears the investment risk but has control over asset allocation."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the 'defined benefit' (kakutei kyuu-yo) corporate pension?",
+    "options": [
+      {"text": "A pension where the monthly contribution varies each year", "correct": false},
+      {"text": "A pension where the retirement benefit is predetermined based on salary and years of service", "correct": true},
+      {"text": "A voluntary individual savings plan", "correct": false},
+      {"text": "A government welfare payment", "correct": false}
+    ],
+    "explanation": "In a defined benefit (DB) corporate pension, the employer promises a specific retirement benefit based on the employee's salary history and years of service. The employer bears the investment risk."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the ' welfare pension' (kousei nenkin / welfare pension) old-age benefit formula based on?",
+    "options": [
+      {"text": "Fixed amount regardless of earnings", "correct": false},
+      {"text": "Average standard monthly remuneration x benefit rate x months of contribution", "correct": true},
+      {"text": "Total lifetime contributions divided by 20 years", "correct": false},
+      {"text": "Final salary x 50%", "correct": false}
+    ],
+    "explanation": "The welfare pension (old-age employees' pension II) benefit = Average standard monthly remuneration x multiplier (currently 7.125/1000 per month for men born 1965+) x insured months."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the iDeCo contribution limit for company employees (category 2)?",
+    "options": [
+      {"text": "23,000 yen per month", "correct": true},
+      {"text": "68,000 yen per month", "correct": false},
+      {"text": "12,000 yen per month", "correct": false},
+      {"text": "36,000 yen per month", "correct": false}
+    ],
+    "explanation": "For company employees (category 2), the iDeCo monthly contribution limit is 23,000 yen. The limit varies by category: 68,000 for self-employed (category 1), 12,000-23,000 for civil servants."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the reduction rate for receiving the basic pension at age 60 instead of 65?",
+    "options": [
+      {"text": "10% reduction", "correct": false},
+      {"text": "21% reduction (0.5% x 42 months)", "correct": false},
+      {"text": "24% reduction (0.5% x 48 months)", "correct": true},
+      {"text": "30% reduction", "correct": false}
+    ],
+    "explanation": "Early receipt of the basic pension at age 60 results in a 0.5% reduction per month for each month before age 65. At age 60, this is 60 months x 0.5% = 24% reduction."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the 'survivor pension' (izoku nenkin)?",
+    "options": [
+      {"text": "A pension paid to the deceased's employer", "correct": false},
+      {"text": "A pension paid to the surviving spouse and children of a deceased pension contributor", "correct": true},
+      {"text": "A lump-sum death benefit", "correct": false},
+      {"text": "A pension for surviving business owners", "correct": false}
+    ],
+    "explanation": "The survivor pension (izoku nenkin) provides monthly income to the surviving spouse and qualifying children of a deceased person who was receiving or had enough contributions for a pension."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the 'employment insurance' (koyou hoken) unemployment benefit duration for a person with 10 years of contributions?",
+    "options": [
+      {"text": "90 days", "correct": false},
+      {"text": "150 days", "correct": false},
+      {"text": "240 days (90-330 days depending on age and circumstances)", "correct": true},
+      {"text": "365 days", "correct": false}
+    ],
+    "explanation": "Unemployment benefit duration depends on age, years of insurance, and reason for unemployment. For 10 years of contributions and involuntary separation, it ranges from 90-330 days depending on age."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the 'workers' compensation insurance' (rousai hoken)?",
+    "options": [
+      {"text": "A voluntary insurance for workplace injuries", "correct": false},
+      {"text": "Mandatory insurance covering work-related injury, illness, and death", "correct": true},
+      {"text": "A private life insurance for workers", "correct": false},
+      {"text": "Health insurance for unemployed workers", "correct": false}
+    ],
+    "explanation": "Workers' compensation insurance (rousai hoken) is mandatory for all employers. It covers medical expenses, disability benefits, and survivor benefits for work-related injuries, illness, or death."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What are the three categories of insured persons in the National Pension system?",
+    "options": [
+      {"text": "Children, adults, and elderly", "correct": false},
+      {"text": "Category 1 (self-employed/students), Category 2 (company employees), Category 3 (dependents of Cat. 2)", "correct": true},
+      {"text": "Full-time, part-time, and temporary workers", "correct": false},
+      {"text": "Public servants, private employees, and self-employed", "correct": false}
+    ],
+    "explanation": "Category 1: Self-employed, freelancers, students aged 20+ (pay full premium directly). Category 2: Company employees (premium split with employer). Category 3: Spouses of Category 2 earning under 1.3 million yen (exempt from direct payment)."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the 'child-rearing exemption' (ikuji menjo) in the pension system?",
+    "options": [
+      {"text": "Full exemption from pension contributions while on maternity leave", "correct": false},
+      {"text": "Months of child-rearing are counted as paid contributions without actual payment required", "correct": true},
+      {"text": "Additional pension benefits for having children", "correct": false},
+      {"text": "Extended retirement age for parents", "correct": false}
+    ],
+    "explanation": "The child-rearing exemption allows parents (primarily mothers) to have their pension contribution months during child-rearing treated as if full contributions were made, even though no premium is required."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the ' disability pension' (shougai nenkin) eligibility based on?",
+    "options": [
+      {"text": "Any physical or mental disability regardless of cause", "correct": false},
+      {"text": "Disability (1st or 2nd grade) that originated from illness or injury during the insured period", "correct": true},
+      {"text": "Work-related injuries only", "correct": false},
+      {"text": "Age over 60 with any disability", "correct": false}
+    ],
+    "explanation": "The basic disability pension is paid for 1st or 2nd grade disabilities caused by illness or injury during the insured period. The welfare disability pension applies to 3rd grade. Work-related injuries are covered by workers' compensation instead."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What percentage of the iDeCo contributions can be deducted from taxable income?",
+    "options": [
+      {"text": "50%", "correct": false},
+      {"text": "100% of contributions are fully deductible", "correct": true},
+      {"text": "75%", "correct": false},
+      {"text": "Only the employer matching portion", "correct": false}
+    ],
+    "explanation": "The entire iDeCo contribution amount is deductible from taxable income. This reduces both income tax (5-45%) and residence tax (10%), making iDeCo highly tax-efficient, especially for higher earners."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the ' elderly person's exemption' for income tax?",
+    "options": [
+      {"text": "No tax for anyone over 65", "correct": false},
+      {"text": "Taxpayers aged 65+ with income under certain thresholds get an additional deduction", "correct": true},
+      {"text": "Reduced pension tax rate for all elderly", "correct": false},
+      {"text": "Free medical care for all elderly", "correct": false}
+    ],
+    "explanation": "Taxpayers aged 65+ with total income under 10 million yen (where pension income is the main source) receive an additional 500,000 yen elderly person's deduction on pension income, reducing their tax burden."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "What is the 'employee pension Type II' (kousei nenkin dai-2-kyuu)?",
+    "options": [
+      {"text": "The basic national pension for all residents", "correct": false},
+      {"text": "An earnings-related pension for company employees on top of the basic pension", "correct": true},
+      {"text": "A voluntary supplementary pension", "correct": false},
+      {"text": "The mutual aid pension for civil servants", "correct": false}
+    ],
+    "explanation": "Employees' Pension Type II (kousei nenkin dai-2-kyuu) provides earnings-related pension benefits to company employees in addition to the basic pension (Type I). Both are mandatory for eligible employees."
+  },
+  {
+    "category": "Pension & Social Security",
+    "question": "When can iDeCo assets be withdrawn without penalty?",
+    "options": [
+      {"text": "Any time for any reason", "correct": false},
+      {"text": "Only at age 60 or upon death, disability, or specific qualifying events", "correct": true},
+      {"text": "After 5 years of participation", "correct": false},
+      {"text": "At age 55 with a penalty", "correct": false}
+    ],
+    "explanation": "iDeCo assets are locked until age 60 (the earliest start age). Earlier withdrawal is only permitted for death, severe disability (Grade 1-3), or other specific qualifying events. This illiquidity is a key consideration."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is the fundamental principle of diversification in investment risk management?",
+    "options": [
+      {"text": "Investing 100% in one high-performing asset", "correct": false},
+      {"text": "Spreading investments across different asset classes to reduce overall risk", "correct": true},
+      {"text": "Investing only in government bonds", "correct": false},
+      {"text": "Timing the market to avoid losses", "correct": false}
+    ],
+    "explanation": "Diversification reduces unsystematic (asset-specific) risk by spreading investments across different asset classes, sectors, and geographies. It does not eliminate systematic (market-wide) risk."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What does 'risk tolerance' (risk tarento) mean?",
+    "options": [
+      {"text": "The ability to accept the maximum possible loss", "correct": false},
+      {"text": "An individual's ability and willingness to endure investment losses", "correct": true},
+      {"text": "The guarantee that an investment will not lose value", "correct": false},
+      {"text": "The minimum return required on an investment", "correct": false}
+    ],
+    "explanation": "Risk tolerance combines both capacity (financial ability to absorb losses based on income, assets, time horizon) and willingness (psychological comfort with volatility). Both should be assessed for proper asset allocation."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is 'asset allocation' (shisan haibun)?",
+    "options": [
+      {"text": "Selling assets to pay off debts", "correct": false},
+      {"text": "The strategic distribution of investment portfolio across asset classes", "correct": true},
+      {"text": "Choosing between stocks and bonds only", "correct": false},
+      {"text": "Allocating salary between savings and spending", "correct": false}
+    ],
+    "explanation": "Asset allocation is the process of dividing investments among asset classes (stocks, bonds, cash, real estate, etc.) based on risk tolerance, time horizon, and financial goals. It is the primary determinant of portfolio returns."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What does 'standard deviation' (hyoujun hensa) measure in investment risk?",
+    "options": [
+      {"text": "The average return of an investment", "correct": false},
+      {"text": "The degree of variation (volatility) of returns from the average", "correct": true},
+      {"text": "The maximum possible loss", "correct": false},
+      {"text": "The correlation between two investments", "correct": false}
+    ],
+    "explanation": "Standard deviation measures the dispersion of returns around the average. A higher standard deviation means returns are more spread out (higher volatility/risk). A lower standard deviation means more consistent returns."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is the 'risk-return tradeoff' (risk-return toredo-ofu)?",
+    "options": [
+      {"text": "Higher risk always guarantees higher returns", "correct": false},
+      {"text": "Higher potential returns require accepting higher risk of loss", "correct": true},
+      {"text": "Risk-free investments provide the highest returns", "correct": false},
+      {"text": "All investments have the same risk level", "correct": false}
+    ],
+    "explanation": "The risk-return tradeoff principle states that potential return increases with risk. Higher-risk investments (stocks, FX) offer higher expected returns than lower-risk ones (bonds, deposits), but also greater potential for loss."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is 'systematic risk' (keitou risk) vs 'unsystematic risk' (hi-keitou risk)?",
+    "options": [
+      {"text": "Systematic = company-specific; Unsystematic = market-wide", "correct": false},
+      {"text": "Systematic = market-wide risk; Unsystematic = company/sector-specific risk", "correct": true},
+      {"text": "Both refer to the same thing", "correct": false},
+      {"text": "Systematic = foreign exchange risk; Unsystematic = interest rate risk", "correct": false}
+    ],
+    "explanation": "Systematic (market) risk affects all assets (economic downturn, inflation). It cannot be diversified away. Unsystematic risk is asset-specific and CAN be reduced through diversification."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is 'rebalancing' (riba-ransingu) in portfolio management?",
+    "options": [
+      {"text": "Selling all investments when the market drops", "correct": false},
+      {"text": "Periodically adjusting portfolio back to target allocation percentages", "correct": true},
+      {"text": "Changing investment strategy every month", "correct": false},
+      {"text": "Adding more money to losing investments", "correct": false}
+    ],
+    "explanation": "Rebalancing involves periodically buying/selling to restore the portfolio to its target allocation. If stocks grew from 60% to 70%, sell some stocks and buy bonds to return to 60/40. This enforces 'buy low, sell high.'"
+  },
+  {
+    "category": "Risk Management",
+    "question": "What does 'beta' measure in stock analysis?",
+    "options": [
+      {"text": "The total return of a stock", "correct": false},
+      {"text": "The volatility of a stock relative to the overall market", "correct": true},
+      {"text": "The dividend yield of a stock", "correct": false},
+      {"text": "The trading volume of a stock", "correct": false}
+    ],
+    "explanation": "Beta measures a stock's sensitivity to market movements. Beta > 1 means the stock is more volatile than the market; Beta < 1 means less volatile; Beta = 1 means it moves with the market."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is the 'Sharpe ratio' used for?",
+    "options": [
+      {"text": "Measuring a company's debt level", "correct": false},
+      {"text": "Evaluating risk-adjusted return (excess return per unit of risk)", "correct": true},
+      {"text": "Calculating insurance premiums", "correct": false},
+      {"text": "Determining tax brackets", "correct": false}
+    ],
+    "explanation": "The Sharpe ratio = (Portfolio return - Risk-free rate) / Portfolio standard deviation. A higher Sharpe ratio indicates better risk-adjusted returns. It helps compare investments with different risk levels."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is a 'hedging' strategy in financial risk management?",
+    "options": [
+      {"text": "Betting on the market going up", "correct": false},
+      {"text": "Taking an offsetting position to reduce potential losses from adverse price movements", "correct": true},
+      {"text": "Selling all investments before a market crash", "correct": false},
+      {"text": "Investing only in gold", "correct": false}
+    ],
+    "explanation": "Hedging involves taking an offsetting position (e.g., buying put options, currency forwards) to reduce potential losses from adverse price movements. It reduces risk but may also reduce potential gains."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is ' liquidity risk' in investment?",
+    "options": [
+      {"text": "The risk of a company going bankrupt", "correct": false},
+      {"text": "The risk of being unable to sell an investment quickly at a fair price", "correct": true},
+      {"text": "The risk of interest rate changes", "correct": false},
+      {"text": "The risk of currency devaluation", "correct": false}
+    ],
+    "explanation": "Liquidity risk is the risk that an asset cannot be sold quickly enough to prevent a loss, or must be sold at a significant discount. Real estate and small-cap stocks typically have higher liquidity risk than large-cap stocks or government bonds."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is 'credit risk' in bond investing?",
+    "options": [
+      {"text": "The risk that interest rates will rise", "correct": false},
+      {"text": "The risk that the bond issuer will default on interest or principal payments", "correct": true},
+      {"text": "The risk that the bond's price will decrease", "correct": false},
+      {"text": "The risk of inflation eroding returns", "correct": false}
+    ],
+    "explanation": "Credit risk (default risk) is the possibility that a bond issuer fails to make interest payments or repay the principal. Credit ratings (AAA to D) assess this risk. Higher credit risk demands higher yields."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is the recommended stock allocation percentage for a person in their 30s with moderate risk tolerance?",
+    "options": [
+      {"text": "20-30% stocks", "correct": false},
+      {"text": "60-80% stocks", "correct": true},
+      {"text": "100% stocks", "correct": false},
+      {"text": "10-20% stocks", "correct": false}
+    ],
+    "explanation": "A common rule of thumb: stock allocation = (110 - age)%. For someone in their 30s, this suggests 70-80% stocks. The remaining 20-30% would be in bonds/cash for stability. This aligns with long time horizons."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is 'currency risk' (kawase risk) in international investing?",
+    "options": [
+      {"text": "The risk of counterfeit currency", "correct": false},
+      {"text": "The risk of loss from exchange rate fluctuations affecting foreign investments", "correct": true},
+      {"text": "The risk of a country changing its currency", "correct": false},
+      {"text": "The risk of inflation in the investor's home country", "correct": false}
+    ],
+    "explanation": "Currency risk arises when investing in foreign assets denominated in other currencies. Even if the foreign investment performs well, a strengthening home currency can reduce returns when converted back."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is the 'efficient frontier' in Modern Portfolio Theory?",
+    "options": [
+      {"text": "The line representing the highest possible return for any risk level", "correct": false},
+      {"text": "The set of optimal portfolios offering the highest expected return for each level of risk", "correct": true},
+      {"text": "The boundary between risky and risk-free assets", "correct": false},
+      {"text": "The minimum investment needed for diversification", "correct": false}
+    ],
+    "explanation": "The efficient frontier, developed by Markowitz, shows optimal portfolios that maximize expected return for a given risk level. Portfolios below the frontier are suboptimal; those on the frontier offer the best risk-return tradeoff."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What does 'Value at Risk' (VaR) measure?",
+    "options": [
+      {"text": "The total value of an investment portfolio", "correct": false},
+      {"text": "The maximum expected loss over a given time period at a given confidence level", "correct": true},
+      {"text": "The average return of a portfolio", "correct": false},
+      {"text": "The probability of a market crash", "correct": false}
+    ],
+    "explanation": "VaR estimates the maximum loss with a given probability over a specific time. Example: 1-day 95% VaR of 1 million yen means there is a 95% chance of losing no more than 1 million yen in a single day."
+  },
+  {
+    "category": "Risk Management",
+    "question": "What is ' dollar-cost averaging's key advantage in risk management?",
+    "options": [
+      {"text": "It guarantees profits in any market", "correct": false},
+      {"text": "It reduces the impact of timing risk by spreading purchases over time", "correct": true},
+      {"text": "It eliminates all investment risk", "correct": false},
+      {"text": "It maximizes returns during bull markets", "correct": false}
+    ],
+    "explanation": "Dollar-cost averaging reduces timing risk by purchasing at regular intervals regardless of price. It naturally buys more units when prices are low and fewer when high, smoothing the average purchase price over time."
+  },
+  {
+    "category": "External Economics",
+    "question": "What does GDP (Gross Domestic Product) measure?",
+    "options": [
+      {"text": "The total wealth of a country's citizens", "correct": false},
+      {"text": "The total value of all final goods and services produced within a country in a period", "correct": true},
+      {"text": "The total exports minus imports", "correct": false},
+      {"text": "The government's annual budget", "correct": false}
+    ],
+    "explanation": "GDP measures the total monetary value of all final goods and services produced within a country's borders in a specific time period. It includes consumption, investment, government spending, and net exports."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is the difference between 'nominal GDP' and 'real GDP'?",
+    "options": [
+      {"text": "Nominal GDP is always lower than real GDP", "correct": false},
+      {"text": "Real GDP adjusts for inflation; nominal GDP does not", "correct": true},
+      {"text": "Real GDP includes only exports; nominal GDP includes everything", "correct": false},
+      {"text": "They are the same thing", "correct": false}
+    ],
+    "explanation": "Nominal GDP is measured at current prices. Real GDP adjusts for inflation using a base year's prices, showing the actual change in output quantity. Real GDP is a better measure of economic growth."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is 'inflation' (infure)?",
+    "options": [
+      {"text": "A decrease in the money supply", "correct": false},
+      {"text": "A general increase in prices and decrease in purchasing power of money", "correct": true},
+      {"text": "An increase in interest rates", "correct": false},
+      {"text": "A decrease in unemployment", "correct": false}
+    ],
+    "explanation": "Inflation is the sustained increase in the general price level of goods and services, reducing the purchasing power of money. The Bank of Japan targets 2% inflation as part of its monetary policy."
+  },
+  {
+    "category": "External Economics",
+    "question": "What does the 'Bank of Japan's monetary policy' primarily target?",
+    "options": [
+      {"text": "Exchange rate stability", "correct": false},
+      {"text": "Price stability (2% inflation target) and financial system stability", "correct": true},
+      {"text": "Government debt reduction", "correct": false},
+      {"text": "Stock market performance", "correct": false}
+    ],
+    "explanation": "The Bank of Japan's primary mandate under the Bank of Japan Act is price stability (targeting 2% CPI inflation) and ensuring the stability of the financial system. It uses interest rate policy and asset purchases."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is 'deflation' (defure)?",
+    "options": [
+      {"text": "A general increase in prices", "correct": false},
+      {"text": "A sustained decrease in the general price level", "correct": true},
+      {"text": "An increase in the value of foreign currency", "correct": false},
+      {"text": "A decrease in government spending", "correct": false}
+    ],
+    "explanation": "Deflation is a sustained decrease in the general price level. It increases the real value of debt, discourages spending (as consumers wait for lower prices), and can lead to economic stagnation."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is the 'exchange rate' (kawase rate) and what does 'yen depreciation' (en-yasu) mean?",
+    "options": [
+      {"text": "Exchange rate is the price of gold; yen depreciation means yen strengthens", "correct": false},
+      {"text": "Exchange rate is the price of one currency in terms of another; yen depreciation means it takes more yen to buy foreign currency", "correct": true},
+      {"text": "Exchange rate is fixed by the government; yen depreciation is illegal", "correct": false},
+      {"text": "Exchange rate measures inflation; yen depreciation means lower prices", "correct": false}
+    ],
+    "explanation": "The exchange rate is the price of one currency expressed in another. Yen depreciation (en-yasu, e.g., USD/JPY going from 110 to 150) means the yen has weakened - it takes more yen to buy one dollar."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is the 'consumer price index' (CPI / shouhi bukka shisuu)?",
+    "options": [
+      {"text": "A measure of wholesale prices", "correct": false},
+      {"text": "An index measuring the average change in prices paid by consumers for a basket of goods and services", "correct": true},
+      {"text": "A measure of stock market performance", "correct": false},
+      {"text": "An index of interest rates over time", "correct": false}
+    ],
+    "explanation": "The CPI tracks price changes in a fixed basket of goods and services typical of consumer spending. It is the primary measure of inflation used by central banks for monetary policy decisions."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is 'quantitative easing' (ryouteki kinyuu kanwa / QE)?",
+    "options": [
+      {"text": "Tightening money supply to fight inflation", "correct": false},
+      {"text": "Central bank purchasing financial assets to increase money supply and stimulate the economy", "correct": true},
+      {"text": "Reducing government spending", "correct": false},
+      {"text": "Increasing interest rates", "correct": false}
+    ],
+    "explanation": "QE involves a central bank purchasing government bonds and other assets from the market, increasing the money supply, lowering long-term interest rates, and encouraging lending and investment."
+  },
+  {
+    "category": "External Economics",
+    "question": "What does 'interest rate' (kinri) represent from a borrower's perspective?",
+    "options": [
+      {"text": "The profit earned on investments", "correct": false},
+      {"text": "The cost of borrowing money, expressed as a percentage of the principal", "correct": true},
+      {"text": "The inflation rate", "correct": false},
+      {"text": "The tax rate on interest income", "correct": false}
+    ],
+    "explanation": "Interest rate is the cost of borrowing money (or the return for lending). It compensates the lender for the time value of money, inflation risk, and default risk. Central banks set policy rates that influence all other rates."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is the 'short-term interest rate' (tannki kinri) controlled by the Bank of Japan?",
+    "options": [
+      {"text": "The rate on 30-year government bonds", "correct": false},
+      {"text": "The overnight call rate (target for interbank lending)", "correct": true},
+      {"text": "The mortgage rate", "correct": false},
+      {"text": "The corporate bond rate", "correct": false}
+    ],
+    "explanation": "The Bank of Japan's primary policy tool is the overnight call rate - the interest rate banks charge each other for overnight loans. By targeting this rate, the BOJ influences all other short-term interest rates."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is 'fiscal policy' (zaisei seisaku)?",
+    "options": [
+      {"text": "The central bank's interest rate decisions", "correct": false},
+      {"text": "Government spending and taxation decisions to influence the economy", "correct": true},
+      {"text": "Private sector investment decisions", "correct": false},
+      {"text": "International trade agreements", "correct": false}
+    ],
+    "explanation": "Fiscal policy involves government decisions on taxation and spending to influence economic conditions. Expansionary fiscal policy (tax cuts, increased spending) stimulates the economy; contractionary policy cools it."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is the impact of yen depreciation on Japanese exporters?",
+    "options": [
+      {"text": "Exports become more expensive, hurting exporters", "correct": false},
+      {"text": "Export revenue increases when converted to yen, benefiting exporters", "correct": true},
+      {"text": "No impact on exporters", "correct": false},
+      {"text": "Only importers are affected", "correct": false}
+    ],
+    "explanation": "When the yen depreciates, Japanese export prices become cheaper in foreign currencies (boosting competitiveness), and when foreign earnings are converted to yen, more yen is received. This benefits exporters but hurts importers."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is ' yield curve' (kikan kikan-betsu kinri / yield curve)?",
+    "options": [
+      {"text": "A graph showing inflation over time", "correct": false},
+      {"text": "A graph showing interest rates across different maturities", "correct": true},
+      {"text": "A chart of stock prices over time", "correct": false},
+      {"text": "A measure of currency fluctuations", "correct": false}
+    ],
+    "explanation": "The yield curve plots interest rates (yields) of bonds with equal credit quality but different maturities. A normal (upward-sloping) curve indicates expectations of economic growth. An inverted curve may signal recession."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is the ' Nikkei 225' index?",
+    "options": [
+      {"text": "An index of all Japanese companies", "correct": false},
+      {"text": "A price-weighted index of 225 major stocks listed on the Tokyo Stock Exchange", "correct": true},
+      {"text": "A bond market index", "correct": false},
+      {"text": "A measure of Japanese GDP growth", "correct": false}
+    ],
+    "explanation": "The Nikkei 225 is Japan's most widely followed stock market index, tracking 225 large-cap stocks on the Tokyo Stock Exchange. It is price-weighted, meaning higher-priced stocks have more influence."
+  },
+  {
+    "category": "External Economics",
+    "question": "What is the ' TOPIX' index?",
+    "options": [
+      {"text": "A price-weighted index like the Nikkei 225", "correct": false},
+      {"text": "A market capitalization-weighted index of all First Section stocks on TSE", "correct": true},
+      {"text": "An index of government bond yields", "correct": false},
+      {"text": "A measure of foreign investment in Japan", "correct": false}
+    ],
+    "explanation": "TOPIX (Tokyo Stock Price Index) tracks all stocks on the TSE Prime Market (formerly First Section), weighted by market capitalization. Unlike the Nikkei 225 (price-weighted), TOPIX better reflects the overall market."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the 'Financial Services Agency' (FSA / kin'yu-cho) in Japan?",
+    "options": [
+      {"text": "A private banking regulatory body", "correct": false},
+      {"text": "The government agency responsible for overseeing financial institutions and markets", "correct": true},
+      {"text": "A consumer protection organization", "correct": false},
+      {"text": "The central bank of Japan", "correct": false}
+    ],
+    "explanation": "The Financial Services Agency (FSA) is an external bureau of the Cabinet Office responsible for supervising banks, securities firms, insurance companies, and ensuring the stability of Japan's financial system."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the ' suitability rule' (tekigou-sei no genri) in financial product sales?",
+    "options": [
+      {"text": "Selling the most profitable product for the company", "correct": false},
+      {"text": "Recommending products appropriate for the customer's knowledge, experience, and financial situation", "correct": true},
+      {"text": "Selling only government-guaranteed products", "correct": false},
+      {"text": "Recommending the same product to all customers", "correct": false}
+    ],
+    "explanation": "The suitability rule requires financial institutions to assess each customer's knowledge, experience, financial situation, and investment objectives, and recommend only products that are appropriate for that customer."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the purpose of ' customer identification' (kojin shikibetsu) requirements under anti-money laundering (AML) laws?",
+    "options": [
+      {"text": "To increase sales of financial products", "correct": false},
+      {"text": "To verify customer identity and prevent money laundering and terrorist financing", "correct": true},
+      {"text": "To check customer credit scores", "correct": false},
+      {"text": "To track customer investment returns", "correct": false}
+    ],
+    "explanation": "Customer identification (Know Your Customer / KYC) requires financial institutions to verify the identity of customers using official documents, preventing anonymous accounts from being used for money laundering or terrorism financing."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the 'Financial Instruments and Exchange Act' (kin'yu shouhin torihiki-hou)?",
+    "options": [
+      {"text": "A law governing only bank operations", "correct": false},
+      {"text": "The primary law regulating securities markets, investment services, and disclosure in Japan", "correct": true},
+      {"text": "A tax law for financial transactions", "correct": false},
+      {"text": "An insurance regulation law", "correct": false}
+    ],
+    "explanation": "The Financial Instruments and Exchange Act (FIEA) is the primary law regulating securities and financial instruments markets in Japan. It covers disclosure, market integrity, investor protection, and financial intermediary conduct."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is ' insider trading' (naibu torihiki) and what are the consequences?",
+    "options": [
+      {"text": "Trading based on analysis of public financial statements (perfectly legal)", "correct": false},
+      {"text": "Trading securities based on material non-public information (illegal, subject to criminal penalties)", "correct": true},
+      {"text": "Trading through an online broker instead of a traditional one", "correct": false},
+      {"text": "Buying shares in the company you work for", "correct": false}
+    ],
+    "explanation": "Insider trading is using material non-public information about a company to trade its securities for profit. It undermines market fairness and is punishable by criminal fines (up to 500 million yen for companies) and imprisonment."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the 'Japan Securities Depository Center' (JASDEC / shouken boeki kikan)?",
+    "options": [
+      {"text": "A stock exchange", "correct": false},
+      {"text": "The central securities depository and clearing house for securities settlement", "correct": true},
+      {"text": "A regulatory body like the FSA", "correct": false},
+      {"text": "A government treasury", "correct": false}
+    ],
+    "explanation": "JASDEC (Japan Securities Depository Center) handles book-entry transfer and settlement of securities in Japan. It operates the centralized system for securities settlement, reducing physical certificate handling."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the ' Securities Report' (yuukashouken houkoku-sho) that listed companies must file?",
+    "options": [
+      {"text": "A report to shareholders about dividends only", "correct": false},
+      {"text": "A comprehensive disclosure document containing financial statements and business information", "correct": true},
+      {"text": "A quarterly sales report", "correct": false},
+      {"text": "A tax filing document", "correct": false}
+    ],
+    "explanation": "The Securities Report is filed annually by listed companies with the FSA, disclosing financial statements, business overview, corporate governance, and other material information for investor transparency."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is ' fiduciary duty' (shinrai gimu) of financial advisors?",
+    "options": [
+      {"text": "The duty to maximize profits for the financial institution", "correct": false},
+      {"text": "The duty to act in the best interest of the client, prioritizing client interests above own interests", "correct": true},
+      {"text": "The duty to follow all government regulations", "correct": false},
+      {"text": "The duty to provide free advice to all customers", "correct": false}
+    ],
+    "explanation": "Fiduciary duty requires financial advisors to put their clients' interests first. This means recommending the best products for the client's situation, not the ones that generate the most commissions or fees for the advisor."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is 'market manipulation' (shijou sousa) under Japanese law?",
+    "options": [
+      {"text": "Legitimate day trading activity", "correct": false},
+      {"text": "Deliberate acts to create false or misleading appearance of trading activity or security prices", "correct": true},
+      {"text": "Investing based on market research", "correct": false},
+      {"text": "Selling stocks during a market downturn", "correct": false}
+    ],
+    "explanation": "Market manipulation includes practices like painting the tape (fake trades), wash sales, and spreading false information to influence prices. It is illegal under the FIEA and carries criminal and civil penalties."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the 'Customer Attribute Information' management requirement under FIEA?",
+    "options": [
+      {"text": "Collecting only customer names", "correct": false},
+      {"text": "Financial institutions must collect, verify, and regularly update customer investment knowledge, experience, and financial situation", "correct": true},
+      {"text": "Sharing customer data with third parties for marketing", "correct": false},
+      {"text": "Deleting customer records after each transaction", "correct": false}
+    ],
+    "explanation": "Under FIEA, financial institutions must systematically collect and manage customer attribute information (investment experience, knowledge, financial resources, purpose), and use this information for suitability assessments."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the 'TSE' (Tokyo Stock Exchange) reorganization that took effect in 2022?",
+    "options": [
+      {"text": "Merging with NASDAQ", "correct": false},
+      {"text": "Restructuring from 4 market sections into Prime, Standard, and Growth markets", "correct": true},
+      {"text": "Closing down the exchange entirely", "correct": false},
+      {"text": "Adding a cryptocurrency trading section", "correct": false}
+    ],
+    "explanation": "In April 2022, the TSE reorganized from First Section, Second Section, Mothers, and JASDAQ into three segments: Prime (large/liquid), Standard (mid-sized), and Growth (startups/emerging), each with different listing standards."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the ' Securities and Exchange Surveillance Commission' (SESC / shouken torihiki kanshi-iin-kai)?",
+    "options": [
+      {"text": "A private company monitoring stock prices", "correct": false},
+      {"text": "An external organization of the FSA responsible for investigating securities market violations", "correct": true},
+      {"text": "A consumer protection hotline", "correct": false},
+      {"text": "A division of the Bank of Japan", "correct": false}
+    ],
+    "explanation": "The SESC is a commission under the FSA responsible for monitoring and investigating securities market violations including insider trading, market manipulation, and false disclosure. It can recommend enforcement actions."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the 'paid-in capital' (shihon-kin) requirement for Type 1 financial instruments business registration?",
+    "options": [
+      {"text": "No minimum capital requirement", "correct": false},
+      {"text": "30 million yen minimum", "correct": false},
+      {"text": "50 million yen minimum (or 10 million yen for certain categories)", "correct": false},
+      {"text": "5 billion yen for securities companies (for proprietary trading), 30 million yen for investment advisory", "correct": true}
+    ],
+    "explanation": "Type 1 financial instruments business (handling securities) requires 50 million yen minimum paid-in capital for broker-dealers. Type 2 (investment advisory and agency) requires 30 million yen. Banks and insurance companies have separate requirements."
+  },
+  {
+    "category": "Financial Regulations",
+    "question": "What is the purpose of the ' investor classification' system under FIEA?",
+    "options": [
+      {"text": "To categorize investors by wealth only", "correct": false},
+      {"text": "To determine the level of regulation and protection based on investor type (professional vs. general)", "correct": true},
+      {"text": "To set different tax rates for different investors", "correct": false},
+      {"text": "To restrict foreign investment in Japan", "correct": false}
+    ],
+    "explanation": "The investor classification system categorizes investors as 'professional' (institutions, high-net-worth individuals meeting criteria) or 'general.' Professional investors receive fewer protections but can access wider investment products."
+  }
+]
