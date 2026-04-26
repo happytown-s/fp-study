@@ -1,29 +1,26 @@
-import { useState, useEffect } from 'react';
-import type { CalcQuestion } from '../data/types';
+import { useState, useEffect, useRef } from 'react'
+import calcData from '../data/calc-training.json'
 
-const CALC_CATEGORIES = [
-  'Compound Interest',
-  'Loan Payments',
-  'Tax Calculation',
-  'Insurance Premium',
-  'Pension Calculation',
-  'Asset Allocation',
-  'Inheritance Division',
-  'Real Estate ROI',
-] as const;
+interface CalcQuestion {
+  id: number;
+  category: string;
+  title: string;
+  question: string;
+  options: { text: string; correct: boolean }[];
+  cheatsheet: string;
+  steps: string[];
+  explanation: string;
+}
 
-const categoryNames: Record<string, string> = {
-  'Compound Interest': '複利計算',
-  'Loan Payments': 'ローン返済',
-  'Tax Calculation': '税金計算',
-  'Insurance Premium': '保険料計算',
-  'Pension Calculation': '年金計算',
-  'Asset Allocation': '資産配分',
-  'Inheritance Division': '相続分割',
-  'Real Estate ROI': '不動産利回り',
-};
+interface Props {
+  onBack: () => void;
+}
 
-function shuffleArray<T>(arr: T[]): T[] {
+const questions = calcData as CalcQuestion[];
+
+const categories = [...new Set(questions.map(q => q.category))];
+
+function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -32,195 +29,225 @@ function shuffleArray<T>(arr: T[]): T[] {
   return a;
 }
 
-export default function CalcTraining() {
-  const [questions, setQuestions] = useState<CalcQuestion[]>([]);
-  const [currentIdx, setCurrentIdx] = useState(0);
-  const [selectedOption, setSelectedOption] = useState<number | null>(null);
-  const [showSolution, setShowSolution] = useState(false);
-  const [started, setStarted] = useState(false);
-  const [activeQuestions, setActiveQuestions] = useState<CalcQuestion[]>([]);
+export default function CalcTraining({ onBack }: Props) {
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [currentQ, setCurrentQ] = useState(0);
+  const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
+  const [showSteps, setShowSteps] = useState(false);
+  const [revealedStep, setRevealedStep] = useState(0);
+  const [score, setScore] = useState(0);
+  const [total, setTotal] = useState(0);
+  const [isFinished, setIsFinished] = useState(false);
+  const [isTestMode, setIsTestMode] = useState(false);
+  const [timer, setTimer] = useState(300);
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const [shuffled, setShuffled] = useState<CalcQuestion[]>([]);
+  const [stats, setStats] = useState<Record<string, { correct: number; total: number }>>({});
 
   useEffect(() => {
-    import('../data/calc-training.json').then(m => setQuestions(m.default as unknown as CalcQuestion[]));
+    const saved = localStorage.getItem('fp-calc-stats');
+    if (saved) setStats(JSON.parse(saved));
+    return () => { if (timerRef.current) clearInterval(timerRef.current); };
   }, []);
 
-  const startPractice = (category: string | null) => {
-    const pool = category
-      ? questions.filter((q: CalcQuestion) => q.category === category)
-      : [...questions];
-    if (pool.length === 0) return;
-    setActiveQuestions(shuffleArray(pool));
-    setCurrentIdx(0);
-    setSelectedOption(null);
-    setShowSolution(false);
-    setStarted(true);
-  };
-
-  const handleAnswer = (optIdx: number) => {
-    if (selectedOption !== null) return;
-    setSelectedOption(optIdx);
-    setShowSolution(true);
-
-    // Save to history
-    const q = activeQuestions[currentIdx];
-    const history = JSON.parse(localStorage.getItem('fp-answerHistory') || '[]');
-    history.push({
-      questionIdx: q.id,
-      correct: q.options[optIdx].correct,
-      timestamp: Date.now(),
-      isCalc: true,
-      calcCategory: q.category,
+  const updateStats = (cat: string, correct: boolean) => {
+    setStats(prev => {
+      const next = { ...prev };
+      if (!next[cat]) next[cat] = { correct: 0, total: 0 };
+      next[cat].total++;
+      if (correct) next[cat].correct++;
+      localStorage.setItem('fp-calc-stats', JSON.stringify(next));
+      return next;
     });
-    localStorage.setItem('fp-answerHistory', JSON.stringify(history));
   };
 
-  const next = () => {
-    if (currentIdx + 1 >= activeQuestions.length) {
-      setStarted(false);
-      return;
-    }
-    setCurrentIdx(prev => prev + 1);
-    setSelectedOption(null);
-    setShowSolution(false);
+  const startPractice = (cat: string) => {
+    setSelectedCategory(cat);
+    setIsTestMode(false);
+    setIsFinished(false);
+    setScore(0);
+    setTotal(0);
+    setCurrentQ(0);
+    setSelectedAnswer(null);
+    setShowSteps(false);
+    setRevealedStep(0);
+    setShuffled(questions.filter(q => q.category === cat));
   };
 
-  const back = () => {
-    setStarted(false);
-    setActiveQuestions([]);
+  const startTest = (cat: string) => {
+    setSelectedCategory(cat);
+    setIsTestMode(true);
+    setIsFinished(false);
+    setScore(0);
+    setTotal(0);
+    setCurrentQ(0);
+    setSelectedAnswer(null);
+    setShuffled(shuffle(questions.filter(q => q.category === cat)).slice(0, 10));
+    setTimer(300);
+    if (timerRef.current) clearInterval(timerRef.current);
+    timerRef.current = setInterval(() => {
+      setTimer(t => {
+        if (t <= 1) { if (timerRef.current) clearInterval(timerRef.current); setIsFinished(true); return 0; }
+        return t - 1;
+      });
+    }, 1000);
   };
 
-  const catLabel = (cat: string) => categoryNames[cat] || cat;
+  const formatTime = (s: number) => {
+    const m = Math.floor(s / 60);
+    const sec = s % 60;
+    return `${m}:${sec.toString().padStart(2, '0')}`;
+  };
 
-  if (questions.length === 0) {
-    return (
-      <div className="text-text-secondary text-center py-20">計算問題を読み込み中...</div>
-    );
-  }
-
-  if (started && activeQuestions.length > 0) {
-    const q = activeQuestions[currentIdx];
-    return (
-      <div className="space-y-6">
-        <div className="flex items-center justify-between">
-          <button onClick={back} className="text-text-secondary hover:text-text-primary text-sm">
-            戻る
-          </button>
-          <span className="text-text-secondary text-sm">
-            {currentIdx + 1} / {activeQuestions.length}
-          </span>
-        </div>
-
-        <div className="h-1.5 bg-bg-tertiary rounded-full overflow-hidden">
-          <div
-            className="h-full bg-accent transition-all duration-300"
-            style={{ width: `${((currentIdx + 1) / activeQuestions.length) * 100}%` }}
-          />
-        </div>
-
-        <div className="bg-bg-card rounded-xl p-5 space-y-3">
-          <span className="text-xs font-medium text-accent bg-accent/10 px-2 py-1 rounded">
-            {catLabel(q.category)}
-          </span>
-          <h2 className="text-lg font-medium">{q.title}</h2>
-          <p className="text-text-secondary leading-relaxed">{q.question}</p>
-        </div>
-
-        {showSolution && (
-          <div className="bg-bg-tertiary rounded-lg p-4 space-y-2">
-            <p className="font-medium text-accent text-sm">公式 / チートシート</p>
-            <pre className="text-text-secondary text-sm whitespace-pre-wrap font-mono">
-              {q.cheatsheet}
-            </pre>
-          </div>
-        )}
-
-        <div className="space-y-3">
-          {q.options.map((opt, i) => {
-            let btnClass = 'bg-bg-card hover:bg-bg-tertiary border-border';
-            if (selectedOption !== null) {
-              if (opt.correct) {
-                btnClass = 'bg-correct/15 border-correct text-correct';
-              } else if (i === selectedOption && !opt.correct) {
-                btnClass = 'bg-incorrect/15 border-incorrect text-incorrect';
-              } else {
-                btnClass = 'bg-bg-card border-border opacity-50';
-              }
-            }
-            return (
-              <button
-                key={i}
-                onClick={() => handleAnswer(i)}
-                disabled={selectedOption !== null}
-                className={`w-full text-left p-4 rounded-lg border transition-colors ${btnClass}`}
-              >
-                <div className="flex items-start gap-3">
-                  <span className="text-text-muted text-sm mt-0.5 shrink-0">{String.fromCharCode(65 + i)}</span>
-                  <span className="text-sm">{opt.text}</span>
-                </div>
-              </button>
-            );
-          })}
-        </div>
-
-        {showSolution && (
-          <div className="bg-bg-tertiary rounded-lg p-4 space-y-2">
-            <p className="font-medium text-accent text-sm">ステップバイステップ解法</p>
-            <ol className="list-decimal list-inside space-y-1 text-sm text-text-secondary">
-              {q.steps.map((step, i) => (
-                <li key={i}>{step}</li>
-              ))}
-            </ol>
-          </div>
-        )}
-
-        {showSolution && q.explanation && (
-          <div className="bg-bg-tertiary rounded-lg p-4 text-sm text-text-secondary">
-            <p className="font-medium text-text-primary mb-1">ポイント</p>
-            {q.explanation}
-          </div>
-        )}
-
-        {selectedOption !== null && (
-          <button
-            onClick={next}
-            className="w-full py-3 bg-accent hover:bg-accent-hover text-white rounded-lg font-medium transition-colors"
-          >
-            {currentIdx + 1 >= activeQuestions.length ? '終了' : '次の問題'}
-          </button>
-        )}
-      </div>
-    );
-  }
-
-  const catCount = (cat: string) => questions.filter((q: CalcQuestion) => q.category === cat).length;
+  const q = shuffled[currentQ];
 
   return (
-    <div className="space-y-6">
-      <div className="bg-bg-card rounded-xl p-5">
-        <h2 className="text-lg font-bold mb-1">計算トレーニング</h2>
-        <p className="text-text-secondary text-sm">
-          公式とステップバイステップ解法で計算練習
-        </p>
-      </div>
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors">
+      <div className="max-w-2xl mx-auto px-4 py-8">
+        <button
+          onClick={selectedCategory ? () => { setSelectedCategory(null); setIsTestMode(false); if (timerRef.current) clearInterval(timerRef.current); } : onBack}
+          className="mb-6 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors flex items-center gap-2"
+        >
+          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" /></svg>
+          {selectedCategory ? 'Categories' : 'Back'}
+        </button>
 
-      <button
-        onClick={() => startPractice(null)}
-        className="w-full bg-accent hover:bg-accent-hover text-white rounded-xl p-4 font-medium transition-colors"
-      >
-        全問題 ({questions.length})
-      </button>
+        {!selectedCategory ? (
+          <div className="space-y-4">
+            <div className="text-center mb-8">
+              <h1 className="text-3xl font-bold bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent">Calc Training</h1>
+              <p className="text-gray-500 dark:text-gray-400 mt-2">FP2 Calculation Drills</p>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {categories.map(cat => {
+                const catQs = questions.filter(q => q.category === cat);
+                const s = stats[cat];
+                const pct = s && s.total > 0 ? Math.round((s.correct / s.total) * 100) : 0;
+                return (
+                  <div key={cat} className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-5">
+                    <h3 className="font-bold text-gray-900 dark:text-white mb-1">{cat}</h3>
+                    <p className="text-xs text-gray-500 dark:text-gray-400 mb-3">{catQs.length} questions</p>
+                    <div className="flex items-center gap-2 mb-3">
+                      <div className="flex-1 bg-gray-200 dark:bg-gray-700 rounded-full h-2">
+                        <div className={`h-2 rounded-full ${pct === 0 ? 'bg-gray-600' : pct < 80 ? 'bg-amber-500' : 'bg-green-500'} transition-all`} style={{ width: `${pct}%` }} />
+                      </div>
+                      <span className="text-xs text-gray-500 dark:text-gray-400">{s && s.total > 0 ? `${pct}%` : '--'}</span>
+                    </div>
+                    <div className="flex gap-2">
+                      <button onClick={() => startPractice(cat)} className="flex-1 px-3 py-2 rounded-lg bg-gradient-to-r from-red-500 to-orange-500 text-white text-sm font-medium hover:opacity-90">Practice</button>
+                      <button onClick={() => startTest(cat)} className="flex-1 px-3 py-2 rounded-lg border-2 border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 text-sm font-medium hover:bg-gray-100 dark:hover:bg-gray-700">Test</button>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        ) : isFinished ? (
+          <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-5 text-center">
+            <div className="text-3xl font-bold bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent mb-2">{score}/{total}</div>
+            <p className="text-gray-500 dark:text-gray-400 mb-4">{total > 0 ? `${Math.round((score / total) * 100)}% accuracy` : ''}</p>
+            <button onClick={() => startPractice(selectedCategory)} className="px-6 py-2 rounded-lg bg-gradient-to-r from-red-500 to-orange-500 text-white font-medium hover:opacity-90">Retry</button>
+          </div>
+        ) : q ? (
+          <div className="space-y-4">
+            {isTestMode && (
+              <div className="flex justify-between items-center">
+                <span className="text-sm text-gray-500 dark:text-gray-400">Q{currentQ + 1}/{shuffled.length}</span>
+                <span className={`font-mono font-bold text-lg ${timer < 30 ? 'text-red-500 animate-pulse' : 'text-gray-900 dark:text-white'}`}>{formatTime(timer)}</span>
+              </div>
+            )}
 
-      <div className="grid gap-3">
-        {CALC_CATEGORIES.map(cat => (
-          <button
-            key={cat}
-            onClick={() => startPractice(cat)}
-            className="bg-bg-card hover:bg-bg-tertiary p-4 rounded-xl text-left border border-border transition-colors"
-          >
-            <div className="font-medium text-accent">{catLabel(cat)}</div>
-            <div className="text-text-muted text-xs mt-1">{catCount(cat)} 問</div>
-          </button>
-        ))}
+            <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-5">
+              {!isTestMode && (
+                <div className="flex justify-between items-center mb-4 text-sm text-gray-500 dark:text-gray-400">
+                  <span>Question {currentQ + 1} / {shuffled.length}</span>
+                  <span>Score: {score}</span>
+                </div>
+              )}
+              <div className="text-xs text-violet-600 dark:text-violet-400 font-medium mb-1">{q.title}</div>
+              <p className="text-gray-900 dark:text-white font-medium mb-4">{q.question}</p>
+              <div className="space-y-2 mb-4">
+                {q.options.map((opt, idx) => {
+                  let cls = 'border-2 rounded-lg p-3 text-left transition-all cursor-pointer ';
+                  if (selectedAnswer === null) {
+                    cls += 'border-gray-200 dark:border-gray-600 hover:border-orange-400 dark:hover:border-orange-500';
+                  } else if (opt.correct) {
+                    cls += 'border-green-500 bg-green-50 dark:bg-green-900/20';
+                  } else if (selectedAnswer === idx) {
+                    cls += 'border-red-500 bg-red-50 dark:bg-red-900/20';
+                  } else {
+                    cls += 'border-gray-200 dark:border-gray-600 opacity-50';
+                  }
+                  return (
+                    <button key={idx} onClick={() => {
+                      if (selectedAnswer !== null) return;
+                      setSelectedAnswer(idx);
+                      const correct = opt.correct;
+                      if (correct) setScore(s => s + 1);
+                      setTotal(t => t + 1);
+                      updateStats(q.category, correct);
+                      if (!correct) setShowSteps(true);
+                    }} className={cls}>
+                      <span className="text-sm text-gray-900 dark:text-white">{opt.text}</span>
+                      {selectedAnswer !== null && opt.correct && <span className="ml-2 text-green-600 font-bold text-xs">Correct</span>}
+                      {selectedAnswer === idx && !opt.correct && <span className="ml-2 text-red-600 font-bold text-xs">Wrong</span>}
+                    </button>
+                  );
+                })}
+              </div>
+              {showSteps && (
+                <div className="mb-4">
+                  {!isTestMode ? (
+                    <div className="space-y-2">
+                      {q.steps.map((step, i) => (
+                        <div key={i} className="flex gap-2" style={{ display: i < revealedStep ? 'flex' : 'none' }}>
+                          <span className="text-xs font-bold text-orange-500 bg-orange-100 dark:bg-orange-900/40 rounded px-2 py-1 h-fit whitespace-nowrap">Step {i+1}</span>
+                          <span className="text-sm text-gray-700 dark:text-gray-300">{step}</span>
+                        </div>
+                      ))}
+                      {revealedStep < q.steps.length && (
+                        <button onClick={() => setRevealedStep(s => s + 1)} className="text-sm text-orange-500 hover:underline">Show next step</button>
+                      )}
+                    </div>
+                  ) : (
+                    <div className="bg-gray-50 dark:bg-gray-900 rounded-lg p-3 space-y-1">
+                      {q.steps.map((step, i) => (
+                        <div key={i} className="flex gap-2">
+                          <span className="text-xs font-bold text-orange-500 bg-orange-100 dark:bg-orange-900/40 rounded px-2 py-1 h-fit whitespace-nowrap">Step {i+1}</span>
+                          <span className="text-sm text-gray-700 dark:text-gray-300">{step}</span>
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )}
+              {selectedAnswer !== null && !isTestMode && (
+                <div className="bg-indigo-50 dark:bg-indigo-900/20 rounded-lg p-3 mb-3 border border-indigo-200 dark:border-indigo-800">
+                  <p className="text-sm text-indigo-800 dark:text-indigo-300">{q.explanation}</p>
+                </div>
+              )}
+              {selectedAnswer !== null && (
+                <button onClick={() => {
+                  if (currentQ + 1 >= shuffled.length) {
+                    if (isTestMode) { if (timerRef.current) clearInterval(timerRef.current); }
+                    setIsFinished(true);
+                  } else {
+                    setCurrentQ(c => c + 1);
+                    setSelectedAnswer(null);
+                    setShowSteps(false);
+                    setRevealedStep(0);
+                  }
+                }} className="w-full py-3 rounded-lg bg-gradient-to-r from-red-500 to-orange-500 text-white font-bold hover:opacity-90 transition-opacity">
+                  {currentQ + 1 >= shuffled.length ? 'Finish' : 'Next'}
+                </button>
+              )}
+            </div>
+          </div>
+        ) : (
+          <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8 text-center text-gray-500 dark:text-gray-400">
+            No questions in this category.
+          </div>
+        )}
       </div>
     </div>
   );

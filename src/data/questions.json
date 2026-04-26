@@ -1,0 +1,5227 @@
+[
+  {
+    "id": 1,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "ライフサイクルモデルにおいて、子どもの誕生と所得に対する支出割合が最も高いライフステージはどれか。",
+    "options": [
+      {
+        "text": "形成期（新婚）",
+        "correct": false
+      },
+      {
+        "text": "拡張期（子育て期）",
+        "correct": true
+      },
+      {
+        "text": "収縮期（子どもの独立）",
+        "correct": false
+      },
+      {
+        "text": "消滅期（退職・死別）",
+        "correct": false
+      }
+    ],
+    "explanation": "拡張期（子育て期）は、育児費や教育費、住居費などがかさみ、所得がまだピークに達していないため、通常、支出割合が最も高くなる。"
+  },
+  {
+    "id": 2,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "生活費の月数で表した推奨される緊急資金の額はどれか。",
+    "options": [
+      {
+        "text": "1〜2ヶ月分",
+        "correct": false
+      },
+      {
+        "text": "3〜6ヶ月分",
+        "correct": true
+      },
+      {
+        "text": "9〜12ヶ月分",
+        "correct": false
+      },
+      {
+        "text": "18〜24ヶ月分",
+        "correct": false
+      }
+    ],
+    "explanation": "緊急資金の標準的な目安は生活費の3〜6ヶ月分。失業、病気、予期せぬ出費に備えるための備えとなる。"
+  },
+  {
+    "id": 3,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "次のうち、ファイナンシャルプランニングの優先順位として正しい順序はどれか。",
+    "options": [
+      {
+        "text": "投資 → 緊急資金 → 保険 → 退職準備",
+        "correct": false
+      },
+      {
+        "text": "緊急資金 → 保険 → 借入返済 → 投資",
+        "correct": true
+      },
+      {
+        "text": "退職準備 → 投資 → 緊急資金 → 保険",
+        "correct": false
+      },
+      {
+        "text": "借入返済 → 投資 → 緊急資金 → 保険",
+        "correct": false
+      }
+    ],
+    "explanation": "標準的な優先順位は：(1)緊急資金の確保、(2)保険カバレッジの確保、(3)高金利の借入返済、(4)将来に向けた投資。まず安全性を確保してから成長を目指す。"
+  },
+  {
+    "id": 4,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "日本において、子ども1人を0歳から18歳まで育てる平均的な費用（大学費用を除く）はどれくらいか。",
+    "options": [
+      {
+        "text": "約500万円",
+        "correct": false
+      },
+      {
+        "text": "約1,000万円",
+        "correct": false
+      },
+      {
+        "text": "約1,500〜1,700万円",
+        "correct": true
+      },
+      {
+        "text": "約2,500万円",
+        "correct": false
+      }
+    ],
+    "explanation": "厚生労働省の調査によると、0歳から高校卒業までの子育て費用は、教育費、食費、衣服費、医療費を含めて約1,500〜1,700万円である。"
+  },
+  {
+    "id": 5,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "「ライフプランニング」は主に何に焦点を当てているか。",
+    "options": [
+      {
+        "text": "短期的な投資リターンの最大化",
+        "correct": false
+      },
+      {
+        "text": "脱税戦略",
+        "correct": false
+      },
+      {
+        "text": "ライフサイクル全体を通じた金融戦略の設計",
+        "correct": true
+      },
+      {
+        "text": "適切な保険商品の選択",
+        "correct": false
+      }
+    ],
+    "explanation": "ライフプランニングは、ライフサイクル全体にわたる稼得、消費、貯蓄、投資、リスク管理を網羅する包括的な金融戦略の設計を行う。"
+  },
+  {
+    "id": 6,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "月収のうち借入返済に充てる割合を示す財務指標はどれか。",
+    "options": [
+      {
+        "text": "貯蓄率",
+        "correct": false
+      },
+      {
+        "text": "返済比率（リターンレシオ）",
+        "correct": true
+      },
+      {
+        "text": "流動性比率",
+        "correct": false
+      },
+      {
+        "text": "純資産比率",
+        "correct": false
+      }
+    ],
+    "explanation": "返済比率（リターンレシオ）は、所得の何％が借入返済に使われているかを示す。一般的に25〜30%未満が健全とされる。"
+  },
+  {
+    "id": 7,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "ファイナンシャルプランニングにおける「バランスシートアプローチ」は何を分析するか。",
+    "options": [
+      {
+        "text": "収入と支出の時系列のみ",
+        "correct": false
+      },
+      {
+        "text": "特定時点における資産、負債、純資産",
+        "correct": true
+      },
+      {
+        "text": "投資ポートフォリオのパフォーマンスのみ",
+        "correct": false
+      },
+      {
+        "text": "保険の十分性",
+        "correct": false
+      }
+    ],
+    "explanation": "バランスシートアプローチは、特定時点におけるすべての資産（持っているもの）から負債（借りているもの）を差し引いて純資産を算出し、財務健全性を評価する。"
+  },
+  {
+    "id": 8,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "日本の家計において、通常、支出に占める割合が最も大きい費目はどれか。",
+    "options": [
+      {
+        "text": "教育費",
+        "correct": false
+      },
+      {
+        "text": "住居費（家賃・住宅ローン）",
+        "correct": false
+      },
+      {
+        "text": "食料費",
+        "correct": true
+      },
+      {
+        "text": "交通費",
+        "correct": false
+      }
+    ],
+    "explanation": "家計調査によると、日本の家計支出では食料費が最も大きな費目となる。次いで住居費、交通費が続く。"
+  },
+  {
+    "id": 9,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "「エンゲル係数」とは何か。",
+    "options": [
+      {
+        "text": "所得に対する貯蓄の割合",
+        "correct": false
+      },
+      {
+        "text": "総消費支出に占める食料費の割合",
+        "correct": true
+      },
+      {
+        "text": "所得に対する住居費の割合",
+        "correct": false
+      },
+      {
+        "text": "所得に対する税負担の割合",
+        "correct": false
+      }
+    ],
+    "explanation": "エンゲル係数は、総消費支出に占める食料費の割合を測る指標。係数が高いほど所得水準が低い傾向がある（エンゲルの法則）。"
+  },
+  {
+    "id": 10,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "日本で退職後のライフプランを考える際、推奨される所得代替率（退職前所得に対する公的年金＋個人貯蓄の割合）はどれか。",
+    "options": [
+      {
+        "text": "100%（完全代替）",
+        "correct": false
+      },
+      {
+        "text": "退職前所得の70%",
+        "correct": true
+      },
+      {
+        "text": "退職前所得の50%",
+        "correct": false
+      },
+      {
+        "text": "退職前所得の30%",
+        "correct": false
+      }
+    ],
+    "explanation": "70%の所得代替率が一般的に推奨される。日本の公的年金は概ね40〜50%をカバーするため、残り20〜30%は個人貯蓄・投資で補う必要がある。"
+  },
+  {
+    "id": 11,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "「お金の時間的価値」とは何か。",
+    "options": [
+      {
+        "text": "インフレにより時間とともに貨幣の価値が下がること",
+        "correct": false
+      },
+      {
+        "text": "現在の手元のお金は、将来の同額より価値が高いこと",
+        "correct": true
+      },
+      {
+        "text": "金利は常に時間とともに上昇すること",
+        "correct": false
+      },
+      {
+        "text": "通貨は毎年一定率で減価すること",
+        "correct": false
+      }
+    ],
+    "explanation": "お金の時間的価値の原理は、現在の手元のお金は、利子や投資による運用機会があるため、将来の同額より価値が高いことを示す。"
+  },
+  {
+    "id": 12,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "次のうち、税引後所得の20%を貯蓄に回し、残り80%で生活することを推奨するルールはどれか。",
+    "options": [
+      {
+        "text": "50/30/20ルール",
+        "correct": false
+      },
+      {
+        "text": "80/20ルール",
+        "correct": true
+      },
+      {
+        "text": "4%ルール",
+        "correct": false
+      },
+      {
+        "text": "72の法則",
+        "correct": false
+      }
+    ],
+    "explanation": "80/20ルール（パレートの法則の個人 finance 応用）は、所得の20%を貯蓄・投資に回し、残り80%で生活することを推奨する。50/30/20ルールはより詳細な予算管理フレームワーク。"
+  },
+  {
+    "id": 13,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "予算管理における「50/30/20ルール」は何を推奨するか。",
+    "options": [
+      {
+        "text": "株式50%、債券30%、現金20%",
+        "correct": false
+      },
+      {
+        "text": "必要経費50%、欲求30%、貯蓄20%",
+        "correct": true
+      },
+      {
+        "text": "貯蓄50%、必要経費30%、欲求20%",
+        "correct": false
+      },
+      {
+        "text": "住居50%、食料30%、交通20%",
+        "correct": false
+      }
+    ],
+    "explanation": "50/30/20ルールは、税引後所得の50%を必要経費（住居・食料・光熱費）、30%を欲求（娯楽・外食）、20%を貯蓄・借入返済に配分する。"
+  },
+  {
+    "id": 14,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "個人ファイナンスにおける「シンキングファンド」とは何か。",
+    "options": [
+      {
+        "text": "時間とともに価値が減少するファンド",
+        "correct": false
+      },
+      {
+        "text": "既知の将来の出費のために少しずつ積み立てる資金",
+        "correct": true
+      },
+      {
+        "text": "緊急時専用の銀行口座",
+        "correct": false
+      },
+      {
+        "text": "高リスクの投資プール",
+        "correct": false
+      }
+    ],
+    "explanation": "シンキングファンドは、車の買い替えや年間保険料など、特定の将来出費に向けて計画的に積み立てる資金。予期せぬ事態に備える緊急資金とは異なる。"
+  },
+  {
+    "id": 15,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "日本の家計統計において、「貯蓄残高対負債残高比率」は何を示すか。",
+    "options": [
+      {
+        "text": "家計ローンの金利",
+        "correct": false
+      },
+      {
+        "text": "家計貯蓄と未払残負債の関係",
+        "correct": true
+      },
+      {
+        "text": "金融資産の税率",
+        "correct": false
+      },
+      {
+        "text": "インフレ調整後の貯蓄リターン",
+        "correct": false
+      }
+    ],
+    "explanation": "貯蓄残高対負債残高比率は、家計の総貯蓄残高と総未払債務を比較する指標。家計の財務健全性とレバレッジの指標として用いられる。"
+  },
+  {
+    "id": 16,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "日本の私立大学4年間の平均的な総費用（学費＋生活費）はどれくらいか。",
+    "options": [
+      {
+        "text": "約200万円",
+        "correct": false
+      },
+      {
+        "text": "約400万円",
+        "correct": false
+      },
+      {
+        "text": "約700〜800万円",
+        "correct": true
+      },
+      {
+        "text": "約1,500万円",
+        "correct": false
+      }
+    ],
+    "explanation": "日本の私立大学4年間は平均約700〜800万円（学費約400万円＋生活費約300〜400万円）。医学部・歯学部は大幅に高額となる。"
+  },
+  {
+    "id": 17,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "次のうち、長期的な成長のために投資を始めるのに最も適したライフステージはどれか。",
+    "options": [
+      {
+        "text": "退職後すぐ",
+        "correct": false
+      },
+      {
+        "text": "可能な限り早く（複利のメリット）",
+        "correct": true
+      },
+      {
+        "text": "家を買った後のみ",
+        "correct": false
+      },
+      {
+        "text": "すべての子どもが大学を卒業した後のみ",
+        "correct": false
+      }
+    ],
+    "explanation": "できるだけ早く投資を始めることで、複利の恩恵を最大限に受けられる。少額でも早期から始めることで、数十年で大幅な成長が期待できる。"
+  },
+  {
+    "id": 18,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "「FIREムーブメント（経済的独立・早期リタイア）」は何に基づいているか。",
+    "options": [
+      {
+        "text": "宝くじに当選すること",
+        "correct": false
+      },
+      {
+        "text": "年間支出の25倍を投資すること（4%ルール）",
+        "correct": true
+      },
+      {
+        "text": "多額の相続を受けること",
+        "correct": false
+      },
+      {
+        "text": "60歳で公的年金を受給すること",
+        "correct": false
+      }
+    ],
+    "explanation": "FIREムーブメントは4%ルールを活用：年間生活費の25倍に相当する投資を蓄え、年間4%を引き出す。数学的には30年以上維持可能とされる。"
+  },
+  {
+    "id": 19,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "家計のファイナンシャルプランニングにおいて、「キャッシュフロー表（資金収支表）」の主な目的は何か。",
+    "options": [
+      {
+        "text": "特定時点の総資産を示すこと",
+        "correct": false
+      },
+      {
+        "text": "一定期間の収入と支出を追跡すること",
+        "correct": true
+      },
+      {
+        "text": "相続税の納税義務を計算すること",
+        "correct": false
+      },
+      {
+        "text": "保険の十分性を評価すること",
+        "correct": false
+      }
+    ],
+    "explanation": "キャッシュフロー表は、一定期間のすべての収入源と支出を記録する。バランスシート（スナップショット）とは異なり、家計のお金の動きを示す。"
+  },
+  {
+    "id": 20,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "「純資産比率」とは何を意味するか。",
+    "options": [
+      {
+        "text": "リスクに対する投資リターン",
+        "correct": false
+      },
+      {
+        "text": "（総資産 − 総負債）÷ 総資産",
+        "correct": true
+      },
+      {
+        "text": "年間貯蓄 ÷ 年間所得",
+        "correct": false
+      },
+      {
+        "text": "負債 ÷ 月間所得",
+        "correct": false
+      }
+    ],
+    "explanation": "純資産比率＝（総資産−総負債）÷総資産。比率が高いほど財務健全性が高く、1.0は無借金、0.5未満は過剰レバレッジの可能性を示す。"
+  },
+  {
+    "id": 21,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "次のうち、日本の政府調査で家計の収入・支出パターンを包括的に把握するものはどれか。",
+    "options": [
+      {
+        "text": "国勢調査",
+        "correct": false
+      },
+      {
+        "text": "家計調査",
+        "correct": true
+      },
+      {
+        "text": "賃金構造基本統計調査",
+        "correct": false
+      },
+      {
+        "text": "労働力調査",
+        "correct": false
+      }
+    ],
+    "explanation": "家計調査は、総務省統計局が実施し、家計の収入、支出、貯蓄、負債の実態を把握するための基礎資料。"
+  },
+  {
+    "id": 22,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "「ライフスタイルインフレーション」とは何か。",
+    "options": [
+      {
+        "text": "政府政策による生活費の増加",
+        "correct": false
+      },
+      {
+        "text": "収入の増加に伴う生活費の増加で、貯蓄が比例的に増えない傾向",
+        "correct": true
+      },
+      {
+        "text": "時間経過による通貨の自然な減価",
+        "correct": false
+      },
+      {
+        "text": "給料よりも速い不動産価格の高騰",
+        "correct": false
+      }
+    ],
+    "explanation": "ライフスタイルインフレーションは、収入が増えても贅沢品への支出が増え、貯蓄が増えない現象。所得が増えても富の蓄積が進まない原因となる。"
+  },
+  {
+    "id": 23,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "「72の法則」は何に用いられるか。",
+    "options": [
+      {
+        "text": "保険料の計算",
+        "correct": false
+      },
+      {
+        "text": "一定の金利で投資額が2倍になるまでの年数の概算",
+        "correct": true
+      },
+      {
+        "text": "最適な退職年齢の決定",
+        "correct": false
+      },
+      {
+        "text": "税額控除の計算",
+        "correct": false
+      }
+    ],
+    "explanation": "72の法則は、年利を72で割ると投資額が2倍になるまでの年数が概算できる。例：年利6%なら72÷6＝12年、年利8%なら9年。"
+  },
+  {
+    "id": 24,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "ファイナンシャルライフプランニングにおいて、「人的資本」とは何か。",
+    "options": [
+      {
+        "text": "個人の投資の総価値",
+        "correct": false
+      },
+      {
+        "text": "将来の稼得能力の現在価値",
+        "correct": true
+      },
+      {
+        "text": "生命保険の保険金額",
+        "correct": false
+      },
+      {
+        "text": "未払残の教育ローン",
+        "correct": false
+      }
+    ],
+    "explanation": "人的資本は、将来の労働による稼得見込み額の現在価値を表す。若年層では人的資本が金融資本よりはるかに大きく、アセットアロケーションに影響する。"
+  },
+  {
+    "id": 25,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "次のうち、資産、負債、収入、支出を総合的にまとめた家計の財務状況を示す文書はどれか。",
+    "options": [
+      {
+        "text": "確定申告書",
+        "correct": false
+      },
+      {
+        "text": "ファイナンシャルプラン／家計貸借対照表",
+        "correct": true
+      },
+      {
+        "text": "保険商品の概要",
+        "correct": false
+      },
+      {
+        "text": "雇用契約書",
+        "correct": false
+      }
+    ],
+    "explanation": "ファイナンシャルプラン（家計貸借対照表）は、資産、負債、収入源、支出を総合的にまとめ、財務健全性の全体像を示す。計画立案の基礎となる。"
+  },
+  {
+    "id": 26,
+    "category": "life-planning",
+    "categoryLabel": "ライフプランニング",
+    "question": "日本における退職夫婦の平均的な月間生活費（住居費を除く）はどれくらいか。",
+    "options": [
+      {
+        "text": "約10万円",
+        "correct": false
+      },
+      {
+        "text": "約15万円",
+        "correct": false
+      },
+      {
+        "text": "約22〜24万円",
+        "correct": true
+      },
+      {
+        "text": "約35万円",
+        "correct": false
+      }
+    ],
+    "explanation": "総務省の家計調査によると、退職夫婦世帯の月間生活費は約22〜24万円（住居費を除く）。"
+  },
+  {
+    "id": 27,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、年間180万円まで投資益が非課税となる日本の税制優遇投資口座（2024年時点）はどれか。",
+    "options": [
+      {
+        "text": "iDeCo（個人型確定拠出年金）",
+        "correct": false
+      },
+      {
+        "text": "新NISA（少額投資非課税制度）",
+        "correct": true
+      },
+      {
+        "text": "つみたてNISA",
+        "correct": false
+      },
+      {
+        "text": "一般NISA",
+        "correct": false
+      }
+    ],
+    "explanation": "新NISA（2024年1月開始）は、年間投資上限180万円（成長投資枠120万円＋つみたて投資枠60万円）で、すべての投資益が恒久的に非課税となる。"
+  },
+  {
+    "id": 28,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "iDeCoとNISAの最大の違いは何か。",
+    "options": [
+      {
+        "text": "NISAには引き出しペナルティがある、iDeCoにはない",
+        "correct": false
+      },
+      {
+        "text": "iDeCoは掛金全額が所得控除になる、NISAはならない",
+        "correct": true
+      },
+      {
+        "text": "iDeCoは株式取引が可能、NISAは不可",
+        "correct": false
+      },
+      {
+        "text": "NISAは年間上限がない、iDeCoにはある",
+        "correct": false
+      }
+    ],
+    "explanation": "iDeCoの掛金は全額所得控除の対象となり、所得税・住民税が軽減される。NISAは所得控除はないが、運用益と売却益が非課税となる。"
+  },
+  {
+    "id": 29,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、多数の投資家から資金を集めて専門のファンドマネージャーが運用する投資商品はどれか。",
+    "options": [
+      {
+        "text": "個別株（株式）",
+        "correct": false
+      },
+      {
+        "text": "投資信託",
+        "correct": true
+      },
+      {
+        "text": "国債",
+        "correct": false
+      },
+      {
+        "text": "定期預金",
+        "correct": false
+      }
+    ],
+    "explanation": "投資信託は、多数の投資家から資金を集め、ファンドマネージャーがファンドの運用方針に従って各種資産に投資する。"
+  },
+  {
+    "id": 30,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、日本国債（JGB）の特徴として正しいものはどれか。",
+    "options": [
+      {
+        "text": "高リターン・高リスク",
+        "correct": false
+      },
+      {
+        "text": "日本政府保証で非常に低リスク",
+        "correct": true
+      },
+      {
+        "text": "機関投資家のみ利用可能",
+        "correct": false
+      },
+      {
+        "text": "最低10年間保有しなければならない",
+        "correct": false
+      }
+    ],
+    "explanation": "日本国債は日本政府の信用で発行されるため、最も安全な投資の一つ。リターンは低いが信用リスクは最小限。"
+  },
+  {
+    "id": 31,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「FX（外国為替証拠金取引）」とは何か。",
+    "options": [
+      {
+        "text": "銀行で現物の外貨を買うこと",
+        "correct": false
+      },
+      {
+        "text": "証拠金とレバレッジを使った通貨ペア取引",
+        "correct": true
+      },
+      {
+        "text": "外国国債のみに投資すること",
+        "correct": false
+      },
+      {
+        "text": "輸入事業の為替リスクヘッジ",
+        "correct": false
+      }
+    ],
+    "explanation": "FXは証拠金を預託し、レバレッジ（日本では最大25倍）を使って通貨ペアを売買する。高いリターンが期待できる反面、損失が証拠金を超えるリスクもある。"
+  },
+  {
+    "id": 32,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「REIT（不動産投資信託）」とは何か。",
+    "options": [
+      {
+        "text": "不動産購入用の投資ローン",
+        "correct": false
+      },
+      {
+        "text": "収益不動産を所有・管理する上場企業",
+        "correct": true
+      },
+      {
+        "text": "初めての住宅購入者向けの政府プログラム",
+        "correct": false
+      },
+      {
+        "text": "不動産に関する税額控除",
+        "correct": false
+      }
+    ],
+    "explanation": "REIT（J-REIT）は、収益不動産を所有・運営する上場企業。投資家は株式を購入することで配当所得を得られ、不動産を直接所有する必要がない。"
+  },
+  {
+    "id": 33,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、日本の預金口座の中で最も金利が高いものはどれか。",
+    "options": [
+      {
+        "text": "普通預金",
+        "correct": false
+      },
+      {
+        "text": "定期預金",
+        "correct": true
+      },
+      {
+        "text": "当座預金",
+        "correct": false
+      },
+      {
+        "text": "普通預金口座",
+        "correct": false
+      }
+    ],
+    "explanation": "定期預金は、一定期間資金が拘束されるため、普通預金より高い金利が適用される。当座預金は通常無利息。"
+  },
+  {
+    "id": 34,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "投資信託の「定期購入（スキップ定期買い）」とは何か。",
+    "options": [
+      {
+        "text": "税免除を確認する通知",
+        "correct": false
+      },
+      {
+        "text": "定期的に一定額で投資信託を自動購入する仕組み",
+        "correct": false
+      },
+      {
+        "text": "投資信託の「定額購入」プラン",
+        "correct": true
+      },
+      {
+        "text": "投資購入のクーリングオフ期間",
+        "correct": false
+      }
+    ],
+    "explanation": "定期購入（スイッチング定額購入など）は、投資信託を定期的に一定金額で自動購入する仕組み。市場タイミングに依存せず、長期的な資産形成に適している。"
+  },
+  {
+    "id": 35,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「つみたてNISA」は何を重視しているか。",
+    "options": [
+      {
+        "text": "個別株への大型一括投資",
+        "correct": false
+      },
+      {
+        "text": "長期的な投資信託への定期的な少額投資",
+        "correct": true
+      },
+      {
+        "text": "通貨のデイトレード",
+        "correct": false
+      },
+      {
+        "text": "短期債券投資",
+        "correct": false
+      }
+    ],
+    "explanation": "つみたてNISAは、分散投資された投資信託に定期的に少額投資（例：月額）することを想定。投機的な取引ではなく、長期的な規律ある投資を促す。"
+  },
+  {
+    "id": 36,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "日本におけるFX証拠金取引の最大レバレッジはどれか。",
+    "options": [
+      {
+        "text": "100倍",
+        "correct": false
+      },
+      {
+        "text": "50倍",
+        "correct": false
+      },
+      {
+        "text": "25倍",
+        "correct": true
+      },
+      {
+        "text": "10倍",
+        "correct": false
+      }
+    ],
+    "explanation": "日本の金融規制では、FX証拠金取引のレバレッジは最大25倍に制限されている。これは個人投資家保護のための措置で、海外ブローカーの100倍超とは大きく異なる。"
+  },
+  {
+    "id": 37,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、「デリバティブ（派生商品）」に分類されるものはどれか。",
+    "options": [
+      {
+        "text": "国債",
+        "correct": false
+      },
+      {
+        "text": "先物取引",
+        "correct": true
+      },
+      {
+        "text": "普通銀行預金",
+        "correct": false
+      },
+      {
+        "text": "インデックスファンド",
+        "correct": false
+      }
+    ],
+    "explanation": "デリバティブは、原資産の価値から派生する金融商品。先物取引、オプション、スワップなどが含まれる。"
+  },
+  {
+    "id": 38,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "投資信託において「NAV（純資産価値）」とは何か。",
+    "options": [
+      {
+        "text": "ファンドの投資家総数",
+        "correct": false
+      },
+      {
+        "text": "総資産から負債を差し引き、 outstanding 単位数で割ったもの",
+        "correct": true
+      },
+      {
+        "text": "年間の管理手数料",
+        "correct": false
+      },
+      {
+        "text": "最低投資金額",
+        "correct": false
+      }
+    ],
+    "explanation": "NAV（基準価額）＝（総資産−総負債）÷発行済受益権総数。ファンドの1口当たりの価値を表し、市場状況に応じて変動する。"
+  },
+  {
+    "id": 39,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「MMF（マネーマーケットファンド）」とは何か。",
+    "options": [
+      {
+        "text": "技術株に専門投資するファンド",
+        "correct": false
+      },
+      {
+        "text": "短期の高信用品質の投資対象に投資するファンド",
+        "correct": true
+      },
+      {
+        "text": "政府貯蓄債券",
+        "correct": false
+      },
+      {
+        "text": "銀行の定期預金",
+        "correct": false
+      }
+    ],
+    "explanation": "MMFは、短期国債やコマーシャルペーパーなど短期の高品質債務証券に投資する。安定した基準価額を維持しつつ、預金よりやや高いリターンを目指す。"
+  },
+  {
+    "id": 40,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「ドルコスト平均法（積立投資）」とは何か。",
+    "options": [
+      {
+        "text": "市場下落時に一括投資すること",
+        "correct": false
+      },
+      {
+        "text": "価格に関わらず定額を定期的に投資すること",
+        "correct": true
+      },
+      {
+        "text": "全投資をドルに換えること",
+        "correct": false
+      },
+      {
+        "text": "価格が最安のときにのみ買うこと",
+        "correct": false
+      }
+    ],
+    "explanation": "ドルコスト平均法は、一定金額を定期的に投資する手法。価格が高いときは口数が少なく、安いときは多く購入でき、長期的に平均購入単価を平準化する。"
+  },
+  {
+    "id": 41,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、信用リスクが最も高い債券はどれか。",
+    "options": [
+      {
+        "text": "日本国債",
+        "correct": false
+      },
+      {
+        "text": "BBB格の社債",
+        "correct": true
+      },
+      {
+        "text": "地方公共団体保証の地方債",
+        "correct": false
+      },
+      {
+        "text": "政府保証機関債",
+        "correct": false
+      }
+    ],
+    "explanation": "BBB格（最低投資適格級）の社債が、選択肢の中で最も高い信用リスクを持つ。日本国債は主権リスクとして最も低い。リスクが高いほど高い利回りが要求される。"
+  },
+  {
+    "id": 42,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "日本の金融商品における「クーリングオフ期間」とは何か。",
+    "options": [
+      {
+        "text": "投資をキャンセルできる30日間",
+        "correct": false
+      },
+      {
+        "text": "訪問販売での契約を8日以内にキャンセルできる期間",
+        "correct": true
+      },
+      {
+        "text": "口座開設前の必須待機期間",
+        "correct": false
+      },
+      {
+        "text": "クレジットカード申込から受取までの期間",
+        "correct": false
+      }
+    ],
+    "explanation": "日本のクーリングオフ制度は、訪問販売による契約を8日以内に無条件で解除できる権利を消費者に保障する。金融商品の消費者保護措置の一つ。"
+  },
+  {
+    "id": 43,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、ゆうちょ銀行（郵便貯金）について正しいものはどれか。",
+    "options": [
+      {
+        "text": "民間銀行の製品",
+        "correct": false
+      },
+      {
+        "text": "預金者1人あたり1金融機関あたり上限額で政府が保証",
+        "correct": false
+      },
+      {
+        "text": "ゆうちょ銀行の預金は預金保険機構に保護されている",
+        "correct": true
+      },
+      {
+        "text": "定期預金のみを提供",
+        "correct": false
+      }
+    ],
+    "explanation": "ゆうちょ銀行も預金保険機構の保護対象であり、1預金者あたり1金融機関につき元金1,000万円とその利息までが保護される。"
+  },
+  {
+    "id": 44,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「ETF（上場投資信託）」とは何か。",
+    "options": [
+      {
+        "text": "政府貯蓄債券の一種",
+        "correct": false
+      },
+      {
+        "text": "指標を追跡し、個別株のように市場で取引されるファンド",
+        "correct": true
+      },
+      {
+        "text": "銀行発行の証明預金",
+        "correct": false
+      },
+      {
+        "text": "為替リスク対策の保険商品",
+        "correct": false
+      }
+    ],
+    "explanation": "ETFは、特定の指標（日経225やTOPIXなど）を追跡し、市場価格で取引所上場されるファンド。分散投資と流動性を提供する。"
+  },
+  {
+    "id": 45,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "日本の「預金保険制度」とは何か。",
+    "options": [
+      {
+        "text": "銀行強盗保険",
+        "correct": false
+      },
+      {
+        "text": "預金者1人あたり1金融機関につき1,000万円まで保証する制度",
+        "correct": true
+      },
+      {
+        "text": "銀行で販売される生命保険商品",
+        "correct": false
+      },
+      {
+        "text": "株式市場の損失に対する政府保険",
+        "correct": false
+      }
+    ],
+    "explanation": "預金保険制度は、1預金者あたり1金融機関につき元金1,000万円とその利息まで、金融機関の破綻時に保護する。"
+  },
+  {
+    "id": 46,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "投資信託の「アクティブ運用」とは何を意味するか。",
+    "options": [
+      {
+        "text": "ファンドが自動的に市場指標を追跡する",
+        "correct": false
+      },
+      {
+        "text": "ファンドマネージャーが市場を上回るための投資判断を行う",
+        "correct": true
+      },
+      {
+        "text": "投資家が毎日ファンド保有分を積極的に取引する",
+        "correct": false
+      },
+      {
+        "text": "ファンドは成長株にのみ投資する",
+        "correct": false
+      }
+    ],
+    "explanation": "アクティブ運用は、ファンドマネージャーが独自の投資判断でベンチマークの成績を上回ることを目指す手法。インデックス運用（受動運用）とは対照的。"
+  },
+  {
+    "id": 47,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "新NISA制度（2024年以降）において、投資が非課税で保有できる期間はどれくらいか。",
+    "options": [
+      {
+        "text": "5年",
+        "correct": false
+      },
+      {
+        "text": "10年",
+        "correct": false
+      },
+      {
+        "text": "無期限",
+        "correct": true
+      },
+      {
+        "text": "20年",
+        "correct": false
+      }
+    ],
+    "explanation": "新NISA（2024年1月開始）は、投資を無期限で非課税保有できる。満期やロールオーバーの手続きは不要。生涯非課税限度額は1,800万円。"
+  },
+  {
+    "id": 48,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「債券（利付債）」は本質的に何か。",
+    "options": [
+      {
+        "text": "企業の株式所有権",
+        "correct": false
+      },
+      {
+        "text": "発行体が利子付きで償還を約束する債務証券",
+        "correct": true
+      },
+      {
+        "text": "将来の日付で資産を買う契約",
+        "correct": false
+      },
+      {
+        "text": "デフォルト対策の保険",
+        "correct": false
+      }
+    ],
+    "explanation": "債券は本質的に借用書：発行体（政府または企業）が資金を借り入れ、満期時に元本を返済し、期間中定期的に利子（クーポン）を支払うことを約束する。"
+  },
+  {
+    "id": 49,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "「最終利回り（YTM）」とは何を意味するか。",
+    "options": [
+      {
+        "text": "年間クーポン支払いを額面で割ったもの",
+        "correct": false
+      },
+      {
+        "text": "満期まで保有したときの総リターン",
+        "correct": true
+      },
+      {
+        "text": "債券の現在の市場価格",
+        "correct": false
+      },
+      {
+        "text": "債券発行体の信用評価",
+        "correct": false
+      }
+    ],
+    "explanation": "最終利回り（YTM）は、債券を満期まで保有した場合の年間総リターン。購入価格、クーポン支払い、満期時の額面を考慮して計算される。"
+  },
+  {
+    "id": 50,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "日本の「ラップ口座」とは何か。",
+    "options": [
+      {
+        "text": "保険ラッパー型商品",
+        "correct": false
+      },
+      {
+        "text": "管理手数料が資産に対する定率で一括された投資口座",
+        "correct": true
+      },
+      {
+        "text": "退職貯蓄口座",
+        "correct": false
+      },
+      {
+        "text": "税務申告サービス",
+        "correct": false
+      }
+    ],
+    "explanation": "ラップ口座は、投資運用・執行・保管サービスを資産に対する定率の手数料（通常1〜2%）に一括した投資口座。個別取引ごとのコミッションは不要。"
+  },
+  {
+    "id": 51,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "次のうち、日本で生命保険と別口での投資を組み合わせた金融商品はどれか。",
+    "options": [
+      {
+        "text": "定期生命保険",
+        "correct": false
+      },
+      {
+        "text": "変額生命保険",
+        "correct": true
+      },
+      {
+        "text": "終身生命保険",
+        "correct": false
+      },
+      {
+        "text": "療養保険",
+        "correct": false
+      }
+    ],
+    "explanation": "変額生命保険は、保険料を特別勘定で運用し、その運用成績に応じて死亡保険金や解約返戻金が変動する。"
+  },
+  {
+    "id": 52,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "投資信託の評価において「コホート効果」とは何を指すか。",
+    "options": [
+      {
+        "text": "金利変動が債券価格に与える影響",
+        "correct": false
+      },
+      {
+        "text": "同一ファンドでも投資開始時期によりパフォーマンスが異なること",
+        "correct": true
+      },
+      {
+        "text": "ファンド規模がリターンに与える影響",
+        "correct": false
+      },
+      {
+        "text": "国内ファンドと海外ファンドのリターン差",
+        "correct": false
+      }
+    ],
+    "explanation": "コホート効果は、同じファンドでも投資開始時期の市場環境が異なるため、異なるタイミングで始めた投資家間でリターンに大きな差が生じる現象を指す。"
+  },
+  {
+    "id": 53,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "新NISAの生涯非課税限度額はいくらか。",
+    "options": [
+      {
+        "text": "600万円",
+        "correct": false
+      },
+      {
+        "text": "1,200万円",
+        "correct": false
+      },
+      {
+        "text": "1,800万円",
+        "correct": true
+      },
+      {
+        "text": "2,400万円",
+        "correct": false
+      }
+    ],
+    "explanation": "新NISAの生涯非課税限度額は1人あたり1,800万円。成長投資枠1,200万円＋つみたて投資枠600万円。未使用の年間枠は繰り越されない。"
+  },
+  {
+    "id": 54,
+    "category": "products",
+    "categoryLabel": "金融商品",
+    "question": "日本における「短期国債（TB）」とは何か。",
+    "options": [
+      {
+        "text": "20年満期の長期債券",
+        "correct": false
+      },
+      {
+        "text": "政府発行の1年以内満期の割引債",
+        "correct": true
+      },
+      {
+        "text": "政府保証付き社債",
+        "correct": false
+      },
+      {
+        "text": "非課税地方債",
+        "correct": false
+      }
+    ],
+    "explanation": "短期国債は、満期が3ヶ月、6ヶ月、または12ヶ月の政府短期証券。額面を割り引いて発行され、クーポン利子は支払われない。"
+  },
+  {
+    "id": 55,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "次のうち、保険期間中に被保険者が死亡した場合は死亡保険金を、満了時に被保険者が生存していた場合は満期保険金を支払う生命保険はどれか。",
+    "options": [
+      {
+        "text": "定期生命保険",
+        "correct": false
+      },
+      {
+        "text": "養老保険",
+        "correct": true
+      },
+      {
+        "text": "終身生命保険",
+        "correct": false
+      },
+      {
+        "text": "療養保険",
+        "correct": false
+      }
+    ],
+    "explanation": "養老保険は、保険期間中被保険者が死亡した場合は死亡保険金を支給し、満了時まで生存した場合は満期保険金（ボーナス付き）を支給する。"
+  },
+  {
+    "id": 56,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "日本の社会保険における医療保険（健康保険）の主な目的は何か。",
+    "options": [
+      {
+        "text": "入院中の逸失収入を補填するため",
+        "correct": false
+      },
+      {
+        "text": "疾病や負傷の診療費を負担するため",
+        "correct": true
+      },
+      {
+        "text": "退職後の収入を提供するため",
+        "correct": false
+      },
+      {
+        "text": "葬儀費を負担するため",
+        "correct": false
+      }
+    ],
+    "explanation": "医療保険（健康保険）は、加入者が疾病や負傷により医療機関を受診した際の医療費の一部（3〜69歳は原則3割負担）をカバーする。"
+  },
+  {
+    "id": 57,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "終身生命保険において、「払済済（はらいすみ）」とは何か。",
+    "options": [
+      {
+        "text": "保険が満期返金された",
+        "correct": false
+      },
+      {
+        "text": "保険料の支払いを停止したが縮小保障が継続",
+        "correct": true
+      },
+      {
+        "text": "死亡給付金が支払済み",
+        "correct": false
+      },
+      {
+        "text": "保険が定期保険に変更された",
+        "correct": false
+      }
+    ],
+    "explanation": "払済済状態は、保険料の支払いを停止しても、保険契約が蓄積された解約返戻金で維持され、削減された死亡保障が継続する状態。"
+  },
+  {
+    "id": 58,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "次のうち、損害保険の対象とならないものはどれか。",
+    "options": [
+      {
+        "text": "自動車事故",
+        "correct": false
+      },
+      {
+        "text": "火災による財物の損害",
+        "correct": false
+      },
+      {
+        "text": "疾病による死亡（生命保険の対象）",
+        "correct": true
+      },
+      {
+        "text": "旅行中の事故",
+        "correct": false
+      }
+    ],
+    "explanation": "損害保険は、財物の損害、賠償責任、自動車、旅行などのリスクをカバーする。疾病や自然死は生命保険の対象となる。"
+  },
+  {
+    "id": 59,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "自動車保険の「対人賠償責任保険」とは何か。",
+    "options": [
+      {
+        "text": "自車の損害を補償する保険",
+        "correct": false
+      },
+      {
+        "text": "他人に対する傷害・死亡を補償する強制保険",
+        "correct": true
+      },
+      {
+        "text": "自車の盗難保険",
+        "correct": false
+      },
+      {
+        "text": "自身の診療費を補償する保険",
+        "correct": false
+      }
+    ],
+    "explanation": "自賠責保険（対人賠償責任保険）は日本で加入が義務付けられている。被保険者が第三者に与った傷害・死亡・財物損害を補償する。"
+  },
+  {
+    "id": 60,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "次のうち、がんの診断時に一括金が支払われる保険商品はどれか。",
+    "options": [
+      {
+        "text": "定期生命保険",
+        "correct": false
+      },
+      {
+        "text": "がん保険",
+        "correct": true
+      },
+      {
+        "text": "所得保障保険",
+        "correct": false
+      },
+      {
+        "text": "損害保険",
+        "correct": false
+      }
+    ],
+    "explanation": "がん保険は、がんの診断確定時に一括保険金を支払い、入院・手術・通院に関する給付金も追加で受け取れる。"
+  },
+  {
+    "id": 61,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "日本の保険契約における「契約者保障期間（クーリングオフ）」とは何か。",
+    "options": [
+      {
+        "text": "保険料が免除される30日間",
+        "correct": false
+      },
+      {
+        "text": "保険証券受領後8日間で全額返金可能な期間",
+        "correct": true
+      },
+      {
+        "text": "退職後に保険料が減額される期間",
+        "correct": false
+      },
+      {
+        "text": "新規保険の最初の6ヶ月間",
+        "correct": false
+      }
+    ],
+    "explanation": "クーリングオフ（契約書面交付）期間は、日本では保険証券受領後8日間。この期間内に申し出れば契約を解除し、保険料の全額返金を受けられる。"
+  },
+  {
+    "id": 62,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "一般従業員の健康保険（社会保険）保険料率は給与の概ねどれくらいか。",
+    "options": [
+      {
+        "text": "給与の約3%",
+        "correct": false
+      },
+      {
+        "text": "給与の約5%",
+        "correct": true
+      },
+      {
+        "text": "給与の約10%",
+        "correct": false
+      },
+      {
+        "text": "給与の約15%",
+        "correct": false
+      }
+    ],
+    "explanation": "従業員の健康保険料は給与の約5%（事業主と折半、各約2.5%）。ただし健康保険組合により正確な料率は異なる。"
+  },
+  {
+    "id": 63,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "「不担保危険（引き受け不可リスク）」とは何を意味するか。",
+    "options": [
+      {
+        "text": "保険料が高すぎて保険できないリスク",
+        "correct": false
+      },
+      {
+        "text": "保険の原理に反するため保険できないリスク",
+        "correct": true
+      },
+      {
+        "text": "政府保険のみが対象となるリスク",
+        "correct": false
+      },
+      {
+        "text": "誰も保険したくないリスク",
+        "correct": false
+      }
+    ],
+    "explanation": "不担保危険は、保険の基本原理に違反するリスク。不可避、偶然性がない、損失が無限大など。戦争、核災害、故意の行為などが該当する。"
+  },
+  {
+    "id": 64,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "日本の地震保険制度における最大補償額はどれくらいか。",
+    "options": [
+      {
+        "text": "1,000万円",
+        "correct": false
+      },
+      {
+        "text": "3,000万円",
+        "correct": false
+      },
+      {
+        "text": "5,000万円",
+        "correct": true
+      },
+      {
+        "text": "1億円",
+        "correct": false
+      }
+    ],
+    "explanation": "地震保険は、建物1物件につき5,000万円、家財1世帯につき1,000万円が上限。地震・噴火・津波による火災・損壊・消失を補償する。"
+  },
+  {
+    "id": 65,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "「保険料払込免除特約」とは何か。",
+    "options": [
+      {
+        "text": "死亡保障を削減して保険料を下げる特約",
+        "correct": false
+      },
+      {
+        "text": "被保険者が障害状態となった場合、将来の保険料の支払いが免除される特約",
+        "correct": true
+      },
+      {
+        "text": "定期保険を終身保険に変更する特約",
+        "correct": false
+      },
+      {
+        "text": "追加の事故死亡保障を提供する特約",
+        "correct": false
+      }
+    ],
+    "explanation": "保険料払込免除特約は、被保険者が所定の障害状態（所定の重度障害状態など）となった場合、将来の保険料の支払いが免除され、保障が継続する。"
+  },
+  {
+    "id": 66,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "生命保険における「死亡率料（死亡保障料）」とは何か。",
+    "options": [
+      {
+        "text": "死亡保険金請求の手数料",
+        "correct": false
+      },
+      {
+        "text": "被保険者の年齢とリスクに基づく保険保障の費用",
+        "correct": true
+      },
+      {
+        "text": "保険金支払いに対する税金",
+        "correct": false
+      },
+      {
+        "text": "契約維持の管理手数料",
+        "correct": false
+      }
+    ],
+    "explanation": "死亡率料は、被保険者の年齢、性別、健康状態、保障額に基づいて計算される純粋な保険保障の費用。年齢とともに死亡リスクが高まるため増加する。"
+  },
+  {
+    "id": 67,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "次のうち、契約者が病気やケガで働けなくなった場合の所得代替を目的とする保険はどれか。",
+    "options": [
+      {
+        "text": "定期生命保険",
+        "correct": false
+      },
+      {
+        "text": "所得保障保険（障害所得保険）",
+        "correct": true
+      },
+      {
+        "text": "がん保険",
+        "correct": false
+      },
+      {
+        "text": "火災保険",
+        "correct": false
+      }
+    ],
+    "explanation": "所得保障保険は、契約者が疾病やケガで働けなくなった場合、定期的に月額給付金を支払う。通常、障害前所得の50〜60%をカバーする。"
+  },
+  {
+    "id": 68,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "「保険利益」とは何か。",
+    "options": [
+      {
+        "text": "保険会社が利益を上げるための条件",
+        "correct": false
+      },
+      {
+        "text": "保険事故が発生した場合に被保険者が被る経済的損失が存在すること",
+        "correct": true
+      },
+      {
+        "text": "保険会社に十分な準備金があること",
+        "correct": false
+      },
+      {
+        "text": "契約に最低保険金額があること",
+        "correct": false
+      }
+    ],
+    "explanation": "保険利益は、被保険事故が発生した場合に保険契約者が現実的な経済的損失を被る必要があるという原則。他人の命を賭けの対象にすることを防ぐ。"
+  },
+  {
+    "id": 69,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "次のうち、予想されるリターンの低下により人気が低下している日本の生命保険はどれか。",
+    "options": [
+      {
+        "text": "定期生命保険",
+        "correct": false
+      },
+      {
+        "text": "養老保険",
+        "correct": true
+      },
+      {
+        "text": "医療保険",
+        "correct": false
+      },
+      {
+        "text": "がん保険",
+        "correct": false
+      }
+    ],
+    "explanation": "養老保険は、長期低金利により満期時の保険金が魅力を失い、定期保険と投資を組み合わせる戦略に比べて人気が低下している。"
+  },
+  {
+    "id": 70,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "保険における「猶予期間」とは何か。",
+    "options": [
+      {
+        "text": "保険カバレッジが開始されるまでの期間",
+        "correct": false
+      },
+      {
+        "text": "保険料の未払い後も保障が継続する期間",
+        "correct": true
+      },
+      {
+        "text": "事故発生後の請求期間",
+        "correct": false
+      },
+      {
+        "text": "既存の疾患がカバーされるまでの待機期間",
+        "correct": false
+      }
+    ],
+    "explanation": "猶予期間（通常生命保険では1ヶ月）は、保険料の支払いが遅れても保障が継続する期間。猶予期間中の事故は、未払保険料が支払われることが条件で有効。"
+  },
+  {
+    "id": 71,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "「ユニバーサル生命保険」とは何か。",
+    "options": [
+      {
+        "text": "健康状態に関わらず誰でも加入できる保険",
+        "correct": false
+      },
+      {
+        "text": "柔軟な保険料と調整可能な死亡保障を備えた保険アカウント",
+        "correct": true
+      },
+      {
+        "text": "政府助成の生命保険プログラム",
+        "correct": false
+      },
+      {
+        "text": "すべてのリスクをカバーする保険",
+        "correct": false
+      }
+    ],
+    "explanation": "ユニバーサル生命保険は、死亡保障と貯蓄要素を組み合わせた商品。保険料は柔軟で、死亡保険金額を調整可能。貯蓄部分は所定利率で利息を得る。"
+  },
+  {
+    "id": 72,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "医療保険における「待機期間」とは何を意味するか。",
+    "options": [
+      {
+        "text": "申込から承認までの期間",
+        "correct": false
+      },
+      {
+        "text": "加入後一定期間は特定の条件が補償対象外となる期間",
+        "correct": true
+      },
+      {
+        "text": "入院治療を受けるまでの待機時間",
+        "correct": false
+      },
+      {
+        "text": "保険料が利息を得るまでの期間",
+        "correct": false
+      }
+    ],
+    "explanation": "待機期間（民間医療保険では通常90日間）は、契約開始後に既存の疾患や特定の条件に関する請求が補償されない期間。"
+  },
+  {
+    "id": 73,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "保険における「代位（求償）」とは何か。",
+    "options": [
+      {
+        "text": "保険者が保険金を支払った後、損失の原因となった第三者に対して求償する権利",
+        "correct": true
+      },
+      {
+        "text": "別の保険会社へ契約を移す手続き",
+        "correct": false
+      },
+      {
+        "text": "過去の請求履歴に基づく保険料の割引",
+        "correct": false
+      },
+      {
+        "text": "保険会社による契約解除",
+        "correct": false
+      }
+    ],
+    "explanation": "代位は、保険会社が保険金を支払った後、損失の原因となった第三者から回収する権利。被保険者の二重受取りを防ぐ。"
+  },
+  {
+    "id": 74,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "次のうち、自賠責保険（自動車損害賠償責任保険）の補償対象はどれか。",
+    "options": [
+      {
+        "text": "契約者自身の車両の損害",
+        "correct": false
+      },
+      {
+        "text": "被保険者が第三者に与えた傷害または死亡",
+        "correct": true
+      },
+      {
+        "text": "契約者自身の車両の盗難",
+        "correct": false
+      },
+      {
+        "text": "自然災害による契約者車両の損害",
+        "correct": false
+      }
+    ],
+    "explanation": "自賠責保険は、被保険者が第三者に与えた傷害と死亡のみを補償する。財物損害や自車の損害は任意保険でカバーする必要がある。"
+  },
+  {
+    "id": 75,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "「傷害保険（個人傷害保険）」とは何か。",
+    "options": [
+      {
+        "text": "外部の突発的な事故による死亡・障害を補償する保険",
+        "correct": true
+      },
+      {
+        "text": "疾病に関連する医療費を補償する保険",
+        "correct": false
+      },
+      {
+        "text": "被保険者に対する賠償請求を補償する保険",
+        "correct": false
+      },
+      {
+        "text": "財物損害を補償する保険",
+        "correct": false
+      }
+    ],
+    "explanation": "傷害保険は、外部の突発的で予期せぬ事故による死亡および障害を補償する。疾病は対象外で、医療保険がカバーする。"
+  },
+  {
+    "id": 76,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "日本の地震保険制度において、最終的な再保険者はどれか。",
+    "options": [
+      {
+        "text": "民間保険会社",
+        "correct": false
+      },
+      {
+        "text": "日本政府",
+        "correct": true
+      },
+      {
+        "text": "日本銀行",
+        "correct": false
+      },
+      {
+        "text": "東京海上日動火災保険",
+        "correct": false
+      }
+    ],
+    "explanation": "日本の地震保険制度は、民間保険会社が一次引受し、日本地震再保険株式会社（JER）がリスクを分散し、政府が巨大災害の最終再保険者となる。"
+  },
+  {
+    "id": 77,
+    "category": "insurance",
+    "categoryLabel": "保険",
+    "question": "「保険」と「保証」の違いは何か。",
+    "options": [
+      {
+        "text": "保険は不動産のみ、保証は人のみをカバー",
+        "correct": false
+      },
+      {
+        "text": "保険は発生するかもしれない事象をカバー、保証は必ず発生する事象をカバー",
+        "correct": true
+      },
+      {
+        "text": "違いはない、同義である",
+        "correct": false
+      },
+      {
+        "text": "保険は政府提供、保証は民間提供",
+        "correct": false
+      }
+    ],
+    "explanation": "保険は偶発的な事象（火災、事故など）をカバーし、保証は最終的に必ず発生する事象（終身保険における死亡など）をカバーする。"
+  },
+  {
+    "id": 78,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の給与所得控除額はいくらか。",
+    "options": [
+      {
+        "text": "48万円",
+        "correct": true
+      },
+      {
+        "text": "65万円",
+        "correct": false
+      },
+      {
+        "text": "38万円",
+        "correct": false
+      },
+      {
+        "text": "100万円",
+        "correct": false
+      }
+    ],
+    "explanation": "給与所得控除額は48万円。給与収入から所得控除を差し引いて課税所得を計算する際に適用される。実際の経費に関わらず一律で適用される。"
+  },
+  {
+    "id": 79,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の消費税率はいくらか。",
+    "options": [
+      {
+        "text": "5%",
+        "correct": false
+      },
+      {
+        "text": "8%",
+        "correct": false
+      },
+      {
+        "text": "10%",
+        "correct": true
+      },
+      {
+        "text": "15%",
+        "correct": false
+      }
+    ],
+    "explanation": "日本の消費税率は10%（2019年10月以降）。食品（飲食店を除く）と定期購読の新聞には軽減税率8%が適用される。"
+  },
+  {
+    "id": 80,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "「配偶者特別控除」の最大控除額はいくらか。",
+    "options": [
+      {
+        "text": "38万円",
+        "correct": true
+      },
+      {
+        "text": "48万円",
+        "correct": false
+      },
+      {
+        "text": "76万円",
+        "correct": false
+      },
+      {
+        "text": "96万円",
+        "correct": false
+      }
+    ],
+    "explanation": "配偶者特別控除の最大額は38万円。配偶者の年間所得が95万円（給与収入150万円以下）で、納税者の所得が一定金額以下の場合に適用される。"
+  },
+  {
+    "id": 81,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "次のうち、日本で確定申告が必要な所得はどれか。",
+    "options": [
+      {
+        "text": "1つの勤務先のみの給与所得",
+        "correct": false
+      },
+      {
+        "text": "年間20万円を超える不動産所得",
+        "correct": false
+      },
+      {
+        "text": "20万円を超えるフリーランス・コンサルティング所得",
+        "correct": true
+      },
+      {
+        "text": "銀行預金の利子所得",
+        "correct": false
+      }
+    ],
+    "explanation": "雑所得（フリーランス・コンサルティング）が年間20万円を超える場合は確定申告が必要。1社のみの給与は年末調整で処理される。預金利息は源泉分離課税の対象。"
+  },
+  {
+    "id": 82,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本における「青色申告」のメリットは何か。",
+    "options": [
+      {
+        "text": "すべての所得の税率が下がる",
+        "correct": false
+      },
+      {
+        "text": "正規の簿記で記帳している場合、最大65万円の特別控除",
+        "correct": true
+      },
+      {
+        "text": "申告期限が1ヶ月延長される",
+        "correct": false
+      },
+      {
+        "text": "毎年自動的に税金が還付される",
+        "correct": false
+      }
+    ],
+    "explanation": "青色申告は、事前承認の帳簿に基づき課税所得から最大65万円の特別控除を受けられる。また、青色申告特別控除のほか、純損失の繰越控除（青色は10年）などのメリットがある。"
+  },
+  {
+    "id": 83,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の相続税の基礎控除額はどれか。",
+    "options": [
+      {
+        "text": "法定相続人×30万円",
+        "correct": false
+      },
+      {
+        "text": "法定相続人×300万円",
+        "correct": false
+      },
+      {
+        "text": "3,000万円＋法定相続人×600万円",
+        "correct": true
+      },
+      {
+        "text": "5,000万円の一律額",
+        "correct": false
+      }
+    ],
+    "explanation": "相続税の基礎控除は「3,000万円＋600万円×法定相続人数」で計算される。課税遺産総額がこの金額以下であれば相続税は課されない。"
+  },
+  {
+    "id": 84,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の贈与税の基礎控除（年間1人あたり）はいくらか。",
+    "options": [
+      {
+        "text": "年間110万円",
+        "correct": true
+      },
+      {
+        "text": "年間200万円",
+        "correct": false
+      },
+      {
+        "text": "年間300万円",
+        "correct": false
+      },
+      {
+        "text": "年間500万円",
+        "correct": false
+      }
+    ],
+    "explanation": "暦年課税における贈与税の基礎控除は、贈与者1人あたり受贈者1人につき年間110万円。110万円を超える贈与には10%から55%までの累進税率が適用される。"
+  },
+  {
+    "id": 85,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "「教育資金贈与の特例」の年間上限額はいくらか。",
+    "options": [
+      {
+        "text": "子1人あたり年間50万円",
+        "correct": false
+      },
+      {
+        "text": "子1人あたり年間110万円",
+        "correct": false
+      },
+      {
+        "text": "孫1人あたり年間150万円",
+        "correct": true
+      },
+      {
+        "text": "孫1人あたり年間300万円",
+        "correct": false
+      }
+    ],
+    "explanation": "教育資金贈与の特例では、祖父母から孫1人あたり年間150万円まで教育資金を非課税で贈与できる（一般の110万円基礎控除とは別枠）。"
+  },
+  {
+    "id": 86,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の「所得税」とは何か。",
+    "options": [
+      {
+        "text": "すべての資産に対する税金",
+        "correct": false
+      },
+      {
+        "text": "1暦年に得た個人所得に対する国税",
+        "correct": true
+      },
+      {
+        "text": "市町村に支払う地方税",
+        "correct": false
+      },
+      {
+        "text": "法人の利益に対するのみの税金",
+        "correct": false
+      }
+    ],
+    "explanation": "所得税は、1暦年（1月1日〜12月31日）に得た個人所得に対する国税。5%から45%の累進税率に加え、復興特別所得税2.1%が課される。"
+  },
+  {
+    "id": 87,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の住民税の税率はどれか。",
+    "options": [
+      {
+        "text": "全国一律5%",
+        "correct": false
+      },
+      {
+        "text": "市町村4%＋都道府県6%＝10%一律",
+        "correct": false
+      },
+      {
+        "text": "市町村6%＋都道府県4%＝課税所得に対し10%一律",
+        "correct": true
+      },
+      {
+        "text": "5%から20%の累進税率",
+        "correct": false
+      }
+    ],
+    "explanation": "住民税は課税所得に対し一律10%：市町村（市区町村）へ6%、都道府県へ4%。所得税とは異なり累進課税ではなく一律税率。"
+  },
+  {
+    "id": 88,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の医療費控除の要件はどれか。",
+    "options": [
+      {
+        "text": "すべての医療費が全額控除される",
+        "correct": false
+      },
+      {
+        "text": "総医療費が10万円（または総所得金額の5%のいずれか少ない方）を超える分が控除",
+        "correct": true
+      },
+      {
+        "text": "総医療費が20万円を超える分",
+        "correct": false
+      },
+      {
+        "text": "総所得の10%を問わず控除",
+        "correct": false
+      }
+    ],
+    "explanation": "医療費控除は、年間の総医療費が10万円（または総所得の5%のいずれか少ない方）を超える場合、その超過額が課税所得から控除される。"
+  },
+  {
+    "id": 89,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "次のうち、日本で源泉徴収の対象とならない所得はどれか。",
+    "options": [
+      {
+        "text": "給与所得",
+        "correct": false
+      },
+      {
+        "text": "銀行預金の利子",
+        "correct": false
+      },
+      {
+        "text": "フリーランスのコンサルティング所得",
+        "correct": true
+      },
+      {
+        "text": "上場株式の配当金",
+        "correct": false
+      }
+    ],
+    "explanation": "フリーランス・コンサルティング所得は源泉徴収の対象外。フリーランスは予定納税を行い、確定申告が必要。給与、利子、配当は源泉徴収の対象。"
+  },
+  {
+    "id": 90,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "住宅借入金等特別控除（住宅ローン減税）の最大年間控除額はどれか。",
+    "options": [
+      {
+        "text": "20万円",
+        "correct": false
+      },
+      {
+        "text": "30万円",
+        "correct": false
+      },
+      {
+        "text": "40万円",
+        "correct": false
+      },
+      {
+        "text": "借入残高と物件条件に応じて最大約50万円/年（最長13年間）",
+        "correct": true
+      }
+    ],
+    "explanation": "住宅借入金等特別控除は、年末の住宅ローン残高に応じて所得税が軽減される。一般的に0.7%×13年間、物件の種類や省エネ性能に基づく残高上限あり。"
+  },
+  {
+    "id": 91,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "3,000万円を超える贈与に対する贈与税率はどれか。",
+    "options": [
+      {
+        "text": "30%",
+        "correct": false
+      },
+      {
+        "text": "45%",
+        "correct": false
+      },
+      {
+        "text": "50%",
+        "correct": true
+      },
+      {
+        "text": "55%",
+        "correct": false
+      }
+    ],
+    "explanation": "贈与税は累進税率。3,000万円を超える贈与（110万円基礎控除後）には50%の税率。最大55%は4,500万円超に適用される。"
+  },
+  {
+    "id": 92,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "「課税所得」とは何か。",
+    "options": [
+      {
+        "text": "控除前の総所得",
+        "correct": false
+      },
+      {
+        "text": "総所得から所得控除を差し引いた金額",
+        "correct": true
+      },
+      {
+        "text": "社会保険料のみを差し引いた所得",
+        "correct": false
+      },
+      {
+        "text": "給与所得のみ",
+        "correct": false
+      }
+    ],
+    "explanation": "課税所得＝総所得−所得控除（給与所得控除、社会保険料控除、配偶者控除、扶養控除など）。税額はこの金額に基づいて計算される。"
+  },
+  {
+    "id": 93,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の確定申告の提出期限はいつか。",
+    "options": [
+      {
+        "text": "1月31日",
+        "correct": false
+      },
+      {
+        "text": "2月15日",
+        "correct": false
+      },
+      {
+        "text": "3月15日",
+        "correct": true
+      },
+      {
+        "text": "4月15日",
+        "correct": false
+      }
+    ],
+    "explanation": "確定申告は毎年3月15日までに提出する必要がある。前暦年の所得に対する申告。3月15日が休日に当たる場合は翌営業日が期限。"
+  },
+  {
+    "id": 94,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "「年末調整」とは何をするものか。",
+    "options": [
+      {
+        "text": "会社の年次財務諸表を調整する",
+        "correct": false
+      },
+      {
+        "text": "従業員の毎月の源泉所得税を年間の実際の税額に合わせて精算する",
+        "correct": true
+      },
+      {
+        "text": "社会保険料を再計算する",
+        "correct": false
+      },
+      {
+        "text": "年間ボーナス額を決定する",
+        "correct": false
+      }
+    ],
+    "explanation": "年末調整は、事業主が12月に従業員の給与から毎月源泉徴収した所得税と年間の実際の税負担を精算し、過納分を還付する。"
+  },
+  {
+    "id": 95,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "「住宅取得等資金の贈与税の非課税特例」の最大非課税限度額はいくらか。",
+    "options": [
+      {
+        "text": "父母から子への500万円",
+        "correct": false
+      },
+      {
+        "text": "父母・祖父母から子・孫への1,000万円",
+        "correct": false
+      },
+      {
+        "text": "父母から子への累計1,500万円",
+        "correct": true
+      },
+      {
+        "text": "祖父母からの3,000万円",
+        "correct": false
+      }
+    ],
+    "explanation": "住宅取得資金贈与の特例では、父母・祖父母から子・孫へ住宅取得のために1,000万円までを非課税で贈与できる（一定の条件を満たす場合）。"
+  },
+  {
+    "id": 96,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "「社会保険料控除」とは何か。",
+    "options": [
+      {
+        "text": "すべての社会保険料の全額控除",
+        "correct": true
+      },
+      {
+        "text": "社会保険料の50%控除",
+        "correct": false
+      },
+      {
+        "text": "10万円の固定控除",
+        "correct": false
+      },
+      {
+        "text": "控除なし",
+        "correct": false
+      }
+    ],
+    "explanation": "その年に支払った社会保険料（健康保険、年金、雇用保険）の全額が社会保険料控除として課税所得から控除される。"
+  },
+  {
+    "id": 97,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の相続税の最高税率はいくらか。",
+    "options": [
+      {
+        "text": "30%",
+        "correct": false
+      },
+      {
+        "text": "40%",
+        "correct": false
+      },
+      {
+        "text": "50%",
+        "correct": false
+      },
+      {
+        "text": "55%",
+        "correct": true
+      }
+    ],
+    "explanation": "相続税は、法定相続人1人あたり課税遺産額6億円超で最高税率55%。累進税率構造で、3,000万円超から10%でスタートする。"
+  },
+  {
+    "id": 98,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の個人所得税における「寄付金控除」とは何か。",
+    "options": [
+      {
+        "text": "すべての寄付の全額控除",
+        "correct": false
+      },
+      {
+        "text": "（寄付金−2,000円）または特定計算式のいずれか低い額が控除",
+        "correct": true
+      },
+      {
+        "text": "任意の寄付に対する10万円固定控除",
+        "correct": false
+      },
+      {
+        "text": "個人には寄付控除なし",
+        "correct": false
+      }
+    ],
+    "explanation": "認定NPO法人や地方公共団体等への寄付は、（寄付金−2,000円）または所得の一定割合のいずれか低い額が控除される。すべての寄付が対象となるわけではない。"
+  },
+  {
+    "id": 99,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "給与収入850万円の場合の給与所得控除額はいくらか。",
+    "options": [
+      {
+        "text": "154万5,000円",
+        "correct": false
+      },
+      {
+        "text": "245万円",
+        "correct": false
+      },
+      {
+        "text": "275万円",
+        "correct": true
+      },
+      {
+        "text": "300万円",
+        "correct": false
+      }
+    ],
+    "explanation": "給与収入850万円の場合、給与所得控除は850万円×0.1＋190万円＝275万円。この控除により課税所得のベースが削減される。"
+  },
+  {
+    "id": 100,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の消費税軽減税率の対象はどれか。",
+    "options": [
+      {
+        "text": "レストランでのすべての食品",
+        "correct": false
+      },
+      {
+        "text": "食品（飲食店を除く）および定期購読の新聞",
+        "correct": true
+      },
+      {
+        "text": "すべての教育教材と書籍",
+        "correct": false
+      },
+      {
+        "text": "医療費と処方薬",
+        "correct": false
+      }
+    ],
+    "explanation": "8%の軽減税率は、食品（飲食店と酒類を除く）と定期購読の新聞が対象。店内飲食、酒類、その他大部分の財・サービスには10%が適用される。"
+  },
+  {
+    "id": 101,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "日本の「災害減免法」とは何か。",
+    "options": [
+      {
+        "text": "全市民に対する恒久的な減税",
+        "correct": false
+      },
+      {
+        "text": "自然災害の被災者に対する減税措置（所得税・住民税の軽減または免除）",
+        "correct": true
+      },
+      {
+        "text": "災害後の保険金に対する税金",
+        "correct": false
+      },
+      {
+        "text": "災害復旧のための追加税金",
+        "correct": false
+      }
+    ],
+    "explanation": "災害減免法により、被災者は所得税の減免、住民税の減免、自動車税の減免を受けられる。被害の程度と所得喪失に応じて減免措置が決定される。"
+  },
+  {
+    "id": 102,
+    "category": "tax",
+    "categoryLabel": "税金",
+    "question": "「小規模企業共済掛金控除」とは何か。",
+    "options": [
+      {
+        "text": "法人税のみの控除",
+        "correct": false
+      },
+      {
+        "text": "小規模企業共済掛金の支出額が控除",
+        "correct": true
+      },
+      {
+        "text": "すべての小規模企業に対する20万円固定控除",
+        "correct": false
+      },
+      {
+        "text": "起業費用に対する控除",
+        "correct": false
+      }
+    ],
+    "explanation": "小規模企業共済（商工会議所などが運営）に支払った掛金は、小規模企業共済掛金控除として課税所得から控除される。"
+  },
+  {
+    "id": 103,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "「固定資産税」は何に課税されるか。",
+    "options": [
+      {
+        "text": "土地のみ",
+        "correct": false
+      },
+      {
+        "text": "土地、家屋、償却資産",
+        "correct": true
+      },
+      {
+        "text": "金融資産のみ",
+        "correct": false
+      },
+      {
+        "text": "自動車のみ",
+        "correct": false
+      }
+    ],
+    "explanation": "固定資産税は、土地、家屋、償却資産に対する地方税。標準税率は評価額の1.4%。評価額は通常市場価格より低い。"
+  },
+  {
+    "id": 104,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "「都市計画税」の税率はどれくらいか。",
+    "options": [
+      {
+        "text": "評価額の0.2%",
+        "correct": false
+      },
+      {
+        "text": "評価額の0.3%",
+        "correct": true
+      },
+      {
+        "text": "評価額の0.5%",
+        "correct": false
+      },
+      {
+        "text": "評価額の1.0%",
+        "correct": false
+      }
+    ],
+    "explanation": "都市計画税は、都市計画区域内の土地・家屋の評価額に対し0.3%で課税される。収入は都市開発事業に充てられる。"
+  },
+  {
+    "id": 105,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "不動産購入時の「登録免許税」とは何か。",
+    "options": [
+      {
+        "text": "物件価格にかかわらず固定50,000円",
+        "correct": false
+      },
+      {
+        "text": "登記の種類により異なる：所有権移転は0.4%、抵当権設定は0.2%",
+        "correct": true
+      },
+      {
+        "text": "物件購入価格の2%",
+        "correct": false
+      },
+      {
+        "text": "物件購入価格の5%",
+        "correct": false
+      }
+    ],
+    "explanation": "不動産の登録免許税は、所有権移転は一般に0.4%（住宅用土地・家屋で一定条件を満たす場合は0.3%）、抵当権設定は借入金額の0.2%。"
+  },
+  {
+    "id": 106,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "フラット35の最大借入対価値比率（LTV）はどれくらいか。",
+    "options": [
+      {
+        "text": "50%",
+        "correct": false
+      },
+      {
+        "text": "70%",
+        "correct": true
+      },
+      {
+        "text": "80%",
+        "correct": false
+      },
+      {
+        "text": "90%",
+        "correct": false
+      }
+    ],
+    "explanation": "フラット35（長期固定金利住宅ローン）は、一般物件で最大70%のLTV。一定の耐震・断熱基準を満たす物件では90%まで可能な場合がある。"
+  },
+  {
+    "id": 107,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "不動産投資における「キャップレート（稼働收益率）」は何を測るか。",
+    "options": [
+      {
+        "text": "不動産価値の騰貴率",
+        "correct": false
+      },
+      {
+        "text": "年間純運営収益（NOI）÷物件価値または購入価格",
+        "correct": true
+      },
+      {
+        "text": "住宅ローン金利",
+        "correct": false
+      },
+      {
+        "text": "物件の空室率",
+        "correct": false
+      }
+    ],
+    "explanation": "キャップレート＝年間NOI÷物件価値。1億円の物件で5%キャップレートなら年間500万円の純収益。キャップレートが高いほど高いリターン（潜在的に高いリスク）。"
+  },
+  {
+    "id": 108,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "2024年基準における住宅用地の「不動産取得税」の税率はどれか。",
+    "options": [
+      {
+        "text": "評価額の4%",
+        "correct": false
+      },
+      {
+        "text": "評価額の3%",
+        "correct": true
+      },
+      {
+        "text": "評価額の2%",
+        "correct": false
+      },
+      {
+        "text": "評価額の1%",
+        "correct": false
+      }
+    ],
+    "explanation": "不動産取得税は、土地・住宅用家屋が評価額の3%、非住宅用家屋および償却資産が4%。課税標準は固定資産評価額。"
+  },
+  {
+    "id": 109,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "住宅ローンの「変動金利」とは何か。",
+    "options": [
+      {
+        "text": "5年ごとに銀行が自由に変更する金利",
+        "correct": false
+      },
+      {
+        "text": "市場金利の変動に応じてローン期間中に金利が変動する",
+        "correct": true
+      },
+      {
+        "text": "ローン期間全体的に固定される金利",
+        "correct": false
+      },
+      {
+        "text": "低い金利でスタートし毎年0.5%上昇する",
+        "correct": false
+      }
+    ],
+    "explanation": "変動金利は、短期市場金利に応じて半年ごとに金利が変更される。固定金利より低くなる可能性もあるが、ローン期間中に上昇するリスクがある。"
+  },
+  {
+    "id": 110,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "J-REITの「分配金利回り」とは何か。",
+    "options": [
+      {
+        "text": "価格上昇を含むトータルリターン",
+        "correct": false
+      },
+      {
+        "text": "1口当たり年間分配金÷現在の口座価格",
+        "correct": true
+      },
+      {
+        "text": "資産に対する管理手数料の割合",
+        "correct": false
+      },
+      {
+        "text": "物件の空室率",
+        "correct": false
+      }
+    ],
+    "explanation": "分配金利回り＝（年間1口当たり分配金÷現在の口座価格）×100。配当によるキャッシュリターンのみを示し、価格変動によるキャピタルゲイン・ロスは含まない。"
+  },
+  {
+    "id": 111,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "日本の「登記（登記簿）」制度の目的は何か。",
+    "options": [
+      {
+        "text": "固定資産税の評価のみ",
+        "correct": false
+      },
+      {
+        "text": "不動産の所有権その他の法的権利を公示的に記録する",
+        "correct": true
+      },
+      {
+        "text": "賃貸契約の管理",
+        "correct": false
+      },
+      {
+        "text": "建築許可の発行",
+        "correct": false
+      }
+    ],
+    "explanation": "登記簿は法務局で所有権移転、抵当権、その他の権利を記録する。第三者に対抗するための法的権利を主張するには登記が必要。"
+  },
+  {
+    "id": 112,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "不動産における「NOI（純営業収益）」とは何か。",
+    "options": [
+      {
+        "text": "テナントから受領する総賃貸収入",
+        "correct": false
+      },
+      {
+        "text": "総賃貸収入から運営費用（返済を除く）を差し引いたもの",
+        "correct": true
+      },
+      {
+        "text": "すべての費用（住宅ローン含む）を支払った後の利益",
+        "correct": false
+      },
+      {
+        "text": "固定資産税評価額",
+        "correct": false
+      }
+    ],
+    "explanation": "NOI＝総賃貸収入−運営費用（固定資産税、保険料、管理費、修繕費、空室損）。住宅ローン返済は含まない。NOIは不動産の収益力評価の鍵指標。"
+  },
+  {
+    "id": 113,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "日本の不動産法における「地上権」とは何か。",
+    "options": [
+      {
+        "text": "他人の土地に特定の目的と期間で建物を築造する権利",
+        "correct": true
+      },
+      {
+        "text": "地下資源を採掘する権利",
+        "correct": false
+      },
+      {
+        "text": "土地表面を農業に利用する権利",
+        "correct": false
+      },
+      {
+        "text": "公道に車両を駐車する権利",
+        "correct": false
+      }
+    ],
+    "explanation": "地上権は、他人の土地上に工作物を所有する権利。長期の建物賃貸借に広く利用され、土地所有権と建物所有権を分離する。"
+  },
+  {
+    "id": 114,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "日本における建物の「減価償却」の方法はどれか。",
+    "options": [
+      {
+        "text": "建物は減価償却しない、土地のみ",
+        "correct": false
+      },
+      {
+        "text": "耐用年数にわたり定額法または定率法で償却する",
+        "correct": true
+      },
+      {
+        "text": "建物は毎年10%ずつ償却",
+        "correct": false
+      },
+      {
+        "text": "住宅用建物のみ償却可能",
+        "correct": false
+      }
+    ],
+    "explanation": "日本では建物（土地を除く）を法定耐用年数にわたり償却する（例：RC造住宅47年、木造住宅22年）。住宅用不動産では定額法が一般的。"
+  },
+  {
+    "id": 115,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "不動産投資における「コスト利回り」とは何を測るか。",
+    "options": [
+      {
+        "text": "現在の市場価格を当初購入価格で割ったもの",
+        "correct": false
+      },
+      {
+        "text": "年間NOI÷総取得費（購入価格＋リフォーム＋諸費用）",
+        "correct": true
+      },
+      {
+        "text": "物件価格に対する住宅ローン金利",
+        "correct": false
+      },
+      {
+        "text": "固定資産税率",
+        "correct": false
+      }
+    ],
+    "explanation": "コスト利回り＝年間NOI÷総取得費（購入価格、リフォーム、登録費用等を含む）。現在の市場価格ではなく、総投資額に基づく実際のキャッシュイールドを測る。"
+  },
+  {
+    "id": 116,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "「住宅ローン保証会社」とは何か。",
+    "options": [
+      {
+        "text": "住宅ローンを直接提供する会社",
+        "correct": false
+      },
+      {
+        "text": "借入者が返済不能になった場合、貸付銀行に返済を保証する会社",
+        "correct": true
+      },
+      {
+        "text": "不動産の評価を行う会社",
+        "correct": false
+      },
+      {
+        "text": "住宅ローンを助成する政府機関",
+        "correct": false
+      }
+    ],
+    "explanation": "住宅ローン保証会社は、借入者が債務不履行になった場合、銀行に返済を保証する。借入者は保証料（通常借入金額の0.2〜2%）を支払う。"
+  },
+  {
+    "id": 117,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "フラット35の銀行変動金利ローンに対する最大のメリットは何か。",
+    "options": [
+      {
+        "text": "初期金利が低い",
+        "correct": false
+      },
+      {
+        "text": "ローン全期間（最長35年）固定金利",
+        "correct": true
+      },
+      {
+        "text": "頭金不要",
+        "correct": false
+      },
+      {
+        "text": "最大借入金額が大きい",
+        "correct": false
+      }
+    ],
+    "explanation": "フラット35の最大のメリットは、返済期間全期間（最長35年）にわたる固定金利。金利変動の影響を受けず、返済計画が確実。"
+  },
+  {
+    "id": 118,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "日本の財産法における「賃借権」とは何か。",
+    "options": [
+      {
+        "text": "大家がいつでも賃貸契約を解除できる権利",
+        "correct": false
+      },
+      {
+        "text": "借主が合意した目的で賃貸物を使用する権利",
+        "correct": true
+      },
+      {
+        "text": "大家の同意なく転貸できる権利",
+        "correct": false
+      },
+      {
+        "text": "政府が私有財産を徴用する権利",
+        "correct": false
+      }
+    ],
+    "explanation": "賃借権は、借主が合意した目的と期間において賃貸物を占有・使用する権利。借地借家法により大家の解除権は制限されている。"
+  },
+  {
+    "id": 119,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "住宅ローン契約の「印紙税」はいくらか。",
+    "options": [
+      {
+        "text": "借入金額にかかわらず固定10,000円",
+        "correct": false
+      },
+      {
+        "text": "借入金額により2,000〜48,000円",
+        "correct": true
+      },
+      {
+        "text": "借入金額の1%",
+        "correct": false
+      },
+      {
+        "text": "借入金額の0.5%",
+        "correct": false
+      }
+    ],
+    "explanation": "住宅ローン契約の印紙税は借入金額に応じて異なる：500万円未満は2,000円、1億円超は48,000円など。契約書に金額が明記されている。"
+  },
+  {
+    "id": 120,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "不動産ファイナンスにおける「DSCR（債務償還余裕率）」は何を測るか。",
+    "options": [
+      {
+        "text": "負債対自己資本比率",
+        "correct": false
+      },
+      {
+        "text": "年間NOI÷年間返済額（ローン返済）",
+        "correct": true
+      },
+      {
+        "text": "物件価値対借入金額比率",
+        "correct": false
+      },
+      {
+        "text": "キャップレート対住宅ローン金利",
+        "correct": false
+      }
+    ],
+    "explanation": "DSCR＝年間NOI÷年間返済額。DSCR 1.2はNOIが返済額の1.2倍であることを示す。投資用不動産ローンでは通常1.0〜1.2以上が要求される。"
+  },
+  {
+    "id": 121,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "日本における新築RC造（鉄筋コンクリート造）住宅用建物の耐用年数は何年か。",
+    "options": [
+      {
+        "text": "22年",
+        "correct": false
+      },
+      {
+        "text": "47年",
+        "correct": true
+      },
+      {
+        "text": "50年",
+        "correct": false
+      },
+      {
+        "text": "60年",
+        "correct": false
+      }
+    ],
+    "explanation": "新築RC造住宅用建物の耐用年数は47年。木造住宅用建物は22年、鉄骨造は鉄骨の厚さにより異なる。"
+  },
+  {
+    "id": 122,
+    "category": "real-estate",
+    "categoryLabel": "不動産",
+    "question": "日本で不動産を購入する際、物件価格以外に予算すべき追加費用は概ねどれくらいか。",
+    "options": [
+      {
+        "text": "購入価格以外に追加費用はない",
+        "correct": false
+      },
+      {
+        "text": "物件価格の約5〜7%の税金・諸費用・仲介手数料",
+        "correct": true
+      },
+      {
+        "text": "物件価格にかかわらず固定50万円",
+        "correct": false
+      },
+      {
+        "text": "物件価格の約1〜2%",
+        "correct": false
+      }
+    ],
+    "explanation": "購入者は物件価格の約5〜7%を：不動産取得税、登録免許税、印紙税、仲介手数料（3%＋6万円＋消費税）、火災保険、その他諸費用に充てる必要がある。"
+  },
+  {
+    "id": 123,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "日本の相続法において、被相続人が配偶者と子を残して死亡した場合、法定相続分はどうなるか。",
+    "options": [
+      {
+        "text": "配偶者が100%相続",
+        "correct": false
+      },
+      {
+        "text": "配偶者が1/2、子が1/2を均等に分ける",
+        "correct": true
+      },
+      {
+        "text": "子が100%相続、配偶者はなし",
+        "correct": false
+      },
+      {
+        "text": "配偶者が2/3、子が1/3を分ける",
+        "correct": false
+      }
+    ],
+    "explanation": "配偶者と子が存続する場合、配偶者が1/2、子が残り1/2を均等に分ける。子が複数いる場合は各子の取り分はさらに均等に分割される。"
+  },
+  {
+    "id": 124,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "日本の「公正証書遺言」とは何か。",
+    "options": [
+      {
+        "text": "任意の紙に署名した遺言",
+        "correct": false
+      },
+      {
+        "text": "公証人が証明する遺言",
+        "correct": true
+      },
+      {
+        "text": "緊急時の口述遺言",
+        "correct": false
+      },
+      {
+        "text": "家庭裁判所に提出する遺言",
+        "correct": false
+      }
+    ],
+    "explanation": "公正証書遺言は、遺言者が公証人の面前で遺言内容を口述し、公証人が証書を作成する。最も証明力が高く、紛失や偽造の恐れが少ない。"
+  },
+  {
+    "id": 125,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "相続人を完全に廃除（相続権の剥奪）から保護する「遺留分」とは何か。",
+    "options": [
+      {
+        "text": "すべての相続人に対する固定1/3",
+        "correct": false
+      },
+      {
+        "text": "法定相続人の一部に法律で保障される最低限の取り分（相続人の種類により異なる）",
+        "correct": true
+      },
+      {
+        "text": "すべての相続人に均等に分配される遺産全体",
+        "correct": false
+      },
+      {
+        "text": "保護なし、遺言が絶対",
+        "correct": false
+      }
+    ],
+    "explanation": "遺留分は、直系卑属（子）は法定相続分の1/2、直系尊属（親）は法定相続分の1/2、兄弟姉妹は法定相続分の1/3が保障される。"
+  },
+  {
+    "id": 126,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "「遺産分割協議」とは何か。",
+    "options": [
+      {
+        "text": "裁判所が遺産を分割する命令",
+        "correct": false
+      },
+      {
+        "text": "相続人間で遺産の分割方法について合意した書面",
+        "correct": true
+      },
+      {
+        "text": "税務申告書類",
+        "correct": false
+      },
+      {
+        "text": "政府発行の相続証明書",
+        "correct": false
+      }
+    ],
+    "explanation": "遺産分割協議は、すべての相続人が遺産の分割方法について合意する契約書。全相続人の署名・捺印が必要で、全員の合意により効力を生ずる。"
+  },
+  {
+    "id": 127,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "法定相続人1人あたり課税遺産額1億円の場合の相続税率はどれか。",
+    "options": [
+      {
+        "text": "20%",
+        "correct": false
+      },
+      {
+        "text": "30%",
+        "correct": true
+      },
+      {
+        "text": "40%",
+        "correct": false
+      },
+      {
+        "text": "50%",
+        "correct": false
+      }
+    ],
+    "explanation": "課税遺産額1億円の場合、税率は30%で控除額700万円。実際の税額＝1億円×30%−700万円＝2,300万円。"
+  },
+  {
+    "id": 128,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "相続税務上の「民事信託（家族信託）」とは何か。",
+    "options": [
+      {
+        "text": "存命中に本人が設立し、家族の利益のために資産管理を行う信託",
+        "correct": true
+      },
+      {
+        "text": "すべての相続事項を扱う政府信託",
+        "correct": false
+      },
+      {
+        "text": "生命保険の一種",
+        "correct": false
+      },
+      {
+        "text": "裁判所管理の相続基金",
+        "correct": false
+      }
+    ],
+    "explanation": "家族信託は、委託者の存命中に設立し、受託者に資産管理を委ね、指定された家族（受益者）の利益のために運用する。相続の円滑な移行に寄与する。"
+  },
+  {
+    "id": 129,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "遺言がなく、知られている相続人もいない場合、どうなるか。",
+    "options": [
+      {
+        "text": "政府が自動的にすべての親族に均等に分配する",
+        "correct": false
+      },
+      {
+        "text": "法定の手続きを経て国有財産となる",
+        "correct": true
+      },
+      {
+        "text": "被相続人の雇用主に帰属する",
+        "correct": false
+      },
+      {
+        "text": "前の所有者の家族に永久に帰属する",
+        "correct": false
+      }
+    ],
+    "explanation": "相続人の不存在が確定した場合（家庭裁判所の手続きを含む）、相続財産は民法上国庫に帰属する。"
+  },
+  {
+    "id": 130,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "日本の相続法における「包括遺贈」とは何か。",
+    "options": [
+      {
+        "text": "長男が相続する財産",
+        "correct": false
+      },
+      {
+        "text": "遺言で特定の人に特定の財産または金額を贈与すること",
+        "correct": true
+      },
+      {
+        "text": "被相続人の総遺産額",
+        "correct": false
+      },
+      {
+        "text": "相続税評価額",
+        "correct": false
+      }
+    ],
+    "explanation": "包括遺贈（特定遺贈）は、遺言で特定の人または法人に特定の財産や金額を贈与する指定。法定相続人であるか否かを問わない。"
+  },
+  {
+    "id": 131,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "日本の相続税の申告期限はいつまでか。",
+    "options": [
+      {
+        "text": "死亡から3ヶ月",
+        "correct": false
+      },
+      {
+        "text": "死亡から6ヶ月",
+        "correct": false
+      },
+      {
+        "text": "死亡から10ヶ月",
+        "correct": true
+      },
+      {
+        "text": "死亡から12ヶ月",
+        "correct": false
+      }
+    ],
+    "explanation": "相続税の申告は、死亡の日の翌日から10ヶ月以内に提出する必要がある。納税もこの期間内が期限。一定の事情がある場合は延長可能。"
+  },
+  {
+    "id": 132,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "被相続人に配偶者も子もいない場合の相続順位はどうなるか。",
+    "options": [
+      {
+        "text": "兄弟姉妹がすべて相続",
+        "correct": false
+      },
+      {
+        "text": "父母（直系尊属）が先に相続、父母がいない場合のみ兄弟姉妹",
+        "correct": true
+      },
+      {
+        "text": "政府がすべて取得",
+        "correct": false
+      },
+      {
+        "text": "甥・姪が相続",
+        "correct": false
+      }
+    ],
+    "explanation": "相続順位は：(1)子、(2)直系尊属（父母・祖父母）、(3)兄弟姉妹。子がない場合、父母が相続。父母もいない場合、兄弟姉妹が相続。配偶者は常に同順位で相続する。"
+  },
+  {
+    "id": 133,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "相続税の計算において「相続財産」に含まれる資産は何か。",
+    "options": [
+      {
+        "text": "不動産と銀行預金のみ",
+        "correct": false
+      },
+      {
+        "text": "死亡時に移転したすべての財産、金銭、債権、権利、および一定の生前贈与",
+        "correct": true
+      },
+      {
+        "text": "遺言に記載された資産のみ",
+        "correct": false
+      },
+      {
+        "text": "日本国内の資産のみ",
+        "correct": false
+      }
+    ],
+    "explanation": "相続財産には、死亡時のすべての資産のほか、死前3年以内の贈与、死亡保険金、退職手当金などが含まれる。"
+  },
+  {
+    "id": 134,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "相続税の「みなし相続財産」とは何か。",
+    "options": [
+      {
+        "text": "政府が自動的に市場価格で評価する",
+        "correct": false
+      },
+      {
+        "text": "相続人が受け取った死亡保険金および退職手当金を相続財産に含める",
+        "correct": true
+      },
+      {
+        "text": "死前10年の贈与をすべて含める",
+        "correct": false
+      },
+      {
+        "text": "海外資産を自動的に除外する",
+        "correct": false
+      }
+    ],
+    "explanation": "死亡保険金や退職一時金は、別途受け取っても相続税の計算上は相続財産にみなされる。ただし一定の非課税限度額あり。"
+  },
+  {
+    "id": 135,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "「相続財産評価方法」の目的は何か。",
+    "options": [
+      {
+        "text": "不動産の販売価格を決定する",
+        "correct": false
+      },
+      {
+        "text": "標準化された評価額を用いて相続税の課税標準を計算する",
+        "correct": true
+      },
+      {
+        "text": "相続人間で均等に財産を分割する",
+        "correct": false
+      },
+      {
+        "text": "住宅ローンの評価を行う",
+        "correct": false
+      }
+    ],
+    "explanation": "相続財産は特定の方法で評価される：土地は評価額×路線価倍率、建物は評価額、上場株式は終値×0.8（大口株主は0.7）など。"
+  },
+  {
+    "id": 136,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "「相続放棄」とは何か。",
+    "options": [
+      {
+        "text": "無条件で相続をすべて受け入れる",
+        "correct": false
+      },
+      {
+        "text": "債務を相続しないために相続を放棄する法的権利",
+        "correct": true
+      },
+      {
+        "text": "少額遺産のための簡略手続き",
+        "correct": false
+      },
+      {
+        "text": "裁判所の遺産分配決定",
+        "correct": false
+      }
+    ],
+    "explanation": "相続放棄は、相続人が相続を完全に放棄する手続き。債務超過の場合に有用。死亡を知った日から3ヶ月以内に家庭裁判所に申述する必要がある。"
+  },
+  {
+    "id": 137,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "被相続人が配偶者と父母を残して死亡（子なし）した場合の相続分はどうなるか。",
+    "options": [
+      {
+        "text": "配偶者1/2、父母が1/2",
+        "correct": false
+      },
+      {
+        "text": "配偶者2/3、父母が1/3",
+        "correct": true
+      },
+      {
+        "text": "配偶者3/4、父母が1/4",
+        "correct": false
+      },
+      {
+        "text": "配偶者100%",
+        "correct": false
+      }
+    ],
+    "explanation": "配偶者と父母が存続する場合（子なし）、配偶者が2/3、父母が残り1/3を分ける。両親がともに存続の場合は各1/6。"
+  },
+  {
+    "id": 138,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "相続税における「小規模宅地等の特例」の減税効果はどれくらいか。",
+    "options": [
+      {
+        "text": "1億円控除",
+        "correct": false
+      },
+      {
+        "text": "評価額の80%減額（宅地330㎡まで）",
+        "correct": true
+      },
+      {
+        "text": "宅地に税金なし",
+        "correct": false
+      },
+      {
+        "text": "評価額の50%減額",
+        "correct": false
+      }
+    ],
+    "explanation": "小規模宅地等の特例により、相続人（または家族）が居住している宅地330㎡まで評価額が80%減額される。相続税が大幅に軽減される。"
+  },
+  {
+    "id": 139,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "死前3年以内の贈与は相続税の計算上どう扱われるか。",
+    "options": [
+      {
+        "text": "相続税から完全に免除",
+        "correct": false
+      },
+      {
+        "text": "相続税の課税価格に加算される（段階的に段階率適用）",
+        "correct": true
+      },
+      {
+        "text": "贈与税と相続税の二重課税",
+        "correct": false
+      },
+      {
+        "text": "すべての課税から除外",
+        "correct": false
+      }
+    ],
+    "explanation": "死前3年以内の贈与は相続税の課税価格に加算される（1年以内は100%、2年以内は80%、3年以内は60%の段階率）。死亡直前の租税回避を防止する。"
+  },
+  {
+    "id": 140,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "次のうち、遺言者自身が自筆で書き、署名した遺言はどれか。",
+    "options": [
+      {
+        "text": "公正証書遺言",
+        "correct": false
+      },
+      {
+        "text": "自筆証書遺言",
+        "correct": true
+      },
+      {
+        "text": "秘密証書遺言",
+        "correct": false
+      },
+      {
+        "text": "検認遺言",
+        "correct": false
+      }
+    ],
+    "explanation": "自筆証書遺言は、遺言者が全文自筆で作成し、日付と署名が必要。証人は不要で最も簡便だが、偽造や紛失のリスクがある。"
+  },
+  {
+    "id": 141,
+    "category": "inheritance",
+    "categoryLabel": "相続",
+    "question": "被相続人に子がいる場合の配偶者の法定相続分はどれか。",
+    "options": [
+      {
+        "text": "1/3",
+        "correct": false
+      },
+      {
+        "text": "1/2",
+        "correct": true
+      },
+      {
+        "text": "2/3",
+        "correct": false
+      },
+      {
+        "text": "3/4",
+        "correct": false
+      }
+    ],
+    "explanation": "被相続人に配偶者と子がいる場合、配偶者の法定相続分は2分の1。子が残りの2分の1を均等に分ける。これが標準的な法定相続分。"
+  },
+  {
+    "id": 142,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "国民年金の基本年金（老齢基礎年金）の満額受給額（2024年時点）は月額概ねいくらか。",
+    "options": [
+      {
+        "text": "約4万円",
+        "correct": false
+      },
+      {
+        "text": "約5万5,000円",
+        "correct": false
+      },
+      {
+        "text": "約6万8,000円（40年全期納付）",
+        "correct": true
+      },
+      {
+        "text": "約10万円",
+        "correct": false
+      }
+    ],
+    "explanation": "老齢基礎年金の満額（40年全期納付）は月額約6万8,000円（2024年度）。実際の受給額は納付月数に比例する。"
+  },
+  {
+    "id": 143,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "1961年4月生まれ以降の男性が基本年金を受け取れる年齢は何歳か。",
+    "options": [
+      {
+        "text": "60歳",
+        "correct": false
+      },
+      {
+        "text": "62歳",
+        "correct": false
+      },
+      {
+        "text": "65歳",
+        "correct": true
+      },
+      {
+        "text": "70歳",
+        "correct": false
+      }
+    ],
+    "explanation": "基本年金の受給開始年齢は段階的に引き上げられている。1961年4月生まれ以降の男性と1966年4月生まれ以降の女性は65歳が満額受給開始年齢。60〜64歳の繰り上げ受給は減額される。"
+  },
+  {
+    "id": 144,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「厚生年金保険」は何で財源されているか。",
+    "options": [
+      {
+        "text": "政府一般財源のみ",
+        "correct": false
+      },
+      {
+        "text": "被保険者と事業主の折半負担",
+        "correct": true
+      },
+      {
+        "text": "被保険者のみの負担",
+        "correct": false
+      },
+      {
+        "text": "任意の個人負担",
+        "correct": false
+      }
+    ],
+    "explanation": "厚生年金保険料は被保険者と事業主が折半負担。2024年時点の総保険料率は月額標準報酬の18.3%（各9.15%）。"
+  },
+  {
+    "id": 145,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "外国人向けの「脱退一時金」とは何か。",
+    "options": [
+      {
+        "text": "退職時のボーナス支払い",
+        "correct": false
+      },
+      {
+        "text": "外国居住者が日本を永住帰国する際に支払った年金保険料の一括払い戻し",
+        "correct": true
+      },
+      {
+        "text": "年金受給者の死亡給付",
+        "correct": false
+      },
+      {
+        "text": "早期引き出しのペナルティ",
+        "correct": false
+      }
+    ],
+    "explanation": "日本の年金制度に6ヶ月以上加入した外国人居住者は、日本を永住帰国する際、2年以内に脱退一時金を申請できる。"
+  },
+  {
+    "id": 146,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「共済年金」とは何か。",
+    "options": [
+      {
+        "text": "民間企業の年金プラン",
+        "correct": false
+      },
+      {
+        "text": "地方公務員等を対象とする年金",
+        "correct": true
+      },
+      {
+        "text": "国民年金（基礎年金）",
+        "correct": false
+      },
+      {
+        "text": "任意の追加年金",
+        "correct": false
+      }
+    ],
+    "explanation": "共済年金（地方公務員等共済年金）は、地方公務員等を対象とする年金制度。基礎年金に加えて年金給付を提供する。"
+  },
+  {
+    "id": 147,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "企業年金制度における「退職金（退職一時金）」とは何か。",
+    "options": [
+      {
+        "text": "国民年金（基礎年金）",
+        "correct": false
+      },
+      {
+        "text": "退職時に事業主から支払われる一時金",
+        "correct": true
+      },
+      {
+        "text": "任意の年金拠出プラン",
+        "correct": false
+      },
+      {
+        "text": "厚生年金保険",
+        "correct": false
+      }
+    ],
+    "explanation": "退職一時金は、従業員が退職する際に事業主から支払われる一括退職金。勤続年数、最終給与、退職事由に基づいて算定される。"
+  },
+  {
+    "id": 148,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "2024年時点の国民年金の保険料は月額いくらか。",
+    "options": [
+      {
+        "text": "月額15,000円",
+        "correct": false
+      },
+      {
+        "text": "月額16,980円",
+        "correct": false
+      },
+      {
+        "text": "月額16,590円（毎年280円ずつ引き上げ、2025年に16,900円に到達）",
+        "correct": true
+      },
+      {
+        "text": "月額20,000円",
+        "correct": false
+      }
+    ],
+    "explanation": "2024年度の国民年金保険料は第1号被保険者月額16,590円。年間280円ずつ引き上げられ、2025年度に16,900円に到達する。"
+  },
+  {
+    "id": 149,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「確定拠出年金（iDeCo）」とは何か。",
+    "options": [
+      {
+        "text": "拠出に関係なく給付額が固定される年金",
+        "correct": false
+      },
+      {
+        "text": "拠出額が確定され、給付は運用成績に依存する年金",
+        "correct": true
+      },
+      {
+        "text": "公務員向けの政府年金",
+        "correct": false
+      },
+      {
+        "text": "民間の生命保険商品",
+        "correct": false
+      }
+    ],
+    "explanation": "確定拠出年金（iDeCo等）は、拠出額が固定され、最終的な給付額は運用成績に依存する。加入者が投資リスクを負うが、資産配分の選択権がある。"
+  },
+  {
+    "id": 150,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「確定給付企業年金」とは何か。",
+    "options": [
+      {
+        "text": "毎月の拠出額が変動する年金",
+        "correct": false
+      },
+      {
+        "text": "給与と勤続年数に基づき退職給付があらかじめ決定される年金",
+        "correct": true
+      },
+      {
+        "text": "任意の個人貯蓄プラン",
+        "correct": false
+      },
+      {
+        "text": "政府の生活保護給付",
+        "correct": false
+      }
+    ],
+    "explanation": "確定給付（DB）企業年金は、事業主が従業員の給与歴と勤続年数に基づき特定の退職給付を約束する。投資リスクは事業主が負う。"
+  },
+  {
+    "id": 151,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "厚生年金（老齢厚生年金）の給付算式は何に基づいているか。",
+    "options": [
+      {
+        "text": "所得に関係なく固定額",
+        "correct": false
+      },
+      {
+        "text": "平均標準報酬月額×給付乗率×被保険者月数",
+        "correct": true
+      },
+      {
+        "text": "全生涯の拠出額を20年で割ったもの",
+        "correct": false
+      },
+      {
+        "text": "最終給与の50%",
+        "correct": false
+      }
+    ],
+    "explanation": "老齢厚生年金（第2号）の給付＝平均標準報酬月額×乗率（1965年以降生まれの男性は現在7.125/1,000×月）×被保険者月数。"
+  },
+  {
+    "id": 152,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "会社員（第2号）のiDeCo月額拠出限度額はいくらか。",
+    "options": [
+      {
+        "text": "月額23,000円",
+        "correct": true
+      },
+      {
+        "text": "月額68,000円",
+        "correct": false
+      },
+      {
+        "text": "月額12,000円",
+        "correct": false
+      },
+      {
+        "text": "月額36,000円",
+        "correct": false
+      }
+    ],
+    "explanation": "会社員（第2号）のiDeCo月額拠出限度額は23,000円。カテゴリにより異なる：自営業者（第1号）は68,000円、公務員は12,000〜23,000円。"
+  },
+  {
+    "id": 153,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "65歳ではなく60歳から基本年金を受け取る場合の減額率はどれくらいか。",
+    "options": [
+      {
+        "text": "10%減額",
+        "correct": false
+      },
+      {
+        "text": "21%減額（0.5%×42ヶ月）",
+        "correct": false
+      },
+      {
+        "text": "24%減額（0.5%×48ヶ月）",
+        "correct": true
+      },
+      {
+        "text": "30%減額",
+        "correct": false
+      }
+    ],
+    "explanation": "60歳からの繰り上げ受給は、65歳より前の月ごとに0.5%減額。60歳の場合は60ヶ月×0.5%＝24%の減額となる。"
+  },
+  {
+    "id": 154,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「遺族年金」とは何か。",
+    "options": [
+      {
+        "text": "被保険者の雇用主に支払われる年金",
+        "correct": false
+      },
+      {
+        "text": "死亡した年金加入者の遺族（配偶者・子）に支払われる年金",
+        "correct": true
+      },
+      {
+        "text": "一括死亡給付",
+        "correct": false
+      },
+      {
+        "text": "生存する事業主の年金",
+        "correct": false
+      }
+    ],
+    "explanation": "遺族年金は、年金を受給していたか十分な納付要件を満たした死亡した人の遺族（配偶者・子）に月額で支払われる。"
+  },
+  {
+    "id": 155,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "10年間の加入期間がある人の雇用保険の失業給付日数は概ねどれくらいか。",
+    "options": [
+      {
+        "text": "90日",
+        "correct": false
+      },
+      {
+        "text": "150日",
+        "correct": false
+      },
+      {
+        "text": "240日（年齢と状況により90〜330日）",
+        "correct": true
+      },
+      {
+        "text": "365日",
+        "correct": false
+      }
+    ],
+    "explanation": "基本手当（失業給付）の日数は年齢、保険加入年数、離職理由により異なる。10年加入で非自発的離職の場合、年齢により90〜330日。"
+  },
+  {
+    "id": 156,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「労災保険」とは何か。",
+    "options": [
+      {
+        "text": "職場のケガに任意加入する保険",
+        "correct": false
+      },
+      {
+        "text": "業務上の負傷、疾病、死亡をカバーする強制保険",
+        "correct": true
+      },
+      {
+        "text": "労働者向けの民間生命保険",
+        "correct": false
+      },
+      {
+        "text": "失業者向けの健康保険",
+        "correct": false
+      }
+    ],
+    "explanation": "労災保険はすべての事業主に加入義務がある。業務上の負傷、疾病、死亡に対する医療費、障害給付、遺族給付をカバーする。"
+  },
+  {
+    "id": 157,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "国民年金制度の被保険者の3つのカテゴリーは何か。",
+    "options": [
+      {
+        "text": "子ども、成人、高齢者",
+        "correct": false
+      },
+      {
+        "text": "第1号（自営業者・学生）、第2号（会社員）、第3号（第2号の被扶養配偶者）",
+        "correct": true
+      },
+      {
+        "text": "正社員、パート、嘱託",
+        "correct": false
+      },
+      {
+        "text": "公務員、民間従業員、自営業者",
+        "correct": false
+      }
+    ],
+    "explanation": "第1号：自営業者、フリーランス、20歳以上の学生（全額直接負担）。第2号：会社員（事業主と折半）。第3号：第2号の配偶者で年収130万円未満（直接納付免除）。"
+  },
+  {
+    "id": 158,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "年金制度における「産前産後期間の保険料免除」とは何か。",
+    "options": [
+      {
+        "text": "育児休暇中は保険料全額免除",
+        "correct": false
+      },
+      {
+        "text": "育児期間は実際の納付がなくても全額納付済みとして取り扱われる",
+        "correct": true
+      },
+      {
+        "text": "子どもを持つことによる追加年金給付",
+        "correct": false
+      },
+      {
+        "text": "親の退齢年齢の延長",
+        "correct": false
+      }
+    ],
+    "explanation": "産前産後免除により、出産前後の保険料未納期間も全額納付済み期間として取り扱われる。実際の保険料納付は不要で、年金額に影響しない。"
+  },
+  {
+    "id": 159,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「障害年金」の受給要件は何に基づくか。",
+    "options": [
+      {
+        "text": "原因を問わないすべての身体・精神障害",
+        "correct": false
+      },
+      {
+        "text": "被保険者期間中の疾病または負傷による1級または2級の障害",
+        "correct": true
+      },
+      {
+        "text": "業務上の負傷のみ",
+        "correct": false
+      },
+      {
+        "text": "60歳以上で任意の障害",
+        "correct": false
+      }
+    ],
+    "explanation": "国民年金の障害基礎年金は、被保険者期間中の疾病または負傷による1級または2級の障害に支給される。3級は厚生年金障害給付が対象。業務上の負傷は労災保険がカバー。"
+  },
+  {
+    "id": 160,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "iDeCoの掛金のうち課税所得から控除できる割合はどれくらいか。",
+    "options": [
+      {
+        "text": "50%",
+        "correct": false
+      },
+      {
+        "text": "掛金の全額が控除可能",
+        "correct": true
+      },
+      {
+        "text": "75%",
+        "correct": false
+      },
+      {
+        "text": "事業主マッチング分のみ",
+        "correct": false
+      }
+    ],
+    "explanation": "iDeCoの掛金は全額が課税所得から控除（所得控除）される。所得税（5〜45%）と住民税（10%）が軽減されるため、特に高所得者に有利。"
+  },
+  {
+    "id": 161,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「老年者控除」とは何か。",
+    "options": [
+      {
+        "text": "65歳以上全員に非課税",
+        "correct": false
+      },
+      {
+        "text": "65歳以上で所得が一定額以下の納税者は追加控除を受けられる",
+        "correct": true
+      },
+      {
+        "text": "高齢者全員の年金税率の引き下げ",
+        "correct": false
+      },
+      {
+        "text": "高齢者全員の無料医療",
+        "correct": false
+      }
+    ],
+    "explanation": "65歳以上で総所得1,000万円以下（年金所得が主な所得源の場合）の納税者は、年金所得に対し追加50万円（公的年金等控除）の控除を受けられる。"
+  },
+  {
+    "id": 162,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "「厚生年金保険（第2号）」とは何か。",
+    "options": [
+      {
+        "text": "すべての住民に共通の国民年金（基礎年金）",
+        "correct": false
+      },
+      {
+        "text": "会社員が基礎年金の上に受け取る報酬比例の年金",
+        "correct": true
+      },
+      {
+        "text": "任意の追加年金",
+        "correct": false
+      },
+      {
+        "text": "公務員の共済年金",
+        "correct": false
+      }
+    ],
+    "explanation": "厚生年金保険（第2号）は、会社員が基礎年金（第1号）に加えて受け取る報酬比例の年金給付。両方とも該当する従業員は加入義務がある。"
+  },
+  {
+    "id": 163,
+    "category": "pension",
+    "categoryLabel": "年金・社会保険",
+    "question": "iDeCoの資産をペナルティなしで引き出せるのはいつか。",
+    "options": [
+      {
+        "text": "いつでも理由を問わず",
+        "correct": false
+      },
+      {
+        "text": "60歳に達した時、または死亡、障害、特定の事由が発生した場合のみ",
+        "correct": true
+      },
+      {
+        "text": "加入後5年経過",
+        "correct": false
+      },
+      {
+        "text": "55歳（ペナルティ付き）",
+        "correct": false
+      }
+    ],
+    "explanation": "iDeCo資産は60歳（最速）まで引き出せない。それ以前の引き出しは死亡、重度障害（1〜3級）、その他特定の事由の場合のみ。この流動性の制約が重要な留意点。"
+  },
+  {
+    "id": 164,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "投資リスク管理における分散投資の基本原理は何か。",
+    "options": [
+      {
+        "text": "1つの高パフォーマンス資産に100%投資する",
+        "correct": false
+      },
+      {
+        "text": "異なる資産クラスに分散させて全体リスクを低減する",
+        "correct": true
+      },
+      {
+        "text": "国債のみに投資する",
+        "correct": false
+      },
+      {
+        "text": "市場タイミングで損失を回避する",
+        "correct": false
+      }
+    ],
+    "explanation": "分散投資は、異なる資産クラス、業種、地域に投資を分散することで、非システマティックリスク（個別資産固有のリスク）を低減する。システマティックリスク（市場全体のリスク）は排除できない。"
+  },
+  {
+    "id": 165,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "「リスク許容度」とは何を意味するか。",
+    "options": [
+      {
+        "text": "最大損失可能額を受け入れる能力",
+        "correct": false
+      },
+      {
+        "text": "個人の投資損失に対する能力的・心理的な許容度",
+        "correct": true
+      },
+      {
+        "text": "投資が損失を出さないという保証",
+        "correct": false
+      },
+      {
+        "text": "投資に必要な最低リターン",
+        "correct": false
+      }
+    ],
+    "explanation": "リスク許容度は、キャパシティ（所得・資産・投資期間に基づく財務的な損失許容能力）とウィリングネス（ボラティリティに対する心理的快適度）の両方を評価して適切な資産配分を決定する。"
+  },
+  {
+    "id": 166,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "「資産配分」とは何か。",
+    "options": [
+      {
+        "text": "借金を返すために資産を売却する",
+        "correct": false
+      },
+      {
+        "text": "投資ポートフォリオを戦略的に複数の資産クラスに配分する",
+        "correct": true
+      },
+      {
+        "text": "株式と債券の2択のみ",
+        "correct": false
+      },
+      {
+        "text": "給与を貯蓄と消費に配分する",
+        "correct": false
+      }
+    ],
+    "explanation": "資産配分は、株式、債券、現金、不動産などの資産クラスに投資を配分するプロセス。リスク許容度、投資期間、財務目標に基づいて決定し、ポートフォリオリターンの主要な決定要因となる。"
+  },
+  {
+    "id": 167,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "投資リスクにおける「標準偏差」は何を測るか。",
+    "options": [
+      {
+        "text": "投資の平均リターン",
+        "correct": false
+      },
+      {
+        "text": "平均からのリターンの変動度（ボラティリティ）",
+        "correct": true
+      },
+      {
+        "text": "最大損失可能性",
+        "correct": false
+      },
+      {
+        "text": "2つの投資間の相関",
+        "correct": false
+      }
+    ],
+    "explanation": "標準偏差は、リターンの平均からのばらつきを測る。標準偏差が高いほどリターンの変動が大きい（高いボラティリティ・リスク）。低いほど一貫性のあるリターン。"
+  },
+  {
+    "id": 168,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "「リスク・リターンのトレードオフ」とは何か。",
+    "options": [
+      {
+        "text": "高リスクは常に高リターンを保証",
+        "correct": false
+      },
+      {
+        "text": "高い潜在的リターンには高い損失リスクの受容が必要",
+        "correct": true
+      },
+      {
+        "text": "リスクフリー投資が最高リターン",
+        "correct": false
+      },
+      {
+        "text": "すべての投資は同じリスク水準",
+        "correct": false
+      }
+    ],
+    "explanation": "リスク・リターンのトレードオフの原理は、潜在的リターンがリスクとともに増大することを示す。高リスク投資（株式、FX）は高い期待リターンを提供するが、損失リスクも大きい。"
+  },
+  {
+    "id": 169,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "「システマティックリスク」と「非システマティックリスク」の違いは何か。",
+    "options": [
+      {
+        "text": "システマティック＝企業固有、非システマティック＝市場全体",
+        "correct": false
+      },
+      {
+        "text": "システマティック＝市場全体のリスク、非システマティック＝企業・業種固有のリスク",
+        "correct": true
+      },
+      {
+        "text": "両者は同じもの",
+        "correct": false
+      },
+      {
+        "text": "システマティック＝為替リスク、非システマティック＝金利リスク",
+        "correct": false
+      }
+    ],
+    "explanation": "システマティック（市場）リスクは景気後退やインフレなどすべての資産に影響し、分散では排除できない。非システマティックリスクは資産固有で分散により低減可能。"
+  },
+  {
+    "id": 170,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "ポートフォリオ管理における「リバランス」とは何か。",
+    "options": [
+      {
+        "text": "市場が下落したらすべての投資を売却する",
+        "correct": false
+      },
+      {
+        "text": "定期的にポートフォリオを目標配分割合に戻す",
+        "correct": true
+      },
+      {
+        "text": "毎月投資戦略を変更する",
+        "correct": false
+      },
+      {
+        "text": "損失を出している投資に追加資金を投入する",
+        "correct": false
+      }
+    ],
+    "explanation": "リバランスは、定期的に売買を行ってポートフォリオを目標配分割合に戻す。株式が60%→70%に増えたら、株式を売って債券を買い、60/40に戻す。これにより「安く買って高く売る」を実現する。"
+  },
+  {
+    "id": 171,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "株式分析における「ベータ」とは何を測るか。",
+    "options": [
+      {
+        "text": "株式の総リターン",
+        "correct": false
+      },
+      {
+        "text": "市場全体に対する株式のボラティリティ",
+        "correct": true
+      },
+      {
+        "text": "株式の配当利回り",
+        "correct": false
+      },
+      {
+        "text": "株式の取引量",
+        "correct": false
+      }
+    ],
+    "explanation": "ベータは、株式の市場変動に対する感応度を測る。ベータ>1は市場より変動が大きく、<1は小さく、＝1は市場と同程度に動くことを示す。"
+  },
+  {
+    "id": 172,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "「シャープレシオ」は何に用いられるか。",
+    "options": [
+      {
+        "text": "企業の負債水準の測定",
+        "correct": false
+      },
+      {
+        "text": "リスク調整後リターンの評価（リスク1単位あたりの超過リターン）",
+        "correct": true
+      },
+      {
+        "text": "保険料の計算",
+        "correct": false
+      },
+      {
+        "text": "税率の決定",
+        "correct": false
+      }
+    ],
+    "explanation": "シャープレシオ＝（ポートフォリオリターン−リスクフリーレート）÷ポートフォリオの標準偏差。高いほどリスク調整後リターンが良好。異なるリスク水準の投資の比較に有用。"
+  },
+  {
+    "id": 173,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "金融リスク管理における「ヘッジ」戦略とは何か。",
+    "options": [
+      {
+        "text": "市場が上昇すると賭ける",
+        "correct": false
+      },
+      {
+        "text": "不利な価格変動から損失を低減するためのオフセットポジション",
+        "correct": true
+      },
+      {
+        "text": "市場暴落前にすべての投資を売却する",
+        "correct": false
+      },
+      {
+        "text": "金のみに投資する",
+        "correct": false
+      }
+    ],
+    "explanation": "ヘッジは、プットオプションや為替先物などのオフセットポジションを取ることで、不利な価格変動による損失を低減する。リスクを減らすが、潜在的リターンも低下する可能性がある。"
+  },
+  {
+    "id": 174,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "投資における「流動性リスク」とは何か。",
+    "options": [
+      {
+        "text": "企業が倒産するリスク",
+        "correct": false
+      },
+      {
+        "text": "適正価格で迅速に売却できないリスク",
+        "correct": true
+      },
+      {
+        "text": "金利が変動するリスク",
+        "correct": false
+      },
+      {
+        "text": "通貨が減価するリスク",
+        "correct": false
+      }
+    ],
+    "explanation": "流動性リスクは、資産を迅速に妥当な価格で売却できない、または大幅な割引で売却せざるを得ないリスク。不動産や小型株は流動性リスクが高い傾向がある。"
+  },
+  {
+    "id": 175,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "債券投資における「信用リスク」とは何か。",
+    "options": [
+      {
+        "text": "金利が上昇するリスク",
+        "correct": false
+      },
+      {
+        "text": "発行体が利子または元本の支払いを怠るリスク",
+        "correct": true
+      },
+      {
+        "text": "債券価格が下落するリスク",
+        "correct": false
+      },
+      {
+        "text": "インフレでリターンが目減りするリスク",
+        "correct": false
+      }
+    ],
+    "explanation": "信用リスク（デフォルトリスク）は、債券発行体が利子の支払いや元本の償還を行えない可能性。信用格付け（AAA〜D）で評価され、リスクが高いほど高い利回りが要求される。"
+  },
+  {
+    "id": 176,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "30代で適度なリスク許容度を持つ人に推奨される株式配分割合は概ねどれくらいか。",
+    "options": [
+      {
+        "text": "株式20〜30%",
+        "correct": false
+      },
+      {
+        "text": "株式60〜80%",
+        "correct": true
+      },
+      {
+        "text": "株式100%",
+        "correct": false
+      },
+      {
+        "text": "株式10〜20%",
+        "correct": false
+      }
+    ],
+    "explanation": "一般的な目安：株式配分＝（110−年齢）％。30代なら70〜80%の株式が目安。残り20〜30%を債券・現金で安定性を確保。長い投資期間に適合する。"
+  },
+  {
+    "id": 177,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "国際投資における「為替リスク」とは何か。",
+    "options": [
+      {
+        "text": "偽造通貨のリスク",
+        "correct": false
+      },
+      {
+        "text": "為替相場の変動が外国投資に与える損失リスク",
+        "correct": true
+      },
+      {
+        "text": "国が通貨を変更するリスク",
+        "correct": false
+      },
+      {
+        "text": "投資者母国のインフレリスク",
+        "correct": false
+      }
+    ],
+    "explanation": "為替リスクは、他通貨建ての外国資産に投資する際に生じる。外国投資が良好でも、自国通貨が強くなると、自国通貨に換算したリターンが減少する。"
+  },
+  {
+    "id": 178,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "現代ポートフォリオ理論における「効率的フロンティア」とは何か。",
+    "options": [
+      {
+        "text": "すべてのリスク水準で最高リターンを示す線",
+        "correct": false
+      },
+      {
+        "text": "各リスク水準で最高の期待リターンを提供する最適ポートフォリオの集合",
+        "correct": true
+      },
+      {
+        "text": "リスク資産とリスクフリー資産の境界",
+        "correct": false
+      },
+      {
+        "text": "分散に必要な最低投資額",
+        "correct": false
+      }
+    ],
+    "explanation": "マーコウィッツが提唱した効率的フロンティアは、各リスク水準で期待リターンを最大化する最適ポートフォリオを示す。フロンティア以下のポートフォリオは非効率。"
+  },
+  {
+    "id": 179,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "「VaR（バリューアットリスク）」とは何を意味するか。",
+    "options": [
+      {
+        "text": "投資ポートフォリオの総価値",
+        "correct": false
+      },
+      {
+        "text": "一定の信頼水準で一定期間内の最大期待損失額",
+        "correct": true
+      },
+      {
+        "text": "ポートフォリオの平均リターン",
+        "correct": false
+      },
+      {
+        "text": "市場暴落の確率",
+        "correct": false
+      }
+    ],
+    "explanation": "VaRは、特定の確率で特定の期間内の最大損失を見積もる。例：1日95%VaRが100万円の場合、1日に100万円を超える損失が生じる確率は5%。"
+  },
+  {
+    "id": 180,
+    "category": "risk",
+    "categoryLabel": "リスク管理",
+    "question": "ドルコスト平均法のリスク管理における最大のメリットは何か。",
+    "options": [
+      {
+        "text": "どんな市場でも利益を保証する",
+        "correct": false
+      },
+      {
+        "text": "購入を時間的に分散させることでタイミングリスクの影響を低減する",
+        "correct": true
+      },
+      {
+        "text": "すべての投資リスクを排除する",
+        "correct": false
+      },
+      {
+        "text": "上昇相場でリターンを最大化する",
+        "correct": false
+      }
+    ],
+    "explanation": "ドルコスト平均法は、価格に関わらず定期的に購入することでタイミングリスクを低減する。価格が低いときは多く、高いときは少ない口数を購入し、平均購入単価を平準化する。"
+  },
+  {
+    "id": 181,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "GDP（国内総生産）とは何を意味するか。",
+    "options": [
+      {
+        "text": "国の市民の総資産",
+        "correct": false
+      },
+      {
+        "text": "一定期間に国内で生産されたすべての最終財・サービスの総価値",
+        "correct": true
+      },
+      {
+        "text": "総輸出から輸入を引いたもの",
+        "correct": false
+      },
+      {
+        "text": "政府の年間予算",
+        "correct": false
+      }
+    ],
+    "explanation": "GDPは、一国の国境内で一定期間に生産されたすべての最終財・サービスの貨幣価値の総計。消費、投資、政府支出、純輸出で構成される。"
+  },
+  {
+    "id": 182,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「名目GDP」と「実質GDP」の違いは何か。",
+    "options": [
+      {
+        "text": "名目GDPは常に実質GDPより低い",
+        "correct": false
+      },
+      {
+        "text": "実質GDPはインフレ調整済み、名目GDPは未調整",
+        "correct": true
+      },
+      {
+        "text": "実質GDPは輸出のみ、名目GDPはすべてを含む",
+        "correct": false
+      },
+      {
+        "text": "両者は同じもの",
+        "correct": false
+      }
+    ],
+    "explanation": "名目GDPは当年価格で測定。実質GDPは基準年価格でインフレ調整し、生産量の実際の変化を示す。実質GDPの方が経済成長のより良い指標。"
+  },
+  {
+    "id": 183,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「インフレ」とは何か。",
+    "options": [
+      {
+        "text": "マネーサプライの減少",
+        "correct": false
+      },
+      {
+        "text": "物価の一般的上昇と貨幣の購買力低下",
+        "correct": true
+      },
+      {
+        "text": "金利の上昇",
+        "correct": false
+      },
+      {
+        "text": "失業率の減少",
+        "correct": false
+      }
+    ],
+    "explanation": "インフレは、財やサービスの一般物価水準の持続的な上昇で、貨幣の購買力を低下させる。日銀は2%のインフレを金融政策の目標としている。"
+  },
+  {
+    "id": 184,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「日本銀行の金融政策」の主目的は何か。",
+    "options": [
+      {
+        "text": "為替相場の安定",
+        "correct": false
+      },
+      {
+        "text": "物価安定（2%のインフレ目標）と金融システムの安定",
+        "correct": true
+      },
+      {
+        "text": "政府債務の削減",
+        "correct": false
+      },
+      {
+        "text": "株式市場のパフォーマンス",
+        "correct": false
+      }
+    ],
+    "explanation": "日本銀行法に基づく日銀の主目的は物価安定（2%のCPIインフレ目標）と金融システムの安定確保。金利政策や資産買入を主要手段とする。"
+  },
+  {
+    "id": 185,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「デフレ」とは何か。",
+    "options": [
+      {
+        "text": "物価の一般的上昇",
+        "correct": false
+      },
+      {
+        "text": "一般物価水準の持続的な低下",
+        "correct": true
+      },
+      {
+        "text": "外国通貨価値の上昇",
+        "correct": false
+      },
+      {
+        "text": "政府支出の減少",
+        "correct": false
+      }
+    ],
+    "explanation": "デフレは一般物価水準の持続的な低下。実質債務価値を増加させ、消費者が安い価格を待つため支出を抑制し、経済停滞につながる。"
+  },
+  {
+    "id": 186,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「為替相場」とは何か。「円安（円安）」は何を意味するか。",
+    "options": [
+      {
+        "text": "為替相場は金の価格、円安は円高を意味する",
+        "correct": false
+      },
+      {
+        "text": "為替相場は一国の通貨価格を他通貨で表したもの、円安は外貨を買うのにより多くの円が必要になること",
+        "correct": true
+      },
+      {
+        "text": "為替相場は政府が固定、円安は違法",
+        "correct": false
+      },
+      {
+        "text": "為替相場はインフレを測るもの、円安は低価格を意味する",
+        "correct": false
+      }
+    ],
+    "explanation": "為替相場は一つの通貨を他の通貨で表した価格。円安（例：USD/JPYが110→150）は円の価値が下がり、1ドルを買うのに多くの円が必要になること。"
+  },
+  {
+    "id": 187,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「消費者物価指数（CPI）」とは何か。",
+    "options": [
+      {
+        "text": "卸売物価の指標",
+        "correct": false
+      },
+      {
+        "text": "消費者が支払う財・サービスバスケットの平均価格変化を測る指数",
+        "correct": true
+      },
+      {
+        "text": "株式市場のパフォーマンス指標",
+        "correct": false
+      },
+      {
+        "text": "金利の推移指数",
+        "correct": false
+      }
+    ],
+    "explanation": "CPIは、消費支出に典型的な財・サービスの固定バスケットの価格変化を追跡する。中央銀行が金融政策決定に使用するインフレの主要な指標。"
+  },
+  {
+    "id": 188,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「量的緩和（QE）」とは何か。",
+    "options": [
+      {
+        "text": "インフレ抑制のためのマネーサプライ引き締め",
+        "correct": false
+      },
+      {
+        "text": "中央銀行が金融資産を買い入れてマネーサプライを増やし、経済を刺激する",
+        "correct": true
+      },
+      {
+        "text": "政府支出の削減",
+        "correct": false
+      },
+      {
+        "text": "金利の引き上げ",
+        "correct": false
+      }
+    ],
+    "explanation": "QEは、中央銀行が市場から国債等の資産を買い入れ、マネーサプライを増やし、長期金利を低下させ、貸出と投資を促進する政策。"
+  },
+  {
+    "id": 189,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "借手の観点から「金利」とは何を表すか。",
+    "options": [
+      {
+        "text": "投資で得る利益",
+        "correct": false
+      },
+      {
+        "text": "元金に対する割合で表したお金を借りるコスト",
+        "correct": true
+      },
+      {
+        "text": "インフレ率",
+        "correct": false
+      },
+      {
+        "text": "利子所得に対する税率",
+        "correct": false
+      }
+    ],
+    "explanation": "金利はお金を借りるコスト（または貸す対価）。お金の時間的価値、インフレリスク、デフォルトリスクに対する補償。中央銀行の政策金利が他のすべての金利に影響する。"
+  },
+  {
+    "id": 190,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "日本銀行がコントロールする「短期金利」とは何か。",
+    "options": [
+      {
+        "text": "30年国債の金利",
+        "correct": false
+      },
+      {
+        "text": "無担保コールレート（銀行間短期貸借金利）",
+        "correct": true
+      },
+      {
+        "text": "住宅ローン金利",
+        "correct": false
+      },
+      {
+        "text": "社債金利",
+        "correct": false
+      }
+    ],
+    "explanation": "日銀の主要な政策手段は無担保コールレート（銀行間のオーバーナイト貸借金利）。この金利をターゲットにすることで、日銀は他のすべての短期金利に影響を与える。"
+  },
+  {
+    "id": 191,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「財政政策」とは何か。",
+    "options": [
+      {
+        "text": "中央銀行の金利決定",
+        "correct": false
+      },
+      {
+        "text": "経済に影響を与えるための政府の支出と課税決定",
+        "correct": true
+      },
+      {
+        "text": "民間部門の投資決定",
+        "correct": false
+      },
+      {
+        "text": "国際貿易協定",
+        "correct": false
+      }
+    ],
+    "explanation": "財政政策は、経済状況に影響を与えるための政府の租税と支出の決定。拡張的財政政策（減税・支出増加）は経済を刺激し、縮小的政策は景気を冷やす。"
+  },
+  {
+    "id": 192,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "円安が日本の輸出企業に与える影響は何か。",
+    "options": [
+      {
+        "text": "輸出価格が高くなり、輸出企業に悪影響",
+        "correct": false
+      },
+      {
+        "text": "外国通貨で受け取る収益を円換算すると増加し、輸出企業に恩恵",
+        "correct": true
+      },
+      {
+        "text": "輸出企業に影響なし",
+        "correct": false
+      },
+      {
+        "text": "輸入業者のみに影響",
+        "correct": false
+      }
+    ],
+    "explanation": "円安時、日本の輸出品は外貨で安くなり競争力が増す。また外国通貨建ての収益を円換算するとより多くの円を受け取れる。輸出企業に有利だが輸入企業には不利。"
+  },
+  {
+    "id": 193,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「イールドカーブ（利回り曲線）」とは何か。",
+    "options": [
+      {
+        "text": "時間の経過に対するインフレのグラフ",
+        "correct": false
+      },
+      {
+        "text": "異なる満期の金利を示すグラフ",
+        "correct": true
+      },
+      {
+        "text": "時間の経過に対する株価チャート",
+        "correct": false
+      },
+      {
+        "text": "為替変動の測定",
+        "correct": false
+      }
+    ],
+    "explanation": "イールドカーブは、同じ信用品質で異なる満期の債券の金利（利回り）をプロットしたもの。通常の順イールドカーブは経済成長期待を示す。逆イールドはリセッションのシグナルとなることがある。"
+  },
+  {
+    "id": 194,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「日経平均株価」とは何か。",
+    "options": [
+      {
+        "text": "日本の全企業の指数",
+        "correct": false
+      },
+      {
+        "text": "東京証券取引所に上場する225社の株価指数",
+        "correct": true
+      },
+      {
+        "text": "債券市場指数",
+        "correct": false
+      },
+      {
+        "text": "日本のGDP成長率の指標",
+        "correct": false
+      }
+    ],
+    "explanation": "日経平均株価は日本で最も注目される株価指数。東証に上場する大型株225社を対象とし、株価で加重された（プライス・ウェイト）方式。"
+  },
+  {
+    "id": 195,
+    "category": "economics",
+    "categoryLabel": "外部経済",
+    "question": "「TOPIX」とは何か。",
+    "options": [
+      {
+        "text": "日経平均株価と同じプライス・ウェイト指数",
+        "correct": false
+      },
+      {
+        "text": "東証プライム市場全銘柄を時価総額で加重した指数",
+        "correct": true
+      },
+      {
+        "text": "国債利回りの指数",
+        "correct": false
+      },
+      {
+        "text": "対日外国投資の指標",
+        "correct": false
+      }
+    ],
+    "explanation": "TOPIX（東証株価指数）は、東証プライム市場（旧一部）の全銘柄を時価総額加重で追跡。日経平均株価（プライス・ウェイト）とは異なり、市場全体をより正確に反映する。"
+  },
+  {
+    "id": 196,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "日本の「金融庁（FSA）」とは何か。",
+    "options": [
+      {
+        "text": "民間の銀行規制機関",
+        "correct": false
+      },
+      {
+        "text": "金融機関と金融市場の監督を担当する政府機関",
+        "correct": true
+      },
+      {
+        "text": "消費者保護団体",
+        "correct": false
+      },
+      {
+        "text": "日本の中央銀行",
+        "correct": false
+      }
+    ],
+    "explanation": "金融庁は、内閣府の外局で、銀行、証券会社、保険会社の監督と日本の金融システムの安定確保を担当する。"
+  },
+  {
+    "id": 197,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "金融商品販売における「適合性の原則」とは何か。",
+    "options": [
+      {
+        "text": "会社にとって最も利益が出る商品を販売する",
+        "correct": false
+      },
+      {
+        "text": "顧客の知識、経験、財務状況に適した商品を推奨する",
+        "correct": true
+      },
+      {
+        "text": "政府保証商品のみを販売する",
+        "correct": false
+      },
+      {
+        "text": "すべての顧客に同じ商品を推奨する",
+        "correct": false
+      }
+    ],
+    "explanation": "適合性の原則は、金融機関が顧客の知識、経験、財務状況、投資目的を評価し、その顧客に適した商品のみを勧誘することを義務付ける。"
+  },
+  {
+    "id": 198,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "マネーロンダリング防止法（AML）に基づく「顧客確認」の目的は何か。",
+    "options": [
+      {
+        "text": "金融商品の販売増加",
+        "correct": false
+      },
+      {
+        "text": "顧客の身元確認とマネーロンダリング・テロ資金供与の防止",
+        "correct": true
+      },
+      {
+        "text": "顧客の信用スコア確認",
+        "correct": false
+      },
+      {
+        "text": "顧客の投資リターン追跡",
+        "correct": false
+      }
+    ],
+    "explanation": "顧客確認（Know Your Customer / KYC）は、金融機関が公的身分証明書で顧客の身元を確認し、匿名口座がマネーロンダリングやテロ資金供与に使われるのを防止する。"
+  },
+  {
+    "id": 199,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "「金融商品取引法」とは何か。",
+    "options": [
+      {
+        "text": "銀行業務のみを規制する法律",
+        "correct": false
+      },
+      {
+        "text": "証券市場、投資サービス、開示制度を規制する日本の主要な法律",
+        "correct": true
+      },
+      {
+        "text": "金融取引の税法",
+        "correct": false
+      },
+      {
+        "text": "保険規制法",
+        "correct": false
+      }
+    ],
+    "explanation": "金融商品取引法（金商法）は、日本の証券・金融商品市場を規制する主要な法律。開示、市場の公正性、投資家保護、金融仲介者の行動規範を定める。"
+  },
+  {
+    "id": 200,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "「インサイダー取引」とは何か。その結果どうなるか。",
+    "options": [
+      {
+        "text": "公開された財務諸表の分析に基づく取引（完全に合法）",
+        "correct": false
+      },
+      {
+        "text": "重要な非公開情報に基づく証券取引（違法、刑事罰の対象）",
+        "correct": true
+      },
+      {
+        "text": "オンラインブローカーを通じた取引",
+        "correct": false
+      },
+      {
+        "text": "勤務先の株式の購入",
+        "correct": false
+      }
+    ],
+    "explanation": "インサイダー取引は、企業の重要な非公開情報を利用してその証券を取引すること。市場の公正性を損ない、法人に対しては最高5億円の罰金、個人も懲役刑が科される。"
+  },
+  {
+    "id": 201,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "「証券保管振替機構（JASDEC）」とは何か。",
+    "options": [
+      {
+        "text": "証券取引所",
+        "correct": false
+      },
+      {
+        "text": "証券の集中保管・決済を行う中央証券保管機関",
+        "correct": true
+      },
+      {
+        "text": "金融庁のような規制機関",
+        "correct": false
+      },
+      {
+        "text": "政府の財務省",
+        "correct": false
+      }
+    ],
+    "explanation": "JASDEC（証券保管振替機構）は、日本の証券の簿面振替と決済を処理する。物理的な証券の受け渡しを不要にする集中決済システムを運営する。"
+  },
+  {
+    "id": 202,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "上場企業が提出する「有価証券報告書」とは何か。",
+    "options": [
+      {
+        "text": "株主への配当に関する報告書のみ",
+        "correct": false
+      },
+      {
+        "text": "財務諸表や企業情報を含む包括的な開示書類",
+        "correct": true
+      },
+      {
+        "text": "四半期の売上報告",
+        "correct": false
+      },
+      {
+        "text": "税務申告書",
+        "correct": false
+      }
+    ],
+    "explanation": "有価証券報告書は、上場企業が毎年金融庁に提出し、財務諸表、事業概況、コーポレートガバナンスなどの重要情報を開示する。投資家の透明性の確保を目的とする。"
+  },
+  {
+    "id": 203,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "ファイナンシャルアドバイザーの「善管注意義務（忠実義務）」とは何か。",
+    "options": [
+      {
+        "text": "金融機関の利益を最大化する義務",
+        "correct": false
+      },
+      {
+        "text": "顧客の利益を最優先し、自己利益より顧客利益を優先する義務",
+        "correct": true
+      },
+      {
+        "text": "すべての政府規制に従う義務",
+        "correct": false
+      },
+      {
+        "text": "すべての顧客に無料アドバイスを提供する義務",
+        "correct": false
+      }
+    ],
+    "explanation": "善管注意義務は、ファイナンシャルアドバイザーが顧客の利益を第一にすることを求める。顧客の状況に最適な商品を推奨し、コミッションや手数料が高い商品を優先しない。"
+  },
+  {
+    "id": 204,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "日本の法律における「相場操縦」とは何か。",
+    "options": [
+      {
+        "text": "合法的なデイトレード活動",
+        "correct": false
+      },
+      {
+        "text": "取引活動や証券価格に虚偽または誤解を招く外見を意図的に作り出す行為",
+        "correct": true
+      },
+      {
+        "text": "市場調査に基づく投資",
+        "correct": false
+      },
+      {
+        "text": "市場下落時の株式売却",
+        "correct": false
+      }
+    ],
+    "explanation": "相場操縦には、仮装取引（フェイクトレード）、風説の流布、価格操作を目的とした虚偽情報の拡散などが含まれる。金融商品取引法違反で刑事・民事罰の対象。"
+  },
+  {
+    "id": 205,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "金融商品取引法に基づく「顧客属性情報」の管理要件は何か。",
+    "options": [
+      {
+        "text": "顧客名のみの収集",
+        "correct": false
+      },
+      {
+        "text": "金融機関は顧客の投資知識、経験、財務状況を収集・確認・定期的に更新する必要がある",
+        "correct": true
+      },
+      {
+        "text": "マーケティング目的の第三者との顧客データ共有",
+        "correct": false
+      },
+      {
+        "text": "取引ごとの顧客記録削除",
+        "correct": false
+      }
+    ],
+    "explanation": "金商法では、金融機関は顧客属性情報（投資経験、知識、財産、投資目的）を体系的に収集・管理し、適合性評価に使用することが義務付けられている。"
+  },
+  {
+    "id": 206,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "2022年に施行された「東京証券取引所の市場再編」の内容は何か。",
+    "options": [
+      {
+        "text": "NASDAQとの統合",
+        "correct": false
+      },
+      {
+        "text": "4つの市場部からプライム、スタンダード、グロースの3市場へ再編",
+        "correct": true
+      },
+      {
+        "text": "取引所の完全閉鎖",
+        "correct": false
+      },
+      {
+        "text": "暗号資産取引セクションの追加",
+        "correct": false
+      }
+    ],
+    "explanation": "2022年4月、東証は一部、二部、マザーズ、JASDAQから、プライム（大型・流動性）、スタンダード（中型）、グロース（スタートアップ・成長）の3セグメントに再編された。"
+  },
+  {
+    "id": 207,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "「証券取引等監視委員会（SESC）」とは何か。",
+    "options": [
+      {
+        "text": "株価を監視する民間企業",
+        "correct": false
+      },
+      {
+        "text": "FSAの外部機関で証券市場の違反を調査する組織",
+        "correct": true
+      },
+      {
+        "text": "消費者保護の窓口",
+        "correct": false
+      },
+      {
+        "text": "日本銀行の一部門",
+        "correct": false
+      }
+    ],
+    "explanation": "SESCはFSAの下で証券市場の違反（インサイダー取引、相場操縦、虚偽開示など）を監視・調査する委員会。法令違反の摘発に向けて勧告を行う。"
+  },
+  {
+    "id": 208,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "第一種金融商品取引業の登録に必要な「資本金」要件はどれくらいか。",
+    "options": [
+      {
+        "text": "最低資本金要件なし",
+        "correct": false
+      },
+      {
+        "text": "最低3,000万円",
+        "correct": false
+      },
+      {
+        "text": "最低5,000万円（一部カテゴリは1,000万円）",
+        "correct": false
+      },
+      {
+        "text": "5億円（自社运用）、3,000万円（投資助言）",
+        "correct": true
+      }
+    ],
+    "explanation": "第一種金融商品取引業（証券の取り扱い）は最低5,000万円の資本金が必要。第二種（投資助言・代理）は3,000万円。銀行・保険会社は別途規定あり。"
+  },
+  {
+    "id": 209,
+    "category": "regulations",
+    "categoryLabel": "金融規制",
+    "question": "金融商品取引法に基づく「投資家分類」制度の目的は何か。",
+    "options": [
+      {
+        "text": "富裕度による投資家の分類のみ",
+        "correct": false
+      },
+      {
+        "text": "投資家のタイプ（プロフェッショナル vs 一般）に基づく規制・保護のレベル決定",
+        "correct": true
+      },
+      {
+        "text": "投資家タイプ別に異なる税率を設定",
+        "correct": false
+      },
+      {
+        "text": "日本への外国投資を制限",
+        "correct": false
+      }
+    ],
+    "explanation": "投資家分類制度は、投資家を「プロフェッショナル」（機関投資家や一定基準を満たす高純資産個人）と「一般」に分類。プロ投資家は保護が少ないが、より広範な商品にアクセス可能。"
+  }
+]

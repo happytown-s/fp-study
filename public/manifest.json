@@ -1,10 +1,10 @@
 {
-  "name": "FP Study",
-  "short_name": "FP Study",
-  "description": "Financial Planner 3rd Grade Exam Study App",
+  "name": "FP 3級 Study",
+  "short_name": "FP 3級",
+  "description": "ファイナンシャルプランナー3級 対策アプリ",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0f1117",
-  "theme_color": "#229954",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
   "icons": []
 }
